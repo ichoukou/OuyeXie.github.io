@@ -41,6 +41,11 @@ postgres=# \conninfo
 postgres=# \password ouyexie
 ```
 
+(optional)
+```
+postgres=# CREATE USER dbuser WITH PASSWORD 'password';
+```
+
 ```
 postgres=# CREATE DATABASE ouyexie OWNER ouyexie;
 ```
