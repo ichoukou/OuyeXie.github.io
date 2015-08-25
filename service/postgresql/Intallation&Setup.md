@@ -96,6 +96,22 @@ DROP TABLE
 </code>
 </div>
 
+# FAQ
+
+## psql: FATAL:  Peer authentication failed for user "shengupiao"
+
+http://blog.sina.com.cn/s/blog_581df0be0101ju3o.html
+
+local   all             postgres                                trust
+
+local   all             all                                     md5
+
+## psql: FATAL:  no pg_hba.conf entry for host "124.207.70.82", user "shengupiao", database "shengupiao", SSL on
+
+http://blog.csdn.net/luweifeng1983/article/details/3980141
+
+host    all             all             127.0.0.1/0            md5
+
 # Reference
 
 [1] http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html
