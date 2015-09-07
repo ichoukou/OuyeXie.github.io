@@ -47,4 +47,10 @@ do not forget:
 revoke shengupiao from postgres;
 ```
 
-now everything should be set;
+now everything should be set.
+
+if you want to do db-migrate (make sure host and port are configured correctly):
+
+```
+./node_modules/.bin/db-migrate up --env pre --verbose
+```
