@@ -34,6 +34,7 @@ git remote prune origin
 git fetch filod  
 git merge filod/master  
 git push filod ouyexie:migration
+git pull --rebase filod migration //quick way: http://www.yiibai.com/git/git_pull.html
 </code>
 </div>
 
