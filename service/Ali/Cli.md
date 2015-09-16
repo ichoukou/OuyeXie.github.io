@@ -51,7 +51,7 @@ by right this should return SecurityGroupId, which we have to record and use lat
 ## Authorize Security Group
 
 ```
-aliyuncli ecs AuthorizeSecurityGroup --SecurityGroupId mySecurityGroupId --SourceCidrIp 0.0.0.0/0 --IpProtocol tcp --PortRange 9200/9200
+aliyuncli ecs AuthorizeSecurityGroup --SecurityGroupId mySecurityGroupId --SourceCidrIp 0.0.0.0/0 --IpProtocol tcp --PortRange 9200/9300
 ```
 
 ## Describe Security Group Attribute
@@ -69,7 +69,7 @@ aliyuncli ecs DescribeSecurityGroups --RegionId cn-beijing
 ## Revoke Security Group (Unnecessary)
 
 ```
-aliyuncli ecs RevokeSecurityGroup --SecurityGroupId mySecurityGroupId --SourceCidrIp 0.0.0.0/0 --IpProtocol tcp --PortRange 9200/9200
+aliyuncli ecs RevokeSecurityGroup --SecurityGroupId mySecurityGroupId --SourceCidrIp 0.0.0.0/0 --IpProtocol tcp --PortRange 9200/9300
 ```
 
 ## Delete Security Group (Unnecessary)
@@ -114,3 +114,4 @@ aliyuncli ecs DescribeInstances --InstanceIds ["i-25faivxbm"] //cannot make this
  - https://docs.aliyun.com/?spm=5176.1970908.105.2.5Uu0Pe#/pub/aliyun-command-line-interface/quickStart/install-aliyun-command-line-interface
  - https://docs.aliyun.com/?spm=5176.1970908.105.2.5Uu0Pe#/pub/aliyun-command-line-interface/quickStart/configure-aliyun-command-line-interface
  - https://docs.aliyun.com/?spm=5176.1971658.105.2.86MaeY#/pub/ecs/open-api/instance&describeinstances
+ - http://help.aliyun.com/knowledge_detail/5974779.html?spm=5176.7189909.0.0.JT52NO
