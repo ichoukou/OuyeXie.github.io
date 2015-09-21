@@ -39,6 +39,12 @@ to run:
 db-migrate up -c 1
 ```
 
+to run with different config file:
+
+```
+./node_modules/.bin/db-migrate up --config config.json --env pg 
+```
+
 # References:
 
 https://github.com/db-migrate/node-db-migrate
