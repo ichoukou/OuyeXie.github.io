@@ -35,6 +35,7 @@ git fetch filod
 git merge filod/master  
 git push filod ouyexie:migration
 git pull --rebase filod migration //quick way: http://www.yiibai.com/git/git_pull.html
+git commit -a -m "test" --no-verify //skip pre-commit hook
 </code>
 </div>
 
@@ -63,3 +64,7 @@ H1$ ssh H2 mkdir /.ssh  H1$ scp ~/.ssh/id_rsa ~/.ssh/id_dsa H2:/.ssh/
 ```
 
 Warning! This will delete and replace any private key you have at H2.
+
+# Reference:
+
+ - http://codeinthehole.com/writing/tips-for-using-a-git-pre-commit-hook/

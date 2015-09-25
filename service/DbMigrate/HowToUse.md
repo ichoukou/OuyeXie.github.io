@@ -42,6 +42,10 @@ db-migrate up -c 1
 to run with different config file:
 
 ```
+./node_modules/.bin/db-migrate create add-answer-history --sql-file --config config.json --env pg
+```
+
+```
 ./node_modules/.bin/db-migrate up --config config.json --env pg 
 ```
 
