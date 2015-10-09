@@ -28,8 +28,16 @@ network.publish_host: 182.92.242.58 #this is my internet ip
 
 ### all JAVA_OPTS can be set in /etc/sysconfig/elasticsearch or even ./bin/elasticsearch.in.sh
 
+### current config
+
 ```
-ES_HEAP_SIZE=256m ./bin/elasticsearch -Des.logger.level=DEBUG >> /data/log/elasticsearch_20151004.log 2>& 1
+ES_HEAP_SIZE=400m ./bin/elasticsearch -Des.logger.level=DEBUG >> /data/log/elasticsearch_20151004.log 2>& 1
+```
+
+in elasticsearch.yml
+
+```
+#bootstrap.mlockall: true
 ```
 
 <b>now I use this config to test search engine collapsing problem (linux scanning)</b>
