@@ -13,5 +13,5 @@ network.publish_host: 182.92.242.58 #this is my internet ip
 # Command to start with specific log level
 
 ```
-./bin/elasticsearch -Des.loggerevel=DEBUG >> /data/log/elasticsearch_20151004.log 2>& 1
+./bin/elasticsearch -Des.logger.level=DEBUG >> /data/log/elasticsearch_20151004.log 2>& 1
 ```
