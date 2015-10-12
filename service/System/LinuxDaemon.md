@@ -18,11 +18,15 @@ links:
  - http://blog.csdn.net/az9009za/article/details/6082962
  
 cons: 
+
  - have to start manually upon rebooting Or add service script
  - envs
  
- ## script with crontab
+## script with crontab
+ 
+<b>I am now using this method</b>
 
 cons:
+
  - envs
  
