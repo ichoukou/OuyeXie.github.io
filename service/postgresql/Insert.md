@@ -1,0 +1,3 @@
+```
+INSERT INTO media (media_uuid, url, media_id) VALUES ('VHVlIFNlcCAyOSAyMDE1IDE1OjE5OjQzIEdNVCswODAwIChDU1QpOjpwcXY5XzY4dExjNDdXanNNc2Z6eGRIU2d6YTJ1dTlTdGRFODRucTlOR2l2TVVJY3U4VEJkWHFfOXVYdi1sRFeu', 'http://voice-answer.oss-cn-beijing.aliyuncs.com/voice/VHVlIFNlcCAyOSAyMDE1IDE1OjE5OjQzIEdNVCswODAwIChDU1QpOjpwcXY5XzY4dExjNDdXanNNc2Z6eGRIU2d6YTJ1dTlTdGRFODRucTlOR2l2TVVJY3U4VEJkWHFfOXVYdi1sRFeu', 'I do not have a media_id');
+```
