@@ -1,0 +1,3 @@
+```
+DEBUG=* node server
+```

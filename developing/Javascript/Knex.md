@@ -16,6 +16,14 @@ const db = knex({
 </code>
 </pre>
 
+# Issues
+
+Knex:Error Pool2 - Error: Handshake inactivity timeout
+
+## track this
+
+ - https://github.com/tgriesser/knex/issues/970
+
 # reference
 
  - http://knexjs.org/#Installation-pooling
