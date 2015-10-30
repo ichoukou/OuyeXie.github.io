@@ -36,6 +36,7 @@ git merge filod/master
 git push filod ouyexie:migration
 git pull --rebase filod migration //quick way: http://www.yiibai.com/git/git_pull.html
 git commit -a -m "test" --no-verify //skip pre-commit hook
+git reset --soft asdfasdf //when you mis-commit something (left something for example)
 </code>
 </div>
 
@@ -68,3 +69,4 @@ Warning! This will delete and replace any private key you have at H2.
 # Reference:
 
  - http://codeinthehole.com/writing/tips-for-using-a-git-pre-commit-hook/
+ - http://stackoverflow.com/questions/927358/how-do-you-undo-the-last-commit
