@@ -1,0 +1,3 @@
+ - [node_acl](https://github.com/optimalbits/node_acl)
+ - [用户权限管理](http://www.cnblogs.com/Gavinzhao/archive/2009/11/10/1599691.html)
+ - [How to Use Access Control Lists](http://symfony.com/doc/current/cookbook/security/acl.html)

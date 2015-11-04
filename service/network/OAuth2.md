@@ -1,0 +1,5 @@
+ - http://haomou.net/2014/08/13/2014_bare_token/
+ - http://www.haomou.net/2014/08/13/2014_web_token/
+ - https://blog.yorkxin.org/posts/2013/09/30/oauth2-6-bearer-token/
+ - https://developers.google.com/gmail/markup/actions/verifying-bearer-tokens
+ - http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html

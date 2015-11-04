@@ -1,0 +1,1 @@
+ - [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)

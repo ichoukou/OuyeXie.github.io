@@ -53,3 +53,6 @@ http://undefinedblog.com/react-router-0-13-3/
 
  - http://undefinedblog.com/react-router/
  - http://www.expressjs.com.cn/4x/api.html#router
+ - [A modern JavaScript router in 100 lines](http://krasimirtsonev.com/blog/article/A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url)
+ - [sammy.js](http://sammyjs.org/docs/routes)
+ - [React Router](https://github.com/rackt/react-router/blob/0.13.x/docs/guides/overview.md)

@@ -1,0 +1,2 @@
+ - [yield](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield)
+ - [function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)

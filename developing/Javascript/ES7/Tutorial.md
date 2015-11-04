@@ -1,0 +1,2 @@
+ - [ECMAScript 7 support in Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla)
+ - [你可能不再需要Underscore](http://www.css88.com/archives/tag/es7)

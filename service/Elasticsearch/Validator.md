@@ -1,0 +1,1 @@
+https://github.com/praized/lucene-query-validator/blob/master/src/luceneQueryValidator.js

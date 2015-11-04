@@ -1,0 +1,1 @@
+http://www.jdon.com/idea/js/javascript7.html

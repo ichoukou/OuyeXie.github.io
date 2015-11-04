@@ -19,4 +19,5 @@ try use local eslint instead of global ones, for example
 
 # Reference
 
-http://eslint.org/docs/user-guide/getting-started
+ - [getting started](http://eslint.org/docs/user-guide/getting-started)
+ - [rules](http://eslint.org/docs/rules/)

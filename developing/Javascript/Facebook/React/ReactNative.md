@@ -9,3 +9,5 @@
  
  - http://www.tuicool.com/articles/zaInUbA
  - https://github.com/jondot/awesome-react-native
+ 
+ - [React Native通信机制详解](http://www.cocoachina.com/ios/20150401/11458.html)

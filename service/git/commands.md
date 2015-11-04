@@ -34,9 +34,10 @@ git remote prune origin
 git fetch filod  
 git merge filod/master  
 git push filod ouyexie:migration
+git push filod ouyexie:migration
 git pull --rebase filod migration //quick way: http://www.yiibai.com/git/git_pull.html
 git commit -a -m "test" --no-verify //skip pre-commit hook
-git reset --soft asdfasdf //when you mis-commit something (left something for example)
+git reset --soft asdfasdf //when you mis-commit something (left something for example) (git commit -c ORIG_HEAD )
 </code>
 </div>
 

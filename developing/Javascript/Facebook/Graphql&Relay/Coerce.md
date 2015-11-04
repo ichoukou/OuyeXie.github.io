@@ -1,0 +1,4 @@
+ - https://github.com/graphql/graphql-js/issues/115
+ - https://github.com/graphql/graphql-js/issues/69
+ - https://github.com/graphql/graphql-js/issues/44
+ - https://github.com/graphql/graphql-js/pull/116

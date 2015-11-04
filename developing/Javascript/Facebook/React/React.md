@@ -1,0 +1,12 @@
+# Reference
+ 
+ - [Documentation](http://reactjs.cn/react/docs/getting-started.html)
+ - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
+ - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+ - [探索React生态圈](http://mt.sohu.com/20150809/n418463273.shtml)
+ - [ReactJS读书笔记一：深入理解JSX](http://blog.csdn.net/lihongxun945/article/details/45826851)
+ - [ReactJS读书笔记二：组件生命周期](http://blog.csdn.net/lihongxun945/article/details/46334379)
+ - [ReactJS读书笔记三：组件的组合和通信](http://blog.csdn.net/lihongxun945/article/details/46351095)
+ - [ReactJS读书笔记四：mixins](http://blog.csdn.net/lihongxun945/article/details/46416961)
+ - [ReactJS读书笔记五:DOM操作](http://blog.csdn.net/lihongxun945/article/details/46640225)
+ - [ReactJS学习笔记六：感想 - 为什么说Virtual DOM 是React的精髓所在](http://blog.csdn.net/lihongxun945/article/details/46640503)
