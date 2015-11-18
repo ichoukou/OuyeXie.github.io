@@ -1,1 +1,2 @@
-https://github.com/rackt/react-router/blob/0.13.x/docs/guides/overview.md
+ - [React Router Guide](https://github.com/rackt/react-router/blob/0.13.x/docs/guides/overview.md)
+ - [npm](https://www.npmjs.com/package/react-router)

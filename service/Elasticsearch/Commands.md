@@ -29,3 +29,9 @@ curl 182.92.242.58:9200/_cat/health
 ```
 curl 182.92.242.58:9288/_cat/health?v
 ```
+
+empty search
+
+```
+curl 'http://localhost:9288/stocks_v2/_search?pretty=true'
+```
