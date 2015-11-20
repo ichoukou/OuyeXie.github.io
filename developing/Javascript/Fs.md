@@ -1,1 +1,2 @@
-http://www.2cto.com/kf/201411/351586.html
+ - http://www.2cto.com/kf/201411/351586.html
+ - http://www.oschina.net/code/snippet_733736_45623
