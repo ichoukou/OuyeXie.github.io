@@ -58,6 +58,10 @@ curl 'http://localhost:9200/index/_analyze?analyzer=ik&pretty=true' -d '
 }'
 ```
 
+```
+curl 'http://localhost:9288/stocks/_analyze?analyzer=ik&pretty=true' -d ' { "text":"绿山咖啡" }'
+```
+
 ## References:
 
  - https://github.com/medcl/elasticsearch-analysis-ik

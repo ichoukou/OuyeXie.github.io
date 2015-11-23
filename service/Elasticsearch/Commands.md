@@ -35,3 +35,13 @@ empty search
 ```
 curl 'http://localhost:9288/stocks_v2/_search?pretty=true'
 ```
+
+fetch doc
+
+```
+curl 'http://localhost:9288/stocks_v2/stock/52152?pretty=true'
+```
+
+```
+curl 'http://localhost:9288/stocks_v2/stock/52152?pretty'
+```
