@@ -18,5 +18,8 @@
 
 箭头函数与传统函数最大的不同之处在，禁用new操作。
 
+The yield keyword may not be used in an arrow function's body (except when permitted within functions further nested within it).  As a consequence, arrow functions cannot be used as generators.
+
 # Reference
  - http://it.010lm.com/a/biancheng/JavaScript/71147.html
+ - https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/arrow_functions

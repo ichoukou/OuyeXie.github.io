@@ -10,3 +10,4 @@
  - [ReactJS读书笔记四：mixins](http://blog.csdn.net/lihongxun945/article/details/46416961)
  - [ReactJS读书笔记五:DOM操作](http://blog.csdn.net/lihongxun945/article/details/46640225)
  - [ReactJS学习笔记六：感想 - 为什么说Virtual DOM 是React的精髓所在](http://blog.csdn.net/lihongxun945/article/details/46640503)
+ - [React工具、资源、视频和实用内容集合：Awesome React](http://www.open-open.com/lib/view/open1414507074372.html)
