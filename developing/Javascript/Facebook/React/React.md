@@ -1,5 +1,6 @@
 # Reference
  
+ - [Documentation](http://facebook.github.io/react/docs/getting-started.html)
  - [Documentation](http://reactjs.cn/react/docs/getting-started.html)
  - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
  - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)

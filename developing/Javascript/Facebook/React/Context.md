@@ -1,1 +1,0 @@
-https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html
