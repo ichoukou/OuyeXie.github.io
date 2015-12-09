@@ -49,6 +49,13 @@ to run with different config file:
 ./node_modules/.bin/db-migrate up --config config.json --env pg 
 ```
 
+If you want to let db-migrate execute all down migrations you can also call:
+
+```
+db-migrate reset
+```
+
 # References:
 
-https://github.com/db-migrate/node-db-migrate
+ - https://github.com/db-migrate/node-db-migrate
+ - http://umigrate.readthedocs.org/projects/db-migrate/en/latest/Getting%20Started/the%20commands/

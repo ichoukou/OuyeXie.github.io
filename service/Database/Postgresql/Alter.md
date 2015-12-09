@@ -33,6 +33,18 @@ ALTER TABLE name
 </code>
 </pre>
 
+# Rename
+
+```
+ALTER INDEX SCno RENAME TO SCSno;
+```
+
+```
+alter table TABLE_01 rename to TABLE_10;
+```
+
 # Reference
 
  - http://blog.chinaunix.net/uid-15145533-id-2775847.html
+ - http://bbs.csdn.net/topics/391024303
+ - http://www.ehow.com/how_6109781_change-table-name-sql.html

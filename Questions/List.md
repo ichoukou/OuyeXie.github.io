@@ -1,0 +1,4 @@
+ - What is a Django DB?
+    - http://docs.jinkan.org/docs/celery/getting-started/brokers/index.html#broker-toc
+    - http://docs.jinkan.org/docs/celery/getting-started/first-steps-with-celery.html
+    - [Django ORM/Cache](http://docs.jinkan.org/docs/celery/django/first-steps-with-django.html)
