@@ -32,6 +32,10 @@
  - BATCH ACTIVITY ADD Allows you to add a single activity to multiple feeds with just 1 API request. Note that this batch method doesn't trigger a fanout. So the followers of these feeds won't receive an update
  - When importing both activities and follows, start with the activities. Your import will run substantially faster
  
+# Restful
+ 
+ - http://getstream.io/docs_rest/
+ 
 # Reference
 
  - http://getstream.io/docs/

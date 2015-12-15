@@ -33,6 +33,12 @@ ALTER TABLE name
 </code>
 </pre>
 
+# Drop not null
+
+```
+lter table financial_reports alter column industry drop not null;
+```
+
 # Rename
 
 ```
