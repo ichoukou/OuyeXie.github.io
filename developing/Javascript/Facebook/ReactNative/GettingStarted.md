@@ -1,0 +1,8 @@
+ - [setup a project](http://vczero.github.io/react_native/第1篇hello%20react-native.html)
+ - [setup environment](http://www.liaohuqiu.net/cn/posts/react-native-1/)
+ - [release (not detailed)](http://jingyan.baidu.com/article/154b4631724ad328ca8f4109.html)
+     - jsCodeLocation is in file AppDelegate.m
+ - Device
+     - [iOS 真机调试](http://my.oschina.net/imot/blog/512808)
+     - [使用Xcode 7 beta免费真机调试iOS应用程序](http://ju.outofmemory.cn/entry/182050)
+     - *[Xcode 真机调试教程](http://segmentfault.com/a/1190000000775168)
