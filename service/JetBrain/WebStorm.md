@@ -1,3 +1,7 @@
+# Keyboard
+
+ - go to file (shift command O)
+
 # FQA
 
  - How to enlarge memory use?
