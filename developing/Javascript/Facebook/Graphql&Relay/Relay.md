@@ -1,2 +1,4 @@
  - https://facebook.github.io/relay/docs/tutorial.html#content
  - https://facebook.github.io/relay/docs/getting-started.html#content
+ - [REQUIRED_CHILDREN](https://github.com/facebook/relay/issues/236)
+ - [Could not find a type name for record](https://github.com/facebook/relay/issues/474)
