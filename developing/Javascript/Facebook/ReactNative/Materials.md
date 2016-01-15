@@ -11,3 +11,5 @@
  - https://github.com/jondot/awesome-react-native
  
  - [React Native通信机制详解](http://www.cocoachina.com/ios/20150401/11458.html)
+ 
+ - [React Native: 把现代web科技带给移动开发者](http://bbs.reactnative.cn/topic/14/react-native-把现代web科技带给移动开发者)

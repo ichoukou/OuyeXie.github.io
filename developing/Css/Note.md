@@ -97,8 +97,14 @@ the later definition will complement the ones before and change the certain rule
  - @include arrow($size: 5px, $color: darken($chrome-color, 5%), $start: 15px);
     -http://cssarrowplease.com/
 
- -!important
+ - !important
 !important的出现就是为了让用户自己设置被执行语句的优先级
+
+ - !default
+sass的默认变量一般是用来设置默认值，然后根据需求来覆盖的，覆盖的方式也很简单，只需要在默认变量之前重新声明下变量即可
+
+ - !global
+从名称上看是一个全局变量，但和全面似乎没有太大区别，不过我们来换过一种测试效果，将!gobal放在内部，其也将会影响全局
 
  - -webkit-appearance : none ;
     - [来移除原生控件样式](http://www.daqianduan.com/4606.html)
@@ -117,3 +123,5 @@ the later definition will complement the ones before and change the certain rule
  - http://www.cnblogs.com/lykbk/archive/2012/08/09/huhu345545.html
  - http://www.css88.com/archives/5402
  - http://www.daqianduan.com/4606.html
+ - http://www.w3cplus.com/sassguide/syntax.html
+ - http://www.w3cplus.com/preprocessor/sass-bring-change.html

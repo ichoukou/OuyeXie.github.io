@@ -38,6 +38,10 @@ TABLE [ ONLY ] table_name [ * ]
 </code>
 </pre>
 
+```
+select * from users where mobile_phone_number IS NOT NULL;
+```
+
 # Reference
 
  - http://www.postgresql.org/docs/9.4/static/sql-select.html

@@ -17,3 +17,8 @@ $ cd ./src/native & npm i
 $ react-native start # ios
 $ react-native run-android
 ```
+
+# FAQ
+
+ - How to deal with "gulp native" problem during publish relay?
+    - checkout to master and "npm install", then checkout back, will be fine.

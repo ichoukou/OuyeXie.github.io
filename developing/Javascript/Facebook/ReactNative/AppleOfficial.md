@@ -8,3 +8,5 @@
     - [TestFlight](https://developer.apple.com/testflight/)
         - http://www.cocoachina.com/ios/20141022/10009.html
  - [Membership](https://developer.apple.com/support/membership/)
+ - [iTunes Connect](https://developer.apple.com/support/itunes-connect/)
+ - [TestFlight Beta Testing](https://developer.apple.com/testflight/)
