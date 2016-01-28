@@ -18,7 +18,29 @@ $ react-native start # ios
 $ react-native run-android
 ```
 
+```
+sudo gem install cocoapods 
+cd ios
+pod install
+npm start
+```
 # FAQ
 
  - How to deal with "gulp native" problem during publish relay?
     - checkout to master and "npm install", then checkout back, will be fine.
+ - file cannot found (RCTWechat.h)
+    - 2. 链接库文件到你的项目中
+      
+      参考 https://facebook.github.io/react-native/docs/linking-libraries-ios.html#content
+      
+      a. 给RCTWeChat添加头文件搜索路径：$(SRCROOT)/../../react-native/React，并选择recursive。
+      
+      b. 因为需要在 AppDelegate.m 文件中导入 RCTWeChat.h，所以需要在你的项目中添加一个头文件搜索路径： $(SRCROOT)/.      ./node_modules/react-native-wechat-ios/RCTWeChat，并选择recursive。
+ - need semicolon after class defination
+    - downgrade react-native's babel-core dependencies from 6.4
+          "babel-core": "6.3.21",
+          "babylon": "6.3.25",
+    - https://github.com/feross/standard/issues/372
+ - Jan 19 11:45:26 Ouyes-MacBook-Pro 神股票-DEBUG[24304]: Argument 0 (NSNumber) of RCTUIManager.updateView must not be null
+   Jan 19 11:45:26 Ouyes-MacBook-Pro 神股票-DEBUG[24304]: Argument 0 (<null>) of RCTUIManager.updateView could not be processed. Aborting method call.
+    - did you forget modify file transformer.js? also restart the debug server!

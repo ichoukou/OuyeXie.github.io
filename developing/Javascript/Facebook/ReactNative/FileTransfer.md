@@ -1,0 +1,1 @@
+ - https://github.com/kamilkp/react-native-file-transfer

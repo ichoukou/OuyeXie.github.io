@@ -1,7 +1,7 @@
 # Reference
  
  - [Documentation](http://facebook.github.io/react/docs/getting-started.html)
- - [Documentation](http://reactjs.cn/react/docs/getting-started.html)
+ - [Chinese Documentation (good)](http://reactjs.cn/react/docs/getting-started.html)
  - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
  - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
  - [探索React生态圈](http://mt.sohu.com/20150809/n418463273.shtml)
@@ -13,3 +13,4 @@
  - [ReactJS学习笔记六：感想 - 为什么说Virtual DOM 是React的精髓所在](http://blog.csdn.net/lihongxun945/article/details/46640503)
  - [React工具、资源、视频和实用内容集合：Awesome React](http://www.open-open.com/lib/view/open1414507074372.html)
  - [组件的详细说明和生命周期](http://reactjs.cn/react/docs/component-specs.html)
+ - [React China Community](http://react-china.org)

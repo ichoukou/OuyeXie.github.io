@@ -42,6 +42,14 @@ TABLE [ ONLY ] table_name [ * ]
 select * from users where mobile_phone_number IS NOT NULL;
 ```
 
+```
+select stock_comments.*, count(user_like_stock_comment_activities.id) as liked_count from stock_comments left join user_like_stock_comment_activities on stock_comments.id=user_like_stock_comment_activities.stock_comment_id where stock_comments.symbol='DD' and user_like_stock_comment_activities.liked=true group by stock_comments.id order by liked_count desc, stock_comments.updated_at desc;
+```
+
+```
+select stock_comments.*, count(user_like_stock_comment_activities.id) as liked_count from stock_comments left join user_like_stock_comment_activities on stock_comments.id=user_like_stock_comment_activities.stock_comment_id where stock_comments.symbol='DD' group by stock_comments.id order by liked_count desc, stock_comments.updated_at desc;
+```
+
 # Reference
 
  - http://www.postgresql.org/docs/9.4/static/sql-select.html

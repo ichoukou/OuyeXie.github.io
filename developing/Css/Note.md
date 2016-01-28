@@ -108,7 +108,20 @@ sass的默认变量一般是用来设置默认值，然后根据需求来覆盖�
 
  - -webkit-appearance : none ;
     - [来移除原生控件样式](http://www.daqianduan.com/4606.html)
-
+    
+ - cursor 一些不同的光标
+    - http://www.w3school.com.cn/cssref/pr_class_cursor.asp
+    
+ - z-index 属性设置元素的堆叠顺序。拥有更高堆叠顺序的元素总是会处于堆叠顺序较低的元素的前面。
+    - http://www.w3school.com.cn/cssref/pr_pos_z-index.asp
+    
+ - overflow 属性规定当内容溢出元素框时发生的事情
+    - http://www.w3school.com.cn/cssref/pr_pos_overflow.asp
+   
+ - class 顺序
+    - [结论：若同时应用多个class，后定义的优先（即近者优先），加上!important最优先！](http://blog.csdn.net/szwangdf/article/details/4219878)
+    - http://www.w3school.com.cn/css/css_selector_class.asp
+    
 # Reference
 
  - http://www.ruanyifeng.com/blog/2012/06/sass.html
@@ -125,3 +138,8 @@ sass的默认变量一般是用来设置默认值，然后根据需求来覆盖�
  - http://www.daqianduan.com/4606.html
  - http://www.w3cplus.com/sassguide/syntax.html
  - http://www.w3cplus.com/preprocessor/sass-bring-change.html
+ - http://www.w3school.com.cn/cssref/pr_class_cursor.asp
+ - http://www.w3school.com.cn/cssref/pr_pos_z-index.asp
+ - http://www.w3school.com.cn/cssref/pr_pos_overflow.asp
+ - http://blog.csdn.net/szwangdf/article/details/4219878
+ - http://www.w3school.com.cn/css/css_selector_class.asp

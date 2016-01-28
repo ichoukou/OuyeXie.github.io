@@ -16,6 +16,10 @@ getChildContext
 
 call apply (function is invoked) bind (return a function without calling it)
 
+call([thisObj[,arg1[, arg2[,   [,.argN]]]]]) 
+
+apply([thisObj[,argArray]]) 
+
 # Reference
 
  - http://my.oschina.net/blogshi/blog/265415
@@ -23,3 +27,4 @@ call apply (function is invoked) bind (return a function without calling it)
  - https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html
  - http://blog.csdn.net/xxb2008/article/details/7862956
  - http://www.cnblogs.com/cosiray/p/4512969.html
+ - http://uule.iteye.com/blog/1158829

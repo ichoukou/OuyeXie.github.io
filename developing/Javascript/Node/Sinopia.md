@@ -12,6 +12,10 @@ sinopia
 npm set registry http://localhost:4873/
 ```
 
+```
+npm set registry http://123.56.89.3:4873/
+```
+
 rollback(npm config set registry "http://registry.npmjs.org")
 
 ```
