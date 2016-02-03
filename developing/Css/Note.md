@@ -122,6 +122,19 @@ sass的默认变量一般是用来设置默认值，然后根据需求来覆盖�
     - [结论：若同时应用多个class，后定义的优先（即近者优先），加上!important最优先！](http://blog.csdn.net/szwangdf/article/details/4219878)
     - http://www.w3school.com.cn/css/css_selector_class.asp
     
+ - transform 属性向元素应用 2D 或 3D 转换。该属性允许我们对元素进行旋转、缩放、移动或倾斜。
+    - http://www.w3school.com.cn/cssref/pr_transform.asp
+    
+ - pointer-events
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
+    
+ - -webkit-overflow-scrolling : touch; 快速滚动和回弹的效果
+    - http://blog.csdn.net/hursing/article/details/9186199
+    
+ - aria-hidden="true" 为了避免 屏幕识读设备抓取非故意的和可能产生混淆的输出内容（尤其是当图标纯粹作为装饰用途时），我们为这些图标设置了 aria-hidden="true" 属性。
+    - http://www.imooc.com/qadetail/62014
+
+    
 # Reference
 
  - http://www.ruanyifeng.com/blog/2012/06/sass.html
@@ -143,3 +156,4 @@ sass的默认变量一般是用来设置默认值，然后根据需求来覆盖�
  - http://www.w3school.com.cn/cssref/pr_pos_overflow.asp
  - http://blog.csdn.net/szwangdf/article/details/4219878
  - http://www.w3school.com.cn/css/css_selector_class.asp
+ - http://www.w3school.com.cn/cssref/pr_transform.asp
