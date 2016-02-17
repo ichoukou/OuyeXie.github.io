@@ -28,6 +28,8 @@ network.publish_host: 182.92.242.58 #this is my internet ip
 
 ### all JAVA_OPTS can be set in /etc/sysconfig/elasticsearch or even ./bin/elasticsearch.in.sh
 
+in our case /etc/default/elasticsearch
+
 ### current config
 
 ```
@@ -46,3 +48,4 @@ in elasticsearch.yml
 
  - http://www.zihou.me/html/2014/01/16/9050.html
  - http://www.tuicool.com/articles/Nryu2i
+ - http://article.yeeyan.org/view/207217/336824

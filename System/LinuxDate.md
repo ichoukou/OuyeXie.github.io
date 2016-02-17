@@ -1,4 +1,4 @@
-to get date in secs:
+to get date in secs (ts):
 
 ```
 date +%s
@@ -15,3 +15,7 @@ but it is on linux, to do it in OX:
 ```
 echo $(($(date +%s)*1000))
 ```
+
+# Reference
+
+ - http://www.jb51.net/LINUXjishu/227114.html

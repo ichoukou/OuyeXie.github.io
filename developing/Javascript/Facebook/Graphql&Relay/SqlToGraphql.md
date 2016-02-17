@@ -1,0 +1,1 @@
+https://github.com/vaffel/sql-to-graphql

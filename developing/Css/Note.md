@@ -133,7 +133,16 @@ sass的默认变量一般是用来设置默认值，然后根据需求来覆盖�
     
  - aria-hidden="true" 为了避免 屏幕识读设备抓取非故意的和可能产生混淆的输出内容（尤其是当图标纯粹作为装饰用途时），我们为这些图标设置了 aria-hidden="true" 属性。
     - http://www.imooc.com/qadetail/62014
-
+ 
+ - -webkit-tap-highlight-color 当用户点击iOS的Safari浏览器中的链接或JavaScript的可点击的元素时，覆盖显示的高亮颜色。
+    - http://www.css88.com/webkit/-webkit-tap-highlight-color/
+    
+ - perspective, -webkit-perspective 属性定义 3D 元素距视图的距离，以像素计。该属性允许您改变 3D 元素查看 3D 元素的视图。
+    - http://www.w3school.com.cn/cssref/pr_perspective.asp
+ - cubic-bezier 
+    - http://www.candoudou.com/archives/590
+    - http://www.w3.org/TR/css3-transitions/#transition-timing-function_tag
+    - http://cubic-bezier.com/
     
 # Reference
 
@@ -157,3 +166,8 @@ sass的默认变量一般是用来设置默认值，然后根据需求来覆盖�
  - http://blog.csdn.net/szwangdf/article/details/4219878
  - http://www.w3school.com.cn/css/css_selector_class.asp
  - http://www.w3school.com.cn/cssref/pr_transform.asp
+ - http://www.css88.com/webkit/-webkit-tap-highlight-color/
+ - http://www.w3school.com.cn/cssref/pr_perspective.asp
+ - http://www.candoudou.com/archives/590
+ - http://www.w3.org/TR/css3-transitions/#transition-timing-function_tag
+ - http://cubic-bezier.com/
