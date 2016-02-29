@@ -1,2 +1,3 @@
  - [React Router Guide](https://github.com/rackt/react-router/blob/0.13.x/docs/guides/overview.md)
  - [npm](https://www.npmjs.com/package/react-router)
+ - [isActive](https://github.com/reactjs/react-router/blob/b60d6c0351ff91cf04bccdac8c4b6e976aec94ec/docs/API.md)

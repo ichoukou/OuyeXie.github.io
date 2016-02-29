@@ -12,6 +12,10 @@ to connect:
 redis-cli
 ```
 
+```
+redis-cli -a "##shengupiao##"
+```
+
 to list all keys:
 
 ```

@@ -7,6 +7,7 @@
  - [react-history](https://github.com/rackt/react-router/blob/master/docs/guides/basics/Histories.md)
     - [Deprecation: Replaced context.history with context.router]https://github.com/rackt/react-router/blob/45c064ba12d78a016305aa5f3e18c7c148255953/CHANGES.md
     - [context.router](https://github.com/rackt/react-router/blob/1139f81cac591457a38eabed83ac9cc8a17a0423/docs/API.md)
+ - [isActive(not included in history but react-router)](https://github.com/reactjs/react-router/blob/b60d6c0351ff91cf04bccdac8c4b6e976aec94ec/docs/API.md)
  
  
 Reference:
