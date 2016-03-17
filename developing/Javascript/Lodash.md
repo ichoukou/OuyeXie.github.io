@@ -1,0 +1,2 @@
+ - [Chinese](http://lodashjs.com/docs/)
+ - [Latest](https://lodash.com/docs)

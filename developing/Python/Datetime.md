@@ -1,0 +1,3 @@
+ - https://pypi.python.org/pypi/python-dateutil/2.5.0
+ - [Datetime中offset-naive与offset-aware时间的计算](http://www.dannysite.com/blog/185/)
+ - [Can't subtract offset-naive and offset-aware datetimes](http://stackoverflow.com/questions/796008/cant-subtract-offset-naive-and-offset-aware-datetimes)

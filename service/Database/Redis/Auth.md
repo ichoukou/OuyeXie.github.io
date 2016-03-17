@@ -14,6 +14,10 @@ requirepass ##shengupio##
 redis-cli -a \#\#shengupio\#\#
 ```
 
+```
+redis-cli -a thereisnospoon
+```
+
 # Connect with then-redis
 
 ```

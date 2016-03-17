@@ -1,0 +1,5 @@
+ - https://github.com/gimite/web-socket-js
+ - http://www.jb51.net/article/49060.htm
+ - [如何在node的express中使用socket.io](http://www.jb51.net/article/58514.htm)
+ - [Node.js、Express、Socket.io 入门](http://www.cnblogs.com/sword-successful/p/4987124.html)
+ - [Socket.io](https://github.com/socketio/socket.io)

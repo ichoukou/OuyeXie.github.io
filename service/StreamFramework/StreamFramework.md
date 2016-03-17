@@ -41,3 +41,4 @@ https://stream-framework.readthedocs.org/en/latest/background_tasks.html
 
 # Reference
  - https://stream-framework.readthedocs.org/en/latest/
+ - [Build a scalable feed using Stream-Framework and Django (not about how to set up)](http://www.mellowmorning.com/2013/10/18/scalable-pinterest-tutorial-feedly-redis/)

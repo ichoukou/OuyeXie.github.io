@@ -23,6 +23,7 @@ mongo infinity -u shengupiao -p ####
 
 # Reference
 
+ - [built-in roles](https://docs.mongodb.org/manual/reference/built-in-roles/#built-in-roles)
  - [create](https://docs.mongodb.org/manual/reference/method/db.createUser/#db.createUser)
  - [roles](http://www.jb51.net/article/53830.htm)
  - [js module](http://cnodejs.org/topic/53ad10aca087f45620c4cf5d)

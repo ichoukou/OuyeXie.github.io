@@ -39,5 +39,7 @@
 # Reference
 
  - http://getstream.io/docs/
+ - [REST DOCUMENTATION ADVANCED DOCUMENTATION FOR API CLIENT DEVELOPERS](http://getstream.io/docs_rest/#first)
  - https://github.com/GetStream/stream-node
  - https://github.com/GetStream/stream-js
+ - http://blog.getstream.io

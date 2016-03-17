@@ -378,3 +378,4 @@ resize	规定是否可由用户对元素的尺寸进行调整。	3
 # Reference
  - http://www.ruanyifeng.com/blog/2012/06/sass.html
  - http://www.w3school.com.cn/css/css_intro.asp
+ - [Sass带来的变革](http://www.w3cplus.com/preprocessor/sass-bring-change.html)

@@ -1,1 +1,2 @@
-https://github.com/elastic/elasticsearch-js
+ - https://github.com/elastic/elasticsearch-js
+ - [setup logging](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/logging.html)
