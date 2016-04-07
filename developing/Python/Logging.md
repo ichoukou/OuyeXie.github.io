@@ -1,1 +1,2 @@
-http://www.cnblogs.com/dkblog/archive/2011/08/26/2155018.html
+ - [detailed tutorial](http://blog.chinaunix.net/uid-26000296-id-4372063.html)
+ - http://www.cnblogs.com/dkblog/archive/2011/08/26/2155018.html

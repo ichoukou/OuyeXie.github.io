@@ -2,3 +2,24 @@ pip 官網的說法，pip 改善了不少 easy_install 的缺點，如此說來 
 
  - http://my.oschina.net/swrite/blog/298051
  - http://blog.csdn.net/xifeijian/article/details/12576455
+ 
+Using pip and requirements.txt to install from the HEAD of a Github branch
+ - http://pip.readthedocs.org/en/1.1/requirements.html
+ - http://codeinthehole.com/writing/using-pip-and-requirementstxt-to-install-from-the-head-of-a-github-branch/)
+ - http://stackoverflow.com/questions/32354249/pip-requirements-txt-github-repo-django-app
+ 
+Unable to Uninstall Program : Own by OS
+ - http://askubuntu.com/questions/647919/unable-to-uninstall-program-own-by-os
+    - sudo rm -rf /usr/lib/python2.7/dist-packages/six-1.5.2.egg-info
+
+Pip install
+
+<pre>
+$ pip install SomePackage            # latest version
+$ pip install SomePackage==1.0.4     # specific version
+$ pip install 'SomePackage>=1.0.4'     # minimum version
+</pre>
+ 
+# Command
+ - http://www.aikaiyuan.com/6918.html
+ - https://pip.pypa.io/en/stable/user_guide/#installing-packages
