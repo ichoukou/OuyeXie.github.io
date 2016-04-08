@@ -32,8 +32,20 @@
     - it seems that there is no off-line computation included in this tutorial
         - maybe at the startup phase? then how to update the data? 
         - maybe calculate on the fly every time a request comes in?
-    - [more detailed original docs](https://mahout.apache.org/users/recommender/recommender-documentation.html)
- 
+    - Algorithms
+        - [Recommender Overview](https://mahout.apache.org/users/algorithms/recommender-overview.html)
+        - [Intro to Cooccurrence Recommenders with Spark](https://mahout.apache.org/users/algorithms/intro-cooccurrence-spark.html)
+    - Mahout Mapreduce
+        - [Creating a User-Based Recommender in 5 minutes](https://mahout.apache.org/users/recommender/userbased-5-minutes.html)
+        - [Introduction to Matrix Factorization for Recommendation Mining](https://mahout.apache.org/users/recommender/matrix-factorization.html)
+        - [Overview](https://mahout.apache.org/users/recommender/recommender-documentation.html)
+                - Runtime Performance
+                    - Use CachingRecommender on top of your custom Recommender implementation.
+                    - When using JDBCDataModel, make sure you wrap it with the ReloadFromJDBCDataModel to load data into memory
+                - Algorithm Performance: Which One Is Best?
+        - [Introduction to Item-Based Recommendations with Hadoop](https://mahout.apache.org/users/recommender/intro-itembased-hadoop.html)
+        - [Introduction to ALS Recommendations with Hadoop](https://mahout.apache.org/users/recommender/intro-als-hadoop.html)
+        
 # Packages
 
 ## annotations

@@ -63,6 +63,12 @@ get string
 get key
 ```
 
+delete key
+
+```
+del key
+```
+
 type of value
 
 ```
@@ -79,6 +85,12 @@ HVALS key
 
 ```
 ZRANGE key start stop [WITHSCORES] 
+```
+
+移除有序集 key 中的一个或多个成员，不存在的成员将被忽略
+
+```
+ZREM key member [member ...]
 ```
 
 返回列表 key 中指定区间内的元素，区间以偏移量 start 和 stop 指定
