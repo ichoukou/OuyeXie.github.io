@@ -1,0 +1,2 @@
+ - [高盛金融中心](http://cd.fang.anjuke.com/loupan/250819.html)
+    - [rent](http://cd.zu.anjuke.com/?t=1&from=0&comm_exist=on&kw=高盛金融中心&cw=高盛金融中心)
