@@ -83,6 +83,16 @@
 
 ## 面积大小
 ## 装修
+
+ - [精装修](http://baike.baidu.com/link?url=CCwbjj5O-jbI3tcs-4LWL0yfdnowUFI-263ga-0YcvTuU2oV8lzZLD3lzBiLXRsLv1WQatVwYtWKR7GPFdjklq)
+    - 标准不一样,万科的装修一般都有样板间,样板间里面会有标示告诉你哪些有哪些没有,谢谢
+    - !!!精装价格包含在总价里,可以靠贷款!!!
+        - 但是,价差可以体现在首付上,做便宜的装修应该也够用了
+       - 精装房的装修费用可是包括在你的贷款里的哦，毛坯房装修是要全额付的，这对第一套房而言，从经济上是很有竞争力的。
+ - [买毛坯房好还是精装修房好？](http://www.zhihu.com/question/23523243)
+    - 出租的话，别二话，坚决精装，出租不就图个干净、简单，坐地收钱嘛。有那些磨洋工装修的精力和时间不如早点现房出租，另外省出的时间用来出租，可能足够精装和自己装得价格差了。
+ - [112m2, 13w 案例](http://www.ourun.cc/a/zhuangxiuanli/jingdiananli/20160317/2256.html)
+    - [598/m2](http://www.ourun.cc/a/zhuangxiufangshi/598taocan/)
 ## 产权
 ## 期房/现房/二手
 ## 物业费 (too tiny)
