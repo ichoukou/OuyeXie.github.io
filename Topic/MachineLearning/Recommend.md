@@ -97,6 +97,25 @@
     - [cold-start-recommender](https://github.com/elegans-io/cold-start-recommender)
         - [csrec-webapp](https://github.com/elegans-io/csrec-webapp)
         - suits our requirements, dig into source code more
+            - algorithm item_based:
+                - Compute recommendation to user using item co-occurrence matrix (if the user
+                  rated any item...)
+                - If there are less than max_recs recommendations, the remaining
+                  items are given according to popularity. Scores for the popular ones
+                  are given as score[last recommended]*index[last recommended]/n
+                  where n is the position in the list.
+                - Recommended items above receive a further score according to categories
+    - [fMf-cold-start-CF](https://github.com/ameyavilankar/fMf-cold-start-CF)
+        - just an implementation, not too many docs
+    - [atfm_bpr](https://github.com/fenixlin/atfm_bpr)
+        - Bayesian Personalized Ranking Model with Attribute-to-Feature Mappings for Cold-Start Recommendation
+        - This is a simple implementation for paper Learning Attribute-to-Feature Mappings for Cold-Start Recommendations.
+            - [Learning Attribute-to-Feature Mappings for Cold-Start Recommendations](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F11081926BBBDD830718C7AAA347FCB3?doi=10.1.1.187.5933&rep=rep1&type=pdf)
+                - In real-world recommender systems, such cold-start prob- lems1 are often solved by switching to a different, purely content-based method when encountering entirely new enti- ties; other options are to present just the most popular items to new users and to randomly present new items to the users in order to gather collaborative information about those new entities.
+                - [BPR [Bayesian Personalized Ranking] 算法详解及应用实践](http://liuzhiqiangruc.iteye.com/blog/2073526)
+                - [矩阵分解（MATRIX FACTORIZATION）在推荐系统中的应用](http://www.tuicool.com/articles/RV3m6n)
+                - [](http://www.360doc.com/content/11/0614/11/6681447_126825192.shtml)
+                - new-item recommendation task
  
  - java
     - [lenskit](https://github.com/lenskit/lenskit)
@@ -177,3 +196,8 @@
 # Reference
 
  - [apache mahout](http://mahout.apache.org)
+ - new users
+     - [Addressing the New User Problem with a Personality Based User Similarity Measure](http://ceur-ws.org/Vol-740/UMMS2011_paper6.pdf)
+     - [Learning Preferences of New Users in Recommender Systems: An Information Theoretic Approach](glaros.dtc.umn.edu/gkhome/fetch/papers/rashidWebKDD08.pdf)
+     - [Onboarding New Users in Recommender Systems](http://grouplens.org/blog/onboarding-new-users-in-recommender-systems/)
+     - [Dealing with the new user cold-start problem in recommender systems: A comparative review](http://www.sciencedirect.com/science/article/pii/S0306437914001525)

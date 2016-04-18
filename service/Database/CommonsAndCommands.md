@@ -1,0 +1,5 @@
+ - [CREATE TABLE 表名 AS SELECT 语句](http://ears.iteye.com/blog/1470605)
+ - [事务与存储过程是什么关系?](http://zhidao.baidu.com/link?url=I9wcHI7_Pq7oGAzT2BMCBXKjDP8C6ZCP2cVAvLRxczmdk9jBkZBNAs7Ia8_WpYImhPuzMj7ttqonPh--UV_COK)
+ - [数据库与数据仓库的区别](http://zhidao.baidu.com/link?url=5LYC8kH8woxDXw1fkHfOx8gwTjP1wULOXmemUssNtsAEt7VAk-sapw5UlSNiMxKyGlpiLUJaknp7NcB-TvZEs_)
+ - [浅析数据仓库与数据库的区别](http://ms.sit.edu.cn/s/8/t/157/a/15382/info.jspy)
+ - [Data Warehouse(数据仓库)以及几个概念](http://www.cnblogs.com/eva_2010/archive/2011/06/09/2076392.html)
