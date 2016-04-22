@@ -4,6 +4,14 @@
 select cast('2015-10-01 00:00:00' as datetime) as new_date from user;
 ```
 
+```
+INSERT OVERWRITE TABLE user_meta PARTITION (ds='20160101')
+SELECT 'u1' AS user_id
+    , concat('age', '\003', '18') AS tags
+FROM dual;
+```
+
+
 # Commons
 
  - [数据生命周期管理](数据生命周期管理)
@@ -32,3 +40,4 @@ select cast('2015-10-01 00:00:00' as datetime) as new_date from user;
 
  - [ODPS简介](https://help.aliyun.com/document_detail/odps/summary/summary.html?spm=5176.docodps/summary/welcome.6.89.Fs1Hug)
  - [ODPS技术架构及应用实践](http://www.csdn.net/article/2014-10-20/2822184)
+ - [数据格式规范](https://help.aliyun.com/document_detail/shujia/RE/dataspec/datauploadspec.html?spm=5176.docshujia/RE/startup/re-startup-pre2.6.263.8I7AGp)
