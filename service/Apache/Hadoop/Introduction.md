@@ -1,0 +1,1 @@
+ - [《Hadoop基础教程》之初识Hadoop](http://blessht.iteye.com/blog/2095675)

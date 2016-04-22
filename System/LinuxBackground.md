@@ -1,0 +1,3 @@
+ - http://www.cyberciti.biz/faq/linux-command-line-run-in-background/
+ - http://www.cnblogs.com/xlmeng1988/archive/2012/06/04/jobs.html
+    - bg,将一个在后台暂停的命令，变成继续执行

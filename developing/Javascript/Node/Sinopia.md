@@ -40,7 +40,9 @@ npm publish --registry=http://127.0.0.1:4873/
 # Fqa
 
  - npm ERR! publish fail Cannot publish over existing version.
-     - npm unpublish --force --registry=http://127.0.0.1:4873/
+    - npm unpublish --force --registry=http://127.0.0.1:4873/
+ - run as service
+    - https://github.com/rlidwka/sinopia/blob/master/SERVER.md
 
 # Reference
 

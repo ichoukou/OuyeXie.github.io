@@ -1,0 +1,2 @@
+ - [hive mapjoin使用](http://blog.csdn.net/xqy1522/article/details/6699740)
+    - MAPJION会把小表全部读入内存中，在map阶段直接拿另外一个表的数据和内存中表数据做匹配，由于在map是进行了join操作，省去了reduce运行的效率也会高很多
