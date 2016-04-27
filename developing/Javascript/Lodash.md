@@ -1,2 +1,4 @@
  - [Chinese](http://lodashjs.com/docs/)
  - [Latest](https://lodash.com/docs)
+ - [Lodash 4.0.0 更新文档](http://www.tuicool.com/articles/mAfqIrv)
+ - [You Might Not Need Underscore](https://www.reindex.io/blog/you-might-not-need-underscore/)

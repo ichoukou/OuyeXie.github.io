@@ -48,3 +48,4 @@ npm publish --registry=http://127.0.0.1:4873/
 
  - https://github.com/rlidwka/sinopia
  - http://stackoverflow.com/questions/22636885/howto-publish-private-projects-to-sinopia-npm-adduser-for-private-registry-fail
+ - [Sinopia | 从零开始搭建npm仓库](http://www.wtoutiao.com/p/1f0pl01.html)
