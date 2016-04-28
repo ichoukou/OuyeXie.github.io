@@ -1,5 +1,7 @@
 # OK 
 
+!!!新区南 向市内方向最好!!!
+
  - 成达佳园
      - [150-95w](http://cd.lianjia.com/ershoufang/CDWH91186157.html)
         - 一套改两套
@@ -16,6 +18,10 @@
  - 绿杨新邨
     - [138-107w](http://cd.lianjia.com/ershoufang/CDJN90916895.html)
     - [138-z3200](http://cd.lianjia.com/zufang/c3011053933674/?sug=绿杨新邨)
+ 
+ - 融城理想
+    - [96 118w](http://cd.lianjia.com/ershoufang/CDGX89548576.html)
+        - rent 3000+
 
  - 天鹅湖北苑
      - [124-106w](http://cd.lianjia.com/ershoufang/CDGX91532265.html)
@@ -48,3 +54,6 @@
      - [141 86w](http://cd.lianjia.com/ershoufang/CDGX90092878.html)
      - rent 2500-3000
     
+ - 中海兰庭
+     - [98 93w](http://cd.lianjia.com/ershoufang/CDTF91558494.html)
+        - 赠送下来110
