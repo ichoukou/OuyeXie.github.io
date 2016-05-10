@@ -23,7 +23,13 @@ curl "http://182.92.242.58:9200/stocks_v1/_alias/*"
 delete alias
 
 ```
-curl -X DELETE 'localhost:9288/stocks_v1448595514307/_alias/stocks_test'
+curl -X DELETE 'localhost:9288/stocks_v1462848181683/_alias/stocks'
+```
+
+add alias
+
+```
+curl -X PUT 'localhost:9288/stocks_v1462856285284/_alias/stocks'
 ```
 
 check mapping
