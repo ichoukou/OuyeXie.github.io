@@ -1,1 +1,2 @@
-http://www.iteye.com/topic/481228/
+ - [regex](http://www.iteye.com/topic/481228/)
+ - [greedy](http://www.cppblog.com/biao/archive/2010/02/05/107298.html)

@@ -1,1 +1,2 @@
-https://github.com/tensorflow/tensorflow
+ - https://github.com/tensorflow/tensorflow
+ - http://www.tensorflow.org
