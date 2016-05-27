@@ -1,0 +1,5 @@
+ - [gem常用命令](http://my.oschina.net/u/923974/blog/99060)
+    - gem help install
+    - gem unistall cocoapods
+    - sudo gem install cocoapods -v 1.0.0.beta.4 --prerelease
+    - pod _1.0.0.beta.4_ install
