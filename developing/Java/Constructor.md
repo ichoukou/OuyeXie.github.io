@@ -1,0 +1,1 @@
+http://www.programcreek.com/2013/01/constructor-can-throw-exceptions-in-java/

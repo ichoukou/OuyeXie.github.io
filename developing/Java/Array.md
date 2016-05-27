@@ -1,0 +1,2 @@
+ - [java - Fastest way to check if a byte array is all zeros](http://stackoverflow.com/questions/23824364/fastest-way-to-check-if-a-byte-array-is-all-zeros/23824753)
+    - check answer 0

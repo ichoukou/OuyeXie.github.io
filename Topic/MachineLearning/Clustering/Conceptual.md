@@ -1,0 +1,2 @@
+ - [Conceptual clustering](https://en.wikipedia.org/wiki/Conceptual_clustering)
+ - [Cobweb (clustering)](https://en.wikipedia.org/wiki/Cobweb_(clustering))

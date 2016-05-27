@@ -1,0 +1,4 @@
+ - transcaction
+    - [JDBC之七——事物处理transaction ](http://blog.sina.com.cn/s/blog_885b4ace0100z92z.html)
+ - crud 
+    - [使用JDBC执行 select insert update delete](http://yuncode.net/code/c_53e113f867bb427)

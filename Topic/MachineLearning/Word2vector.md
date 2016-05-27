@@ -1,0 +1,2 @@
+ - [word2vec](https://code.google.com/archive/p/word2vec/)
+ - [文本深度表示模型Word2Vec](http://wei-li.cnblogs.com/p/word2vec.html)

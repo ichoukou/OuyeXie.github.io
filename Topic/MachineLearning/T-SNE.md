@@ -1,0 +1,15 @@
+ - [t-SNE降维方法](http://blog.sina.com.cn/s/blog_45e6be080102uww8.html)
+ 
+ - [SOM T-SNE PCA](https://www.researchgate.net/post/Which_is_the_best_method_to_handle_the_high_dimensional_data_during_the_clustering_process)
+     - [t-SNE](http://homepage.tudelft.nl/19j49/t-SNE.html)
+     - [t-SNE(there are implementations in different languages)](http://lvdmaaten.github.io/tsne/) 
+     - [Clustering high-dimensional data](http://en.wikipedia.org/wiki/Clustering_high-dimensional_data)
+        - Four problems need to be overcome for clustering in high-dimensional data:[1]
+            - Multiple dimensions are hard to think in, impossible to visualize, and, due to the exponential growth of the number of possible values with each dimension, complete enumeration of all subspaces becomes intractable with increasing dimensionality. This problem is known as the curse of dimensionality.
+            - The concept of distance becomes less precise as the number of dimensions grows, since the distance between any two points in a given dataset converges. The discrimination of the nearest and farthest point in particular becomes meaningless:
+            \lim_{d \to \infty} \frac{dist_\max - dist_\min}{dist_\min} = 0
+            - A cluster is intended to group objects that are related, based on observations of their attribute's values. However, given a large number of attributes some of the attributes will usually not be meaningful for a given cluster. For example, in newborn screening a cluster of samples might identify newborns that share similar blood values, which might lead to insights about the relevance of certain blood values for a disease. But for different diseases, different blood values might form a cluster, and other values might be uncorrelated. This is known as the local feature relevance problem: different clusters might be found in different subspaces, so a global filtering of attributes is not sufficient.
+            - Given a large number of attributes, it is likely that some attributes are correlated. Hence, clusters might exist in arbitrarily oriented affine subspaces.
+        - Approaches
+            - Projected clustering seeks to assign each point to a unique cluster, but clusters may exist in different subspaces. The general approach is to use a special distance function together with a regular clustering algorithm.
+            For example, the PreDeCon algorithm checks which attributes seem to support a clustering for each point, and adjusts the distance function such that dimensions with low variance are amplified in the distance function.[6] In the figure above, the cluster c_c might be found using DBSCAN with a distance function that places less emphasis on the x-axis and thus exaggerates the low difference in the y-axis sufficiently enough to group the points into a cluster.
