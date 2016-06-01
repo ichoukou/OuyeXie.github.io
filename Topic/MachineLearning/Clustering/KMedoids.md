@@ -1,0 +1,3 @@
+ - [数据挖掘聚类算法之K-MEDOIDS](http://blog.sina.com.cn/s/blog_5fc375650100jdec.html)
+ - [漫谈 Clustering (2): k-medoids](http://blog.sina.com.cn/s/blog_890c6aa3010138py.html)
+    - 一个最直接的理由就是 k-means 对数据的要求太高了，它使用欧氏距离描述数据点之间的差异 (dissimilarity) ，从而可以直接通过求均值来计算中心点。这要求数据点处在一个欧氏空间之中。

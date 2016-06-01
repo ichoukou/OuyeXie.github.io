@@ -1,0 +1,2 @@
+ - [Clustering on Graphs: The Markov Cluster Algorithm (MCL)](http://www.cs.ucsb.edu/~xyan/classes/CS595D-2009winter/MCL_Presentation2.pdf)
+ - [MCL - a cluster algorithm for graphs](http://micans.org/mcl/)

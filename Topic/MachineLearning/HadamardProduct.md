@@ -1,0 +1,1 @@
+ - [Hadamard product (matrices)](http://www.blogjava.net/waiteryee1/articles/367839.html)
