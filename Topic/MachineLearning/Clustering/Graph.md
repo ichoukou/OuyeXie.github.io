@@ -8,3 +8,5 @@
  - [复杂网络聚类方法](http://jos.org.cn/ch/reader/create_pdf.aspx?file_no=3464&journal_id=jos)
  
  - [复杂网络聚类算法研究](http://wenku.baidu.com/link?url=D66eiggdTXki0VgdQt854QaSQuR_DaEGJZAVqNx9bOSyFxq06BsCE4IYGdGJKeJM1CYNXzpYijmG0LYLBhoUM2D0lA6I5zo9OZ1KCgTLLqm)
+    - hits (page 33)
+    - cpm (识别重叠网络簇) (指数阶)

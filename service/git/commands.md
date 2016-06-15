@@ -55,6 +55,7 @@ git push --tags
 git push origin :/refs/tags/tagname  
 git ls-remote --tags origin  
 git push origin --delete tag <tagname>
+git tag -v <tagname>
 </code>
 </div>
 

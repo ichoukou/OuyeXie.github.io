@@ -1,0 +1,10 @@
+ - [cypher-schema](http://neo4j.com/docs/developer-manual/current/#cypher-schema)
+    - CREATE CONSTRAINT ON (book:Book) ASSERT book.isbn IS UNIQUE
+    - DROP CONSTRAINT ON (book:Book) ASSERT book.isbn IS UNIQUE
+    - CREATE INDEX ON :Person(name)
+    - DROP INDEX ON :Person(name)
+ - [Neo4j Index Notes](http://www.cnblogs.com/zhoujiagen/p/4740972.html)
+ - [Neo4j: Step by Step to create an automatic index](http://stackoverflow.com/questions/12877678/neo4j-step-by-step-to-create-an-automatic-index)
+ - [On Neo4j Indexes, Match & Merge](http://www.tuicool.com/articles/ENVnumQ)
+ - [Neo4j - Is there a cypher query syntax to list (show) all indexes in DB?](http://stackoverflow.com/questions/19801599/neo4j-is-there-a-cypher-query-syntax-to-list-show-all-indexes-in-db)
+    - :schema
