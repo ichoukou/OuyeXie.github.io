@@ -9,3 +9,6 @@
     - List<String> list2 = new ArrayList<String> ();  list2.addAll(set);  
     
  - [Set.toArray方法——用Set集合中的所有对象创建一个数组](http://book.2cto.com/201309/31817.html)
+ 
+ - [JAVA数组初始化](http://wenwen.sogou.com/z/q69635729.htm)
+    - string[] str = new string[]{1,2,3}       或       string[] str = {1,2,3}              二维数组初始化       int[][] a={{1,2,3},{2,3,4},{1,0}}
