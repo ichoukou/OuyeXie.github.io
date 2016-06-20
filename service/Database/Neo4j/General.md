@@ -70,8 +70,9 @@ match (a:Investor{code:'80000007'})-[r:Invest]->(b) return a,r.amount,b order by
 ```
 
 ```
-match (a:Investor)-[r:Invest]->(b) where r.publishint>=20160101 return a,count(r),max(r.rpayamt) order by a.rpayamt20160101 DESC limit 200
-match (a:Investor)-[r:Invest]->(b) where r.publishint>=20160101 return a,r.rpayamt,r.publishdate order by a.rpayamt20160101 DESC, r.rpayamt DESC limit 10000
+match (a:Investor)-[r:Invest]->(b) where r.publishint>=20150617 return a,count(r),max(r.rpayamt) order by a.rpayamt365 DESC limit 200
+match (a:Investor)-[r:Invest]->(b) where r.publishint>=20150617 return a,r.rpayamt,r.publishdate order by a.rpayamt365 DESC, r.rpayamt DESC limit 10000
+match (a:Investor{code:'80547893'})-[r:Invest]->(b) return a,r,b
 ```
 
 # Tools

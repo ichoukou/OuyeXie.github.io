@@ -1,0 +1,2 @@
+ - [How to convert String to JSONObject in Java](http://stackoverflow.com/questions/5245840/how-to-convert-string-to-jsonobject-in-java)
+    - Using org.json library: JSONObject jsonObj = new JSONObject("{\"phonetype\":\"N95\",\"cat\":\"WP\"}");

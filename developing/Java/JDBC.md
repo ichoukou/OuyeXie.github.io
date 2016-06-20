@@ -1,4 +1,11 @@
+ - [Postgresql JDBC Driver](https://jdbc.postgresql.org/documentation/documentation.html)
  - transcaction
     - [JDBC之七——事物处理transaction ](http://blog.sina.com.cn/s/blog_885b4ace0100z92z.html)
+    - [JDBC PreparedStatement example – Batch Update](http://www.mkyong.com/jdbc/jdbc-preparedstatement-example-batch-update/)
+    - [Using Transactions](https://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html)
+ - jsonb
+    - [INSERTING JSON DATA INTO POSTGRES USING JDBC DRIVER](http://www.pateldenish.com/2013/05/inserting-json-data-into-postgres-using-jdbc-driver.html)
+ - date
+    - [JDBC中的date类型 ](http://blog.163.com/qiuzhixin_momo/blog/static/350708652011430102751595/)
  - crud 
     - [使用JDBC执行 select insert update delete](http://yuncode.net/code/c_53e113f867bb427)
