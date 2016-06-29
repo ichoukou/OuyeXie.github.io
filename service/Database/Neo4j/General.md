@@ -62,6 +62,24 @@ MATCH (n)-[:invest]-(x)-[:invest]-(m) WHERE n.code = "80129233" AND m.code = "80
 MATCH (a)-[r:Similarity]-(b) DELETE r
 ```
 
+ - set and remove labels (will not affect the old/unmentioned labels)
+ 
+```
+MATCH (n { name: 'Emil' })
+SET n :Swedish:Bossman
+RETURN n
+
+MATCH (n { name: 'Peter' })
+REMOVE n:German:Swedish
+RETURN n
+```
+
+ - regex
+ 
+```
+merge (a:Entity) where a.name=~'.*郁金香.*' return a
+```
+
  - fetch data accordingly
  
 ```

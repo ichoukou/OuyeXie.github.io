@@ -1,0 +1,5 @@
+E.g. is short for exempli gratia, a Latin phrase which means “for the sake of example.” You would use it to introduce one or more examples. Don’t worry about listing every possibility; e.g. is used to introduce a few examples, not a complete list. In general, you add a comma after e.g. and between each subsequent example if there are more than one. If you want your examples set apart from rest of the sentence, you can enclose e.g. and your examples in parentheses. Would you like to see e.g. in action?
+
+What about i.e.? A lot of people confuse this expression with e.g. I.e. also comes from Latin; it stands for id est, which translates to English as “that is to say” or “in other words.” Some people remember this by associating the I of i.e. with the I of “in other words,” or by imagining that the I and E stand for “in essence.”
+
+ - [Know your Latin: i.e. vs. e.g.](https://www.grammarly.com/blog/know-your-latin-i-e-vs-e-g/)

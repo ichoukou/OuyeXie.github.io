@@ -13,3 +13,7 @@ nvm alias default 4.2.0
 ```
 nvm use default
 ```
+
+```
+nvm install 6.2.2
+```

@@ -1,0 +1,2 @@
+ - [HOW TO BREAK DOWN A PROJECT](http://www.todolistsoft.com/solutions/howtos/how-to-break-down-project.php)
+ - [How can I learn to break down a big software project into more manageable tasks in terms of progress monitoring?](http://pm.stackexchange.com/questions/3815/how-can-i-learn-to-break-down-a-big-software-project-into-more-manageable-tasks)

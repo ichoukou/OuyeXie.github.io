@@ -1,0 +1,3 @@
+ - [【机器学习基础】梯度提升决策树](http://blog.jasonding.top/2015/07/24/Machine%20Learning/【机器学习基础】梯度提升决策树/)
+ - [机器学习中的算法(1)-决策树模型组合之随机森林与GBDT](http://www.cnblogs.com/LeftNotEasy/archive/2011/03/07/1976562.html)
+    - GBDT这个算法还有一些其他的名字，比如说MART(Multiple Additive Regression Tree)，GBRT(Gradient Boost Regression Tree)，Tree Net等
