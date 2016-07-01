@@ -1,3 +1,15 @@
+
+++++++++++++++++++++++++++++++++++++
+
+ - [前复权和后复权的区别](http://zhidao.baidu.com/question/362537986.html)
+    - 复权是指有送股/转增股票/配股的股票恢复除权前的价位，向前复权就是保持现价不变，把历史价折合成相当于现价的价格。向后复权就是保持起点价格（历史价格）不变，把现价折合成相对历史起点的价格。简单方法辨别就是向前现价不变，向后现价变化。
+ - [除权除息是什么意思?](http://zhidao.baidu.com/question/269732088.html)
+    - 因应发放股票股利或现增而向下调整股价就是除权，因应发放现金股利而向下调整股价就是除息
+ - [什么是并股](http://zhidao.baidu.com/link?url=ooHowrMzI7r30-KBYKme4iq1UxmEKjicvmNgSyJm7JstzZiYoIR4OOG5Qeh7giHkdv3KHdan4Dgn9ZhOY24lva)
+    - 并股又称合股，指的是把两股或多股合成一股的财务操作手法，对于上市公司来说是一种躲避退市的方法。
+ - [什么叫拆股？拆股有什么用？](http://zhidao.baidu.com/link?url=6yXBy5MLBeO4CDCd9rarXM-1n5rFKZ0CO4n-tei7WtndwxD4E2OD24yB2F65_y46FAjlGN81JQUpqtLzq5JpZ_)
+    - 简单的说拆股就是将股票进行切割，使股价降低。 
+
 ++++++++++++++++++++++++++++++++++++
 
 基金持牌人
