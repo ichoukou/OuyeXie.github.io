@@ -48,6 +48,16 @@ sudo update-alternatives  --install  /usr/bin/javap javap /usr/local/jdk1.8.0_51
 </code>
 </div>
 
+# install from ppa (not tested)
+
+<pre>
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+java -version
+</pre>
+
 # Reference
 
 - http://my.oschina.net/u/1407116/blog/227084
+- https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-service.html

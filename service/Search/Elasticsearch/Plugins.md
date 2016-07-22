@@ -76,13 +76,13 @@ curl 'http://localhost:9288/stocks/_analyze?analyzer=ik&pretty=true' -d ' { "tex
 <code>
 git clone git@github.com:bosondata/elasticsearch-analysis-bosonnlp.git
 
-cd elasticsearch-analysis-ik
+cd elasticsearch-analysis-bosonnlp
 
 git checkout -b 1.0.0-beta origin/1.0.0-beta # as we are using es1.7.*
 
 mvn clean package
 
-plugin --install analysis-ik --url file:///#{project_path}/elasticsearch-analysis-bosonnlp/target/releases/elasticsearch-analysis-bosonnlp-1.3.0.zip
+plugin --install elasticsearch-analysis-bosonnlp --url file:///#{project_path}/elasticsearch-analysis-bosonnlp/target/releases/elasticsearch-analysis-bosonnlp-1.3.0.zip
 
 OR YOU CAN JUST INSTALL FROM RELEASE
 
@@ -97,10 +97,6 @@ WHERE IS PLUGIN? /usr/share/elasticsearch/bin
  - make sure use .zip to install as it includes all dependencies (XXX-jar-with-dependencies.jar may also work but did
   not try)
  - mvn sometimes cannot work with ik's parents, make sure you have the correct maven version
-
-### config 
-
-copy elasticsearch-analysis-ik/config/ik into ES-HOME/config/ik (create dir if there was not any)
 
 ### edit elasticsearch.yml
 

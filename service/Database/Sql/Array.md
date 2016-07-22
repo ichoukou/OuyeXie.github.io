@@ -15,3 +15,5 @@ select * from topics where array['t', 'f'] <@ tags;
 # Reference
 
  - http://my.oschina.net/Kenyon/blog/133974
+    - && overlap
+    - <@ contained by

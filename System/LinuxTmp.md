@@ -1,0 +1,2 @@
+ - http://serverfault.com/questions/377348/when-does-tmp-get-cleared
+ - http://blog.sina.com.cn/s/blog_962f1c150101g4rz.html

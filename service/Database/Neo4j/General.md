@@ -80,6 +80,24 @@ RETURN n
 merge (a:Entity) where a.name=~'.*郁金香.*' return a
 ```
 
+ - add label (will not remove original labels)
+ 
+```
+merge (a:Entity{name:'金志华'}) set a:Manager
+```
+
+ - How to find node with no incoming relationship in neo4j
+
+```
+neo4j-sh (?)$ MATCH (s:Student) WHERE NOT (s)<-[:TEACHES]-(:Teacher) RETURN s
+```
+ 
+ - avoid cartesian product
+ 
+```
+match (a:Entity{name:'asdfasdf'}) with a match (b:Entity{name:'asdfasdf1'}) merge (a)-[c:Test{id:2}]->(b) set c.id=5
+```
+
  - fetch data accordingly
  
 ```
@@ -103,6 +121,7 @@ match (a:Investor{code:'80547893'})-[r:Invest]->(b) return a,r,b
 # Reference
 
  - [Neo4j Documentation](http://neo4j.com/docs/) 
+     - [The Neo4j Operations Manual v3.0](http://neo4j.com/docs/operations-manual/current/)
      - [The Neo4j Developer Manual v3.0](http://neo4j.com/docs/developer-manual/current/)
         - [collect](http://www.ttlsa.com/nosql/how-to-neo4j-cypher-query-language/)
         - [percentile](http://www.2cto.com/database/201210/162822.html)
@@ -110,5 +129,9 @@ match (a:Investor{code:'80547893'})-[r:Invest]->(b) return a,r,b
      - [Graph Visualization with Neo4j](http://neo4j.com/graph-visualization-neo4j/)
      - [Using Neo4j from Java](http://neo4j.com/developer/java/)
  - [How to delete/create databases in Neo4j?](http://stackoverflow.com/questions/4498523/how-to-delete-create-databases-in-neo4j)
+    - rm -rf /data/neo4j/data/databases/graph.db (dbms has the auth data)
  - [Neo4J get node by ID](http://stackoverflow.com/questions/22369520/neo4j-get-node-by-id)
  - [Adding relationship to existing nodes with Cypher](http://stackoverflow.com/questions/20456002/adding-relationship-to-existing-nodes-with-cypher)
+ - [How to find node with no incoming relationship in neo4j](http://stackoverflow.com/questions/23196123/how-to-find-node-with-no-incoming-relationship-in-neo4j)
+ - [10 Caveats Neo4j Users Should Be Familiar With](https://dzone.com/articles/10-caveats-neo4j-users-should)
+ - [Optimizing Cypher Queries in Neo4j](http://www.slideshare.net/neo4j/optimizing-cypher-32550605)

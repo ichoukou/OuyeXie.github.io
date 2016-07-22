@@ -18,7 +18,11 @@ Pip install
 $ pip install SomePackage            # latest version
 $ pip install SomePackage==1.0.4     # specific version
 $ pip install 'SomePackage>=1.0.4'     # minimum version
+$ pip2 install SomePackage           # install into python2.*/dist-package
+$ pip3 install SomePackage           # install into python3.*/dist-package
 </pre>
+
+
  
 # Command
  - http://www.aikaiyuan.com/6918.html

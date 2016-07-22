@@ -11,7 +11,11 @@ sudo pip install aliyun-python-sdk-ecs
 ```
 
 ```
-aliyuncli ecs --help
+aliyuncli ecs help
+```
+
+```
+aliyuncli ecs DescribeRegions help
 ```
 
 ```
