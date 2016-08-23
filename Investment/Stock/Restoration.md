@@ -1,0 +1,1 @@
+ - [股票的复权价如何计算](http://stock.cngold.org/shuyu/c2297680.html)

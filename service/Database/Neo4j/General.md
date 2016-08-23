@@ -111,6 +111,14 @@ match (a:Investor)-[r:Invest]->(b) where r.publishint>=20150617 return a,r.rpaya
 match (a:Investor{code:'80547893'})-[r:Invest]->(b) return a,r,b
 ```
 
+ - match multiple relationships
+ 
+```
+MATCH (a:Entity)-[r1:Invest]-(b:Entity)
+MATCH (a:Entity)-[r2:Sell]-(b:Entity)
+RETURN a, b
+```
+
 # Tools
 
  - Tableau

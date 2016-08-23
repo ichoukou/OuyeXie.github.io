@@ -3,6 +3,7 @@
  - set 
     - new Set()
     - use object with only keys
+    - [Set](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Set)
  - [JavaScript Array 对象](http://www.w3school.com.cn/jsref/jsref_obj_array.asp)
  - [How to convert Set to Array?](http://stackoverflow.com/questions/20069828/how-to-convert-set-to-array)
     - let array = Array.from(mySet);

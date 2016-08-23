@@ -28,3 +28,5 @@ curl -l -H "Content-type: application/json" -X POST -d '[{"feed":"notification:1
 # Reference
 
  - http://blog.csdn.net/iefreer/article/details/8280345
+ - [How to send a header using a HTTP request through a curl call?](http://stackoverflow.com/questions/356705/how-to-send-a-header-using-a-http-request-through-a-curl-call)
+ - [wget/curl查看请求响应头信息](http://www.tuicool.com/articles/A7BRny)

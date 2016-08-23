@@ -1,1 +1,2 @@
 - [三个以上的表JOIN起来](http://bbs.csdn.net/topics/40157741)
+- [SQL: 一对多的关系中如何Join成一行](http://www.cnblogs.com/multiplesoftware/archive/2011/03/25/1994987.html)

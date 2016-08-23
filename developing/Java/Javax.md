@@ -1,0 +1,3 @@
+ - [Java Code Examples for javax.ws.rs.Path](http://www.javased.com/index.php?api=javax.ws.rs.Path)
+ - [页面质量反馈 在线文档查看:   1.1.1 @ jsr311-api](http://www.boyunjian.com/javadoc/javax.ws.rs/jsr311-api/1.1.1/_/javax/ws/rs/Path.html)
+ - [Handling dynamic query parameter in CXF restful webservice](http://stackoverflow.com/questions/35846163/handling-dynamic-query-parameter-in-cxf-restful-webservice)

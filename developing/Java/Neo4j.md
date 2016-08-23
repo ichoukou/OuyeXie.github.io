@@ -10,4 +10,9 @@
  - [Optimizing high volume batch inserts into Neo4j using REST](http://stackoverflow.com/questions/19839469/optimizing-high-volume-batch-inserts-into-neo4j-using-rest)
  
  - [Interface Session](http://alpha.neohq.net/docs/java-driver/org/neo4j/driver/v1/Session.html)
+ - [Interface Session](http://neo4j.com/docs/api/java-driver/current/index.html?org/neo4j/driver/v1/Session.html)
     - Session objects are not thread safe, if you want to run concurrent operations against the database, simply create multiple sessions objects.
+    
+ - Exception
+    - [Resolve issue where pooled connections could leak if exception occurred](https://github.com/neo4j/neo4j-java-driver/pull/167)
+        - That'll bubble up to the application layer - but this is good, if the pool rejects the connection return, that's a fatal problem that should get reported to the user. IllegalStateException happens whenever the pool state is corrupted, so this is good.

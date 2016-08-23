@@ -1,0 +1,2 @@
+ - [Java基础_内部类、静态内部类、成员内部类、局部内部类、匿名内部类 （转）](http://www.cnblogs.com/nliao/p/3308690.html)
+ - [java中关于内部类的使用详解](http://www.jb51.net/article/36125.htm)

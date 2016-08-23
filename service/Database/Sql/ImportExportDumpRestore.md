@@ -49,3 +49,5 @@ CREATE TABLE local_management (
  - http://www.postgresql.org/docs/9.4/interactive/backup-dump.html
  - [CSV文件如何导入数据到一个Postgres表？](http://qa.helplib.com/121172)
  - [How to import CSV file data into a PostgreSQL table?](http://stackoverflow.com/questions/2987433/how-to-import-csv-file-data-into-a-postgresql-table)
+ - [postgresql导出sql执行结果到文件的方法](http://blog.sina.com.cn/s/blog_840dd283010178jz.html)
+ - [PgSql备份pg_dump与还原手记pg_restore（转）](http://rainbow702.iteye.com/blog/1318741)

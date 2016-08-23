@@ -13,6 +13,10 @@ curl -X DELETE "http://localhost:9288/stocks_v9"
 check alias
 
 ```
+curl "http://127.0.0.1:9200/*/_alias/*"
+```
+
+```
 curl "http://182.92.242.58:9200/*/_alias/stocks"
 ```
 

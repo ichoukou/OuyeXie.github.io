@@ -1,0 +1,45 @@
+ - [Design Patterns in Java Tutorial](http://www.tutorialspoint.com/design_pattern/)
+    - Creational Patterns   
+        - Factory pattern
+        - Abstract Factory patterns
+        - Singleton pattern
+        - Builder pattern
+        - Prototype pattern
+            - cloneable interface
+            - Hashtable
+    - Structural Patterns
+        - Adapter pattern
+        - Bridge Pattern
+            - decouple an abstraction from its implementation so that the two can vary independently
+            - This pattern involves an interface which acts as a bridge which makes the functionality of concrete classes independent from interface implementer classes
+        - Filter pattern or Criteria pattern
+        - Composite pattern
+            - This pattern creates a class that contains group of its own objects
+        - Decorator pattern
+            - This pattern creates a decorator class which wraps the original class and provides additional functionality keeping class methods signature intact
+        - Facade pattern
+        - Flyweight pattern
+            - similar to our logFactory
+        - Proxy pattern
+            - we create object having original object to interface its functionality to outer world
+    - Behavioral Patterns
+        - Chain of Responsibility Pattern
+        - Command pattern
+            - ```public class BuyStock implements Order { private Stock abcStock;```
+        - Interpreter pattern
+            - This pattern involves implementing an expression interface which tells to interpret a particular context. This pattern is used in SQL parsing, symbol processing engine etc.
+        - Iterator pattern
+        - Mediator pattern
+            - provides a mediator class which normally handles all the communications between different classes and supports easy maintenance of the code by loose coupling
+        - Memento pattern
+            - Memento contains state of an object to be restored. Originator creates and stores states in Memento objects and Caretaker object is responsible to restore object state from Memento
+        - Observer pattern
+            - Observer pattern is used when there is one-to-many relationship between objects such as if one object is modified
+            - Subject is an object having methods to attach and detach observers to a client object
+        - State pattern
+            - we create objects which represent various states and a context object whose behavior varies as its state object changes
+        - Null Object pattern
+            - Null Object reflects a do nothing relationship. Such Null object can also be used to provide default behaviour in case data is not available
+    - J2EE Patterns
+ 
+ - [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)

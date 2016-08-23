@@ -6,3 +6,6 @@
     
  - [NEO4J - Installing, Running and the Shell!](http://technoracle.blogspot.hk/2012/04/neo4j-installing-running-and-shell.html)
     - install linux version into a MAC and use the neo4j-shell
+    
+ - [3.9. Execution plans](http://neo4j.com/docs/developer-manual/current/cypher/#execution-plans)
+    - profile

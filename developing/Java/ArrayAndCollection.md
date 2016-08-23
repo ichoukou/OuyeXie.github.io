@@ -10,6 +10,12 @@
     
  - [Set.toArray方法——用Set集合中的所有对象创建一个数组](http://book.2cto.com/201309/31817.html)
  
+ - [java中数组与List相互转换的方法](http://blog.csdn.net/justfornn413/article/details/5348203)
+    - String[] arr = (String[])list.toArray(new String[size]);
+    
+    - String[] arr = new String[] {"1", "2"};
+    - List list = Arrays.asList(arr);
+ 
  - [JAVA数组初始化](http://wenwen.sogou.com/z/q69635729.htm)
     - string[] str = new string[]{1,2,3}       或       string[] str = {1,2,3}              二维数组初始化       int[][] a={{1,2,3},{2,3,4},{1,0}}
     
@@ -37,6 +43,8 @@ public class Test {
     };
 }
 </pre>
+
+ - [Java技巧之双括弧初始化](http://blog.csdn.net/ligaoyang/article/details/4410379)
 
  - [For initializing a map in Java 8](http://stackoverflow.com/questions/507602/how-can-i-initialize-a-static-map/37384773#37384773)
 <pre>
@@ -85,3 +93,7 @@ Map<Double, List<String>> rankings = new TreeMap<>(new Comparator() {
             }
         });
 </pre>
+
+ - [Java的HashMap和HashTable](http://www.cnblogs.com/devinzhang/archive/2012/01/13/2321481.html)
+    - Hashtable 中的方法是同步的，而HashMap中的方法在缺省情况下是非同步的。在多线程并发的环境下，可以直接使用Hashtable，但是要使用HashMap的话就要自己增加同步处理了。
+    - Hashtable中，key和value都不允许出现null值。

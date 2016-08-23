@@ -15,6 +15,13 @@
  - what is "react-native start"?
      - [React Native实战（一）：配置和起步](http://www.csdn.net/article/2015-09-24/2825787-react-native)
      - 不管是 iOS 还是 Android，在开发调试阶段，都需要在 Mac 上启动一个 HTTP 服务，称为“Debug Server”，默认运行在 8081 端口，APP 通 Debug Server 加载 js。
+ - react-native start --reset-cache
+ - react-native start -- --reset-cache
+    - reset cache
  - AppRegistry
      - 将这一行加在文件末尾, React.AppRegistry.registerComponent('PropertyFinderApp', function() { return PropertyFinderApp });
        AppRegistry 定义了App的入口，并提供了根组件。
+ - How to test in simulator with online data?
+    - update AppDelegate.m
+          jsCodeLocation = [NSURL URLWithString:@"http://localhost:8081/index.ios.bundle?platform=ios&dev=false"];
+    - [How to build react-native minified “prod” app for simulator?](http://stackoverflow.com/questions/32894025/how-to-build-react-native-minified-prod-app-for-simulator)
