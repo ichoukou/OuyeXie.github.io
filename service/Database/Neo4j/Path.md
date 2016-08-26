@@ -10,6 +10,14 @@ MATCH p=(a:Main {code:'80446036'})-[r:Invest*1..3]-(b:Main) RETURN p, length(p) 
 MATCH p=(a:Main {code:'80092742'})-[r:Invest*1..4]-(b:Main {code:'80092743'}) RETURN p, length(p) as l order by l DESC
 </pre>
 
+# multiple path
+
+```
+MATCH p=(a:Entity)-[o:Own*0..1]->(b)-[m:Manage*0..1]->(c)-[i:Invest*1..2]->(d:Stock) WHERE a.code='haihangxi' RETURN p
+```
+
+Only requires: the last node has label 'Stock'
+
 # Reference
  
  - http://stackoverflow.com/questions/14814124/get-all-routes-between-two-nodes-neo4j

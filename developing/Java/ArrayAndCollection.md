@@ -1,3 +1,11 @@
+ - [Java入门记(四)：容器关系的梳理（上）——Collection](http://www.cnblogs.com/wuyuegb2312/p/3867293.html)
+ - [Java入门记(五)：容器关系的梳理（下）——Map](http://www.cnblogs.com/wuyuegb2312/p/4458468.html)
+ 
+ - [Class EnumSet<E extends Enum<E>>](http://docs.oracle.com/javase/7/docs/api/java/util/EnumSet.html)
+    - public abstract class EnumSet<E extends Enum<E>>
+      extends AbstractSet<E>
+      implements Cloneable, Serializable
+ 
  - [java - Fastest way to check if a byte array is all zeros](http://stackoverflow.com/questions/23824364/fastest-way-to-check-if-a-byte-array-is-all-zeros/23824753)
     - check answer 0
     
@@ -65,23 +73,6 @@ private static final Map<Integer, String> myMap = Stream.of(
 
  - [Map 值增加的最高效的方法 —— 只一次搜索键](http://www.oschina.net/translate/most-efficient-way-to-increment-a-map-value-in-java-only-search-the-key-once)
  - [Map 按值排序 (Map sort by value) - Java](http://blog.csdn.net/srjklssj/article/details/6324880)
- - [Java TreeMap的排序（转）](http://blog.sina.com.cn/s/blog_530fe9870100l5oy.html)
-<pre>
-TreeMap<String, String> treeMap2 = new TreeMap<String, String>(new Comparator<String>(){  
-  
-            /* 
-             * int compare(Object o1, Object o2) 返回一个基本类型的整型， 
-             * 返回负数表示：o1 小于o2， 
-             * 返回0 表示：o1和o2相等， 
-             * 返回正数表示：o1大于o2。 
-             */  
-            public int compare(String o1, String o2) {  
-              
-                //指定排序器按照降序排列  
-                return o2.compareTo(o1);  
-            }     
-        }); 
-</pre>
  - [TreeMap按照key排序](http://huangqiqing123.iteye.com/blog/1461163)
 <pre>
 Map<Double, List<String>> rankings = new TreeMap<>(new Comparator() {
@@ -94,6 +85,56 @@ Map<Double, List<String>> rankings = new TreeMap<>(new Comparator() {
         });
 </pre>
 
+<pre>
+package test.tool.gui.common;  
+  
+import java.util.Comparator;  
+import java.util.TreeMap;  
+  
+public class Test {  
+      
+    public static void main(String[] args) {  
+          
+        //不指定排序器  
+        TreeMap<String, String> treeMap1 = new TreeMap<String, String>();  
+        treeMap1.put("2", "1");  
+        treeMap1.put("b", "1");  
+        treeMap1.put("1", "1");  
+        treeMap1.put("a", "1");  
+        System.out.println("treeMap1="+treeMap1);  
+  
+        //指定排序器  
+        TreeMap<String, String> treeMap2 = new TreeMap<String, String>(new Comparator<String>(){  
+  
+            /* 
+             * int compare(Object o1, Object o2) 返回一个基本类型的整型， 
+             * 返回负数表示：o1 小于o2， 
+             * 返回0 表示：o1和o2相等， 
+             * 返回正数表示：o1大于o2。 
+             */  
+            public int compare(String o1, String o2) {  
+              
+                //指定排序器按照降序排列  
+                return o2.compareTo(o1);  
+            }     
+        });  
+        treeMap2.put("2", "1");  
+        treeMap2.put("b", "1");  
+        treeMap2.put("1", "1");  
+        treeMap2.put("a", "1");  
+        System.out.println("treeMap2="+treeMap2);  
+    }  
+} 
+
+treeMap1={1=1, 2=1, a=1, b=1}  
+treeMap2={b=1, a=1, 2=1, 1=1} 
+
+</pre>
+
  - [Java的HashMap和HashTable](http://www.cnblogs.com/devinzhang/archive/2012/01/13/2321481.html)
     - Hashtable 中的方法是同步的，而HashMap中的方法在缺省情况下是非同步的。在多线程并发的环境下，可以直接使用Hashtable，但是要使用HashMap的话就要自己增加同步处理了。
     - Hashtable中，key和value都不允许出现null值。
+    
+ - [What's the simplest way to print a Java array?](http://stackoverflow.com/questions/409784/whats-the-simplest-way-to-print-a-java-array)
+    - Arrays.toString(doubleArray)
+    - Arrays.deepToString(deepArray)
