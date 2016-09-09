@@ -1,3 +1,11 @@
  - [Amazon Interview Questions](https://www.careercup.com/page?pid=amazon-interview-questions&job=sde-2-interview-questions&topic=coding-interview-questions)
+    - [max cluster](https://www.careercup.com/question?id=5098159661383680)
+        - 4 neighbours
+    - [replace node values](https://www.careercup.com/question?id=5630160432791552)
+        - children mean all children
+    - [perfect power](https://www.careercup.com/question?id=5454925876166656)
+        - log
+        - check<0.0000000001
+    
  - [Some Amazon Interview Questions](http://www.jiansnet.com/topic/23012/Amazon-Manager-Interview)
  - [发几道面试题](http://bbs.csdn.net/topics/320187282)

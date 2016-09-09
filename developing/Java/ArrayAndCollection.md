@@ -146,3 +146,5 @@ treeMap2={b=1, a=1, 2=1, 1=1}
  - [What's the simplest way to print a Java array?](http://stackoverflow.com/questions/409784/whats-the-simplest-way-to-print-a-java-array)
     - Arrays.toString(doubleArray)
     - Arrays.deepToString(deepArray)
+    
+ - [Java 7之集合类型 - Vector与Stack](http://www.2cto.com/kf/201402/280227.html)
