@@ -1,6 +1,14 @@
  - [Java入门记(四)：容器关系的梳理（上）——Collection](http://www.cnblogs.com/wuyuegb2312/p/3867293.html)
  - [Java入门记(五)：容器关系的梳理（下）——Map](http://www.cnblogs.com/wuyuegb2312/p/4458468.html)
- 
+    - [解析WeakHashMap与HashMap的区别详解](http://www.jb51.net/article/36948.htm)
+        - WeakHashMap，此种Map的特点是，当除了自身有对key的引用外，此key没有其他引用那么此map会自动丢弃此值
+    - [深入理解WeakHashmap](http://mikewang.blog.51cto.com/3826268/880775/)
+        - 引用对象的四种分类：
+          1. 强引用（Strong Reference）
+          2. 弱引用（Weak Reference）
+          3. 软引用（Soft Reference）
+          4. 幻象引用（Phantom Reference）
+          
  - [Class EnumSet<E extends Enum<E>>](http://docs.oracle.com/javase/7/docs/api/java/util/EnumSet.html)
     - public abstract class EnumSet<E extends Enum<E>>
       extends AbstractSet<E>

@@ -13,6 +13,10 @@
     
     后注：经过大家的指正，现声明：非静态内部类也可以定义静态成员但需要同时有final关键词修饰，静态方法鉴于无法用final修饰，仍必须是在静态内部类 或者非内部类中定义。
         BY JAVADOC (Reports methods declared final and static. When a static method is overridden in a subclass it can still be accessed via the super class, making a final declaration not very necessary. Declaring a static method final does prevent subclasses from defining a static method with the same signature.)
+    静态内部类的使用限制:
+        一是静态成员(包括静态变量与静态成员)的定义
+        二是在成员的引用上，有比较大的限制
+        三是在创建静态内部类时不需要将静态内部类的实例绑定在外部类的实例上
     
  - [Java关键字final、static使用总结](http://lavasoft.blog.51cto.com/62575/18771/)
     

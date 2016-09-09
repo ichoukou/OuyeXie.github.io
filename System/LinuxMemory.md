@@ -1,0 +1,9 @@
+ - http://blog.chinaunix.net/uid-20788636-id-4308527.html
+ - http://blog.sae.sina.com.cn/archives/2259
+ - [Java中OutOfMemoryError(内存溢出)的三种情况及解决办法](http://blog.sina.com.cn/s/blog_701c951f0100n1sp.html)
+    - 第一种OutOfMemoryError： PermGen space
+    - 第二种OutOfMemoryError：  Java heap space
+    - 第三种OutOfMemoryError：unable to create new native thread
+ - [Linux与JVM的内存关系分析](http://www.importnew.com/14486.html)
+    - SWAP和GC同时发生会导致GC时间很长，JVM严重卡顿，极端的情况下会导致服务崩溃。原因如下：JVM进行GC时，时需要对相应堆分区的已用内存进行遍历；假如GC的时候，有堆的一部分内容被交换到SWAP中，遍历到这部分的时候就需要将其交换回内存，同时由于内存空间不足，就需要把内存中堆的另外一部分换到SWAP中去；于是在遍历堆分区的过程中，(极端情况下)会把整个堆分区轮流往SWAP写一遍。Linux对SWAP的回收是滞后的，我们就会看到大量SWAP占用。
+ - [Why is swap being used even though I have plenty of free RAM?](http://askubuntu.com/questions/157793/why-is-swap-being-used-even-though-i-have-plenty-of-free-ram)
