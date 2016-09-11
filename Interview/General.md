@@ -1,7 +1,13 @@
  - [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
     - bookmark 
-        - string 10 20160909
+        - string 
+            - 10 20160909
+            - 20 20160910
+            - 31 20160910
+        - bit
+            - 2 20160910
  - [coding-interview-6.pdf](http://www.programcreek.com/wp-content/uploads/2012/11/coding-interview-6.pdf)
+ 
      - [System.arraycopy() V.S. Array.copyOf()](http://www.programcreek.com/2015/03/system-arraycopy-vs-arrays-copyof-in-java/)
         - Arrays.copyOf(T[] original, int newLength)
         - System.arraycopy(Object src, int srcPos, Object dest, int destPos, int length)
@@ -35,3 +41,7 @@
             - 设要排序的数组是A[0]……A[N-1]，首先任意选取一个数据（通常选用数组的第一个数）作为关键数据，然后将所有比它小的数都放到它前面，所有比它大的数都放到它后面，这个过程称为一趟快速排序。值得注意的是，快速排序不是一种稳定的排序算法，也就是说，多个相同的值的相对位置也许会在算法结束时产生变动。
         - Bubble Sort
             - 它重复地走访过要排序的数列，一次比较两个元素，如果他们的顺序错误就把他们交换过来。走访数列的工作是重复地进行直到没有再需要交换，也就是说该数列已经排序完成。
+            
+     - kmp
+         - [strStr](http://www.programcreek.com/2012/12/leetcode-implement-strstr-java/)
+             - [KMP](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/) not checked yet

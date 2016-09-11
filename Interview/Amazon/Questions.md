@@ -6,6 +6,7 @@
     - [perfect power](https://www.careercup.com/question?id=5454925876166656)
         - log
         - check<0.0000000001
+    - [all palindromes](https://www.careercup.com/question?id=5750775999365120)
     
  - [Some Amazon Interview Questions](http://www.jiansnet.com/topic/23012/Amazon-Manager-Interview)
  - [发几道面试题](http://bbs.csdn.net/topics/320187282)
