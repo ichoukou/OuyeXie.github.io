@@ -1,0 +1,4 @@
+ - [Redis Sharding方案](https://my.oschina.net/xinxingegeya/blog/391740?p=1)
+    - 客户端实现数据分片
+    - 服务器实现数据分片
+    - 通过代理服务器实现数据分片 (before 3.0)

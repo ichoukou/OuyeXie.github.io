@@ -26,6 +26,10 @@
     
  - [Set.toArray方法——用Set集合中的所有对象创建一个数组](http://book.2cto.com/201309/31817.html)
  
+ - [fill array](http://www.programcreek.com/2012/12/leetcode-solution-word-break/)
+    - int[] pos = new int[s.length()+1];
+    - Arrays.fill(pos, -1);
+ 
  - [java中数组与List相互转换的方法](http://blog.csdn.net/justfornn413/article/details/5348203)
     - String[] arr = (String[])list.toArray(new String[size]);
     
@@ -142,9 +146,15 @@ treeMap2={b=1, a=1, 2=1, 1=1}
  - [Java的HashMap和HashTable](http://www.cnblogs.com/devinzhang/archive/2012/01/13/2321481.html)
     - Hashtable 中的方法是同步的，而HashMap中的方法在缺省情况下是非同步的。在多线程并发的环境下，可以直接使用Hashtable，但是要使用HashMap的话就要自己增加同步处理了。
     - Hashtable中，key和value都不允许出现null值。
+ - [JDK8新增便利的Map默认值方法](http://blog.csdn.net/kingviker/article/details/26221227)
     
  - [What's the simplest way to print a Java array?](http://stackoverflow.com/questions/409784/whats-the-simplest-way-to-print-a-java-array)
     - Arrays.toString(doubleArray)
     - Arrays.deepToString(deepArray)
     
  - [Java 7之集合类型 - Vector与Stack](http://www.2cto.com/kf/201402/280227.html)
+ 
+ - [java中PriorityQueue优先级队列使用方法](http://blog.csdn.net/hiphopmattshi/article/details/7334487)
+ - [优先队列priority_queue 用法详解](http://www.cnblogs.com/void/archive/2012/02/01/2335224.html)
+ - [java集合类深入分析之PriorityQueue](http://shmilyaw-hotmail-com.iteye.com/blog/1827136)
+ - [PriorityQueue详解](http://blog.csdn.net/chengyingzhilian/article/details/8078032)

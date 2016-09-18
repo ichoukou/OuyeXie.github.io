@@ -172,3 +172,54 @@ curl -X POST -d '{
                    }
 '  "http://182.92.242.58:9288/stocks/stock/_search?pretty=true"
 ```
+
+```
+curl -X POST -d '{
+                     "from": 0,
+                     "size": 0,
+                     "sort": [
+                       {
+                         "amount": {
+                           "order": "desc",
+                           "missing": "_last"
+                         }
+                       },
+                       "_score"
+                     ],
+                     "query": {
+                       "filtered": {
+                         "filter": {
+                           "bool": {
+                             "must": [
+                               {
+                                 "term": {
+                                   "labels": "Stock"
+                                 }
+                               },
+                               {
+                                 "term": {
+                                   "fields": "计算机应用"
+                                 }
+                               }
+                             ]
+                           }
+                         }
+                       }
+                     },
+                     "aggs": {
+                       "labelAggs": {
+                         "terms": {
+                           "field": "labels",
+                           "size": 5
+                         }
+                       },
+                       "fieldAggs": {
+                         "terms": {
+                           "field": "fields",
+                           "size": 5
+                         }
+                       }
+                     }
+                   }
+' "http://123.56.89.3:9200/entities/entity/_search?pretty=true"
+```

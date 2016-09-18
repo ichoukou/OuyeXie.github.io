@@ -53,8 +53,8 @@ Explain how you have embodied these principles in your own experiences. You will
         - Houman Jalilian, Software Development Manager
         - Derrek Travers, Senior Manager
  - You will have time during each interview to ask questions. Please be prepared with thoughtful questions to ask the interview team.
-    - which team is this interview specific for, or it is OK to choose from the three, people technology, website-platform and Pyramid (or even FBA)?
-    - !!!asdf
+    - extreme goal
+    - asdf
 
 
 # Coding
@@ -198,6 +198,7 @@ Explain how you have embodied these principles in your own experiences. You will
         （2）可重构条件：必须保证能够由同一个全局关系的各个片段来重建该全局关系。对于水平分片可用并操作重构全局关系；对于垂直分片可用联接操作重构全局关系。
         （3）不相交条件：要求一个全局关系被分割后所得的各个数据片段互不重叠（对垂直分片的主键除外）。
     - [数据库Sharding的基本思想和切分策略](http://blog.csdn.net/bluishglc/article/details/6161475/)
+    - partitioning (mit/harvard names)
  - trade off availability, consistency
     - [(转)浅谈分布式系统的基本问题：可用性与一致性](http://chenghuiz.iteye.com/blog/2313894)
         - 一致性可理解为所有节点都能访问到最新版本的数据，这在单机场景下非常容易实现，使用共享内存和锁即可解决，但数据存储在单机会有两个限制：1）单机不可 用系统整体将不可用；2）系统吞吐量受限于单机的计算能力
@@ -245,7 +246,13 @@ Explain how you have embodied these principles in your own experiences. You will
             2. 事务支持
             使得对于安全性能很高的数据访问要求得以实现。
     - acid, 原子性（Atomicity）、一致性（Consistency）、隔离性（Isolation）、持久性（Durability, 一个支持事务（Transaction）的数据库，必需要具有这四种特性
+        - Write ahead logging
+        - shadow paging
+            - [预写式日志（Write-Ahead Logging (WAL)）](http://www.cnblogs.com/wenBlog/p/4423497.html)
+                - CheckPoint和Lazy Writer。
+            - [Shadow paging](http://blog.sina.com.cn/s/blog_7180d4e20100nlt7.html)
     - [MongoDB两阶段提交实现事务](http://www.tuicool.com/articles/f6ZBjm)
+        - two-phase commit
     - [OLAP、OLTP的介绍和比较](http://blog.csdn.net/zhangzheng0413/article/details/8271322/)
         - 联机事务处理OLTP（on-line transaction processing）、联机分析处理OLAP（On-Line Analytical Processing）。OLTP是传统的关系型数据库的主要应用，主要是基本的、日常的事务处理，例如银行交易。OLAP是数据仓库系统的主要应用，支持复杂的分析操作，侧重决策支持，并且提供直观易懂的查询结果。 
     
@@ -254,14 +261,17 @@ Explain how you have embodied these principles in your own experiences. You will
  - Having an understanding of topics such as workflow systems, map-reduce, distributed caching schemes, and load balancing can help you formulate answers to some of the more complicated distributed architecture questions you might encounter
     - [浅谈分布式计算的开发与实现(一)](http://www.cnblogs.com/mushroom/p/4959904.html)
     - [浅谈分布式计算的开发与实现(二)](http://www.cnblogs.com/mushroom/p/4962788.html)
-    - workflow systems
+        - Storm是一个分布式的、高容错的实时计算系统
+            - spout, bolt, acker
         - 主流的流式计算有S4、StreamBase、Borealis，其storm也具有流式计算的特性
+    - workflow systems
         - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running. With Lambda, you can run code for virtually any type of application or backend service - all with zero administration. Just upload your code and Lambda takes care of everything required to run and scale your code with high availability. You can set up your code to automatically trigger from other AWS services or call it directly from any web or mobile app.
         - Amazon Kinesis is a platform for streaming data on AWS, offering powerful services to make it easy to load and analyze streaming data, and also providing the ability for you to build custom streaming data applications for specialized needs. Web applications, mobile devices, wearables, industrial sensors, and many software applications and services can generate staggering amounts of streaming data – sometimes TBs per hour – that need to be collected, stored, and processed continuously. Amazon Kinesis services enable you to do that simply and at a low cost.
     - map-reduce
     - distributed caching schemes
         - [Distributed Cache Managemen](http://www.dis.uniroma1.it/~ciciani/DIDATTICA/ARCHITETTURE/distributed_caching_schemes.pdf)
             - web caching
+                - [网站使用CDN服务后统计网站真实的用户访问情况获取真实IP](https://www.freehao123.com/cdn-ip/)
             - web caching consistency
                 - A Hybrid Approach: Leases
                     - Age-based lease
@@ -271,9 +281,16 @@ Explain how you have embodied these principles in your own experiences. You will
         - ELB
         - [负载均衡（Load Balance）技术介绍](http://tech.lmtw.com/cjbj/Using/200611/27451.html)
         - [load balancing](http://www.cnblogs.com/qsort/archive/2011/06/08/2075509.html)
+            - layer 2 即链路层的负载均衡
+            - layer 4 即运输层（TCP、UDP那一层）的load balancing
+            - layer 7 也即在应用层做负载均衡
             - 很多情况下，load balancer所虚拟的服务是有状态的，这意味着来自同一客户的请求应发送给同一个backend server，否则会话信息就乱掉了。
               对于layer-4的来说，通常根据源ip地址来实现affinity。
               对于layer-7的来说，如果traffic是http的，通常的做法是基于cookie的，即将状态信息放入cookie中，不过这当然也有一些限制。
+        - [HAProxy负载均衡器的配置与算法](http://network.51cto.com/art/201108/286178.htm)
+            - round robin
+            - rdp-cookie(name)
+        - active-active/active-passive
     
 # Client Development
 
