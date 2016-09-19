@@ -86,5 +86,37 @@
             - Live video can't hiccup, which means you can't oversubscribe bandwidth. 
             - Graceful overflow to a CDN when they do overflow. 
             - Building systems that appear to have 100% up time yet have the ability to take machines out of production slowly and gradually for maintenance. 
+    - [YouTube Architecture](http://highscalability.com/youtube-architecture)
+        - web server (cache)
+            - NetScalar is used for load balancing and caching static content.
+            - Some pre-generated cached HTML for expensive to render blocks.
+            - Row level caching in the database.
+            - Fully formed Python objects are cached.
+            - Some data are calculated and sent to each application so the values are cached in local memory.
+        - video server (cache)
+            - Most popular content is moved to a CDN (content delivery network)
+            - Caching doesn't do a lot of good in this scenario, so spending money on more cache may not make sense. This is a very interesting point. If you have a long tail product caching won't always be your performance savior. 
+        - Serving Thumbnails
+            - problems
+                - Lots of disk seeks and problems with inode caches and page caches at OS level.
+                - Ran into per directory file limit. Ext3 in particular. 
+                - A high number of requests/sec as web pages can display 60 thumbnails on page.
+                - Under such high loads Apache performed badly.
+                - Used squid (reverse proxy) in front of Apache. This worked for a while, but as load increased performance eventually decreased. Went from 300 requests/second to 20.
+                - Tried using lighttpd but with a single threaded it stalled. Run into problems with multiprocesses mode because they would each keep a separate cache.
+                - With so many images setting up a new machine took over 24 hours.
+                - Rebooting machine took 6-10 hours for cache to warm up to not go to disk.
+            - To solve all their problems they started using Google's BigTable, a distributed data store
+        - Databases
+            - The Early Years
+                - Use MySQL to store meta data like users, tags, and descriptions.
+                - Served data off a monolithic RAID 10 Volume with 10 disks. 
+                - They went through a common evolution: single server, went to a single master with multiple read slaves, then partitioned the database, and then settled on a sharding approach.
+        - Data Center Strategy
+            - Videos come out of any data center. Not closest match or anything. If a video is popular enough it will move into the CDN.
+            - Images are replicated to different data centers using BigTable
+        - Lessons Learned
+        -    Constant iteration on bottlenecks
+        - Have a good cross discipline team that understands the whole system and what's underneath the system.
 # References
  - http://www.hiredintech.com/system-design/

@@ -18,7 +18,7 @@ Explain how you have embodied these principles in your own experiences. You will
     - Leaders are owners.
  - Learn and Be Curious
     - Leaders are never done learning and always seek to improve themselves.
- -  Think Big
+ - Think Big
     - Thinking small is a self-fulfilling prophecy.
  - Dive Deep
     - Leaders operate at all levels, stay connected to the details, and audit frequently.

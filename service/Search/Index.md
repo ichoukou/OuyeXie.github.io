@@ -1,0 +1,3 @@
+ - [solr索引](http://www.cnblogs.com/daifei/p/3447267.html)
+ - [Lucene的数字范围搜索 (Numeric Range Query)原理](http://blog.csdn.net/zhufenglonglove/article/details/51700898)
+    - trie

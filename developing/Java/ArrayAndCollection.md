@@ -29,7 +29,16 @@
  - [fill array](http://www.programcreek.com/2012/12/leetcode-solution-word-break/)
     - int[] pos = new int[s.length()+1];
     - Arrays.fill(pos, -1);
- 
+    
+ - [Java当中的Array和Arrays的区别到底是什么?](http://bbs.csdn.net/topics/390186833)
+    - java.lang.reflect.Array
+      此类提供了动态创建和访问 Java 数组的方法。
+    - java.util.Arrays
+      此类包含用来操作数组（比如排序和搜索）的各种方法。此类还包含一个允许将数组作为列表来查看的静态工厂。
+       
+ - void Collections.reverse(List)
+    - Reverses the order of the elements in the specified list. This method runs in linear time.
+
  - [java中数组与List相互转换的方法](http://blog.csdn.net/justfornn413/article/details/5348203)
     - String[] arr = (String[])list.toArray(new String[size]);
     
