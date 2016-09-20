@@ -9,3 +9,7 @@
  - [数据库分区表](http://blog.csdn.net/lgb934/article/details/8662956)
     - [oracle中分区查询时，怎样一次查询多个分区](http://zhidao.baidu.com/link?url=Lii2cs_9GW7MsvPV-Dex6HPTtsAcpN2I8owIZ8cMzovdJQCToyDQdN6iGgmZie6AW63ZbknbPRcfv37lKNUwVa)
  - [数据生命周期 - 分区](http://blog.csdn.net/jackfor001/article/details/3774284)
+ - [数据库内置行级缓存 vs Memcached](http://www.blogbus.com/lpznl-logs/35690001.html)
+ - [mysql的缓存机制 ](http://blog.itpub.net/15480802/viewspace-755582/)
+    - 在服务器级别只提供了query cache，而在存储引擎级别，MyISAM和InnoDB分别引入了key cache和buffer pool
+ - [What does `row level caching in the database` mean?](https://www.quora.com/What-does-row-level-caching-in-the-database-mean)

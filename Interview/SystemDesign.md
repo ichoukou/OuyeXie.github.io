@@ -2,6 +2,7 @@
 
  - Scope the problem: Don't make assumptions; Ask questions; Understand the constraints and use cases.
  - Sketch up an abstract design that illustrates the basic components of the system and the relationships between them.
+    - Calculate, requests, data size, memory size, cpu...
  - Think about the bottlenecks these components face when the system scales.
  - Address these bottlenecks by using the fundamentals principles of scalable system design.
  
@@ -116,7 +117,7 @@
             - Videos come out of any data center. Not closest match or anything. If a video is popular enough it will move into the CDN.
             - Images are replicated to different data centers using BigTable
         - Lessons Learned
-        -    Constant iteration on bottlenecks
-        - Have a good cross discipline team that understands the whole system and what's underneath the system.
+            - Constant iteration on bottlenecks
+            - Have a good cross discipline team that understands the whole system and what's underneath the system.
 # References
  - http://www.hiredintech.com/system-design/

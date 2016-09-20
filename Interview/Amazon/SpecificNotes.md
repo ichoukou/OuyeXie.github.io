@@ -199,7 +199,7 @@ Explain how you have embodied these principles in your own experiences. You will
         （3）不相交条件：要求一个全局关系被分割后所得的各个数据片段互不重叠（对垂直分片的主键除外）。
     - [数据库Sharding的基本思想和切分策略](http://blog.csdn.net/bluishglc/article/details/6161475/)
     - partitioning (mit/harvard names)
- - trade off availability, consistency
+ - trade off availability, consistency, Partition Tolerance
     - [(转)浅谈分布式系统的基本问题：可用性与一致性](http://chenghuiz.iteye.com/blog/2313894)
         - 一致性可理解为所有节点都能访问到最新版本的数据，这在单机场景下非常容易实现，使用共享内存和锁即可解决，但数据存储在单机会有两个限制：1）单机不可 用系统整体将不可用；2）系统吞吐量受限于单机的计算能力
         - Paxos协议提出只要系统中2f+1个节点中的f+1个节点可用，那么系统整体就可用并且能保证数据的强一致性
