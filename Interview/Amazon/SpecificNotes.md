@@ -147,7 +147,8 @@ Explain how you have embodied these principles in your own experiences. You will
     - [服务导向架构(Service Oriented Architecture SOA)](http://blog.csdn.net/byron_hu/article/details/1321401)
     - [SOA（Service Oriented Architecture）面向服务架构体系](http://blog.csdn.net/johnstrive/article/details/16329035)
  - caching
-    - redis/memcache
+    - redis/memcached
+        - [Redis和Memcached的区别](http://www.biaodianfu.com/redis-vs-memcached.html)
     - cdn?(Content Delivery Network)
     - cloudfront?
  - multi-tiered architecture
@@ -175,6 +176,7 @@ Explain how you have embodied these principles in your own experiences. You will
  - load balancing
     - haproxy, nginx, elb, F5(http://zhidao.baidu.com/link?url=0HIuSxOfXlnMjvTj8VQqkphZDjAWoTRdw_7oHPwsSCewx3CzNfQ2iZAOcmSN6lMtvpkSh3on_akeAnELf-yFoK)
  - non-relational database
+    - [Sharding](https://docs.mongodb.com/manual/sharding/#sharded-cluster)
  - microservices
     - [Microservice架构模式简介](http://www.cnblogs.com/loveis715/p/4644266.html)
         - Monolith, 这种将所有的代码及功能都包含在一个WAR包中的项目组织方式被称为Monolith
@@ -255,6 +257,8 @@ Explain how you have embodied these principles in your own experiences. You will
         - two-phase commit
     - [OLAP、OLTP的介绍和比较](http://blog.csdn.net/zhangzheng0413/article/details/8271322/)
         - 联机事务处理OLTP（on-line transaction processing）、联机分析处理OLAP（On-Line Analytical Processing）。OLTP是传统的关系型数据库的主要应用，主要是基本的、日常的事务处理，例如银行交易。OLAP是数据仓库系统的主要应用，支持复杂的分析操作，侧重决策支持，并且提供直观易懂的查询结果。 
+    - [MySQL High Availability Architectures](http://skillachie.com/2014/07/25/mysql-high-availability-architectures/#more-1192)
+        - [MySQL Cluster 101](http://skillachie.com/2014/07/25/mysql-cluster-101/)
     
 # Distributed Computing
 
@@ -290,7 +294,9 @@ Explain how you have embodied these principles in your own experiences. You will
         - [HAProxy负载均衡器的配置与算法](http://network.51cto.com/art/201108/286178.htm)
             - round robin
             - rdp-cookie(name)
-        - active-active/active-passive
+        - active-active/active-passive, keepalived
+            - http://www.cnblogs.com/tangyanbo/p/4425701.html
+        
     
 # Client Development
 

@@ -4,6 +4,13 @@
  - which is more important? software development or system design
  - sde1 sde2?
  
+ - the team status: size, project, customers, future
+ - career assistant (become a manager, as chinese, in five years), how people are valued with management skills and techs
+    - new skills
+ - relocation (not this time, but maybe after 5 years, US)
+    - choosing team
+ - when to hear
+ 
 # Why choose Amazon
 
  - Your Leadership Principles (as a leader and a follower)
