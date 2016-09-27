@@ -1,0 +1,2 @@
+ - [Execute command without keeping it in history](http://stackoverflow.com/questions/8473121/execute-command-without-keeping-it-in-history)
+    - Start your command with a space and it won't be included in the history.
