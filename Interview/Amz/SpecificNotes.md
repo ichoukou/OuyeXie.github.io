@@ -42,10 +42,10 @@ Explain how you have embodied these principles in your own experiences. You will
 
  - When answering questions, be as concise and detailed in your response as possible. The STAR (situation, task, action, result) method is recommended.
  - We want to hear your answers in terms of “I” rather than “we” so that we understand your individual impact versus that of your team.
- - Amazon is a very data and results driven company. We make decisions with data whenever possible. Each of your examples should include the data you used in your decision making and what the results were.
- - Amazon values candidates who are self-aware of their failures. Do not be afraid to talk about your mistakes and how you’ve learned from them. We want to know what actions you have taken to ensure your mistakes will not happen again.
- - Amazon gives employees autonomy. Provide examples of areas where you have taken initiative without another person’s direction or input.
- - Be ready to discuss the Amazon products and/or technologies that excite you. While we do not expect you to know every detail about the team you are interviewing with, you should research the team and product enough to be able to have a thorough conversation with the interviewers on those topics.
+ - Amz is a very data and results driven company. We make decisions with data whenever possible. Each of your examples should include the data you used in your decision making and what the results were.
+ - Amz values candidates who are self-aware of their failures. Do not be afraid to talk about your mistakes and how you’ve learned from them. We want to know what actions you have taken to ensure your mistakes will not happen again.
+ - Amz gives employees autonomy. Provide examples of areas where you have taken initiative without another person’s direction or input.
+ - Be ready to discuss the Amz products and/or technologies that excite you. While we do not expect you to know every detail about the team you are interviewing with, you should research the team and product enough to be able to have a thorough conversation with the interviewers on those topics.
     - [people-technology](https://www.amazon.jobs/en/teams/people-technology)
     - Inteviewers
         - Shifa Jia, Software Development Engineer (Algorithm Development Professionals)
@@ -270,7 +270,7 @@ Explain how you have embodied these principles in your own experiences. You will
         - 主流的流式计算有S4、StreamBase、Borealis，其storm也具有流式计算的特性
     - workflow systems
         - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running. With Lambda, you can run code for virtually any type of application or backend service - all with zero administration. Just upload your code and Lambda takes care of everything required to run and scale your code with high availability. You can set up your code to automatically trigger from other AWS services or call it directly from any web or mobile app.
-        - Amazon Kinesis is a platform for streaming data on AWS, offering powerful services to make it easy to load and analyze streaming data, and also providing the ability for you to build custom streaming data applications for specialized needs. Web applications, mobile devices, wearables, industrial sensors, and many software applications and services can generate staggering amounts of streaming data – sometimes TBs per hour – that need to be collected, stored, and processed continuously. Amazon Kinesis services enable you to do that simply and at a low cost.
+        - Amz Kinesis is a platform for streaming data on AWS, offering powerful services to make it easy to load and analyze streaming data, and also providing the ability for you to build custom streaming data applications for specialized needs. Web applications, mobile devices, wearables, industrial sensors, and many software applications and services can generate staggering amounts of streaming data – sometimes TBs per hour – that need to be collected, stored, and processed continuously. Amz Kinesis services enable you to do that simply and at a low cost.
     - map-reduce
     - distributed caching schemes
         - [Distributed Cache Managemen](http://www.dis.uniroma1.it/~ciciani/DIDATTICA/ARCHITETTURE/distributed_caching_schemes.pdf)

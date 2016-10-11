@@ -1,4 +1,4 @@
- - [Amazon Interview Questions](https://www.careercup.com/page?pid=amazon-interview-questions&job=sde-2-interview-questions&topic=coding-interview-questions)
+ - [Amz Interview Questions](https://www.careercup.com/page?pid=amazon-interview-questions&job=sde-2-interview-questions&topic=coding-interview-questions)
     - [max cluster](https://www.careercup.com/question?id=5098159661383680)
         - 4 neighbours
     - [replace node values](https://www.careercup.com/question?id=5630160432791552)
@@ -36,5 +36,5 @@
         - Anonymous July 21, 2016 | Flag
         - trie 
             - [Lucene的数字范围搜索 (Numeric Range Query)原理](http://blog.csdn.net/zhufenglonglove/article/details/51700898)
- - [Some Amazon Interview Questions](http://www.jiansnet.com/topic/23012/Amazon-Manager-Interview)
+ - [Some Amz Interview Questions](http://www.jiansnet.com/topic/23012/Amazon-Manager-Interview)
  - [发几道面试题](http://bbs.csdn.net/topics/320187282)

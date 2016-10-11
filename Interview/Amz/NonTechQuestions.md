@@ -11,7 +11,7 @@
     - choosing team
  - when to hear
  
-# Why choose Amazon
+# Why choose Amz
 
  - Your Leadership Principles (as a leader and a follower)
     - Invent and Simplify
