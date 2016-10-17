@@ -16,3 +16,7 @@
  - Exception
     - [Resolve issue where pooled connections could leak if exception occurred](https://github.com/neo4j/neo4j-java-driver/pull/167)
         - That'll bubble up to the application layer - but this is good, if the pool rejects the connection return, that's a fatal problem that should get reported to the user. IllegalStateException happens whenever the pool state is corrupted, so this is good.
+        
+ - [release notes](https://github.com/neo4j/neo4j-java-driver/releases)
+ 
+ - [changelog](https://github.com/neo4j/neo4j-java-driver/wiki/1.1-changelog#110-m01)

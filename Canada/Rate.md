@@ -1,0 +1,2 @@
+ - [APR vs. Interest Rate](http://www.diffen.com/difference/Annual_Percentage_Rate_vs_Interest_Rate)
+ - [加拿大的房屋贷款违约罚款是如何计算的](http://www.weixinnu.com/tag_article/3839566473)
