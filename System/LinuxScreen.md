@@ -1,0 +1,2 @@
+ - [linux 技巧：使用 screen 管理你的远程会话](http://www.ibm.com/developerworks/cn/linux/l-cn-screen/)
+    - screen -d pid (不开启新的screen会话，而是断开其他正在运行的screen会话)
