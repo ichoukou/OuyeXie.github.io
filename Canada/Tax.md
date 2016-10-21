@@ -16,8 +16,25 @@
 
  - tax deductions
  - tax credits
-    - rent?
+    - rent? no
     
+ - departure tax
+    - 5 years
+    
+ - income tax, cpp, ei
+ 
+ - ff??, rrsp(from 2018)
+     
+ - rsu, 3 options, capital gain
+ 
+ - form 1135
+    - $100k
+    - penalty
+    
+ - calender
+ 
+ - tax calculator
+
 # Calculators
 
  - http://www.gerensuodeshui.cn
