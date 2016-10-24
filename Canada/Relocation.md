@@ -4,7 +4,8 @@
     - find apartment? no
     
  - iphone
-    - https://uptownwireless.wirelessdealer.ca/uptownwireless/resources/Rate-Plans-plans.aspx?AC=HY3CB79CZF569J5G&rtype=-99
+    - www.uptownwireless.ca/amazon
+        - https://uptownwireless.wirelessdealer.ca/uptownwireless/resources/Rate-Plans-plans.aspx?AC=HY3CB79CZF569J5G&rtype=-99
     - http://www.telus.com/en/bc/mobility/prepaid/plans/
     - https://www.rogers.com/web/content/wireless-products/plans?cm_sp=wireless-_-pay_as_you_go-_-plans_banner#,Tabset1--2
     
