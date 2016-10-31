@@ -17,3 +17,6 @@
     - https://vancouver.craigslist.ca/search/apa?query=telus+garden&bedrooms=1&availabilityMode=0&is_furnished=1
         - https://vancouver.craigslist.ca/van/apa/5823077650.html
         - https://vancouver.craigslist.ca/van/apa/5756460339.html
+    - http://www.kijiji.ca/b-apartments-condos/vancouver/c37l1700287
+    - http://www.kijiji.ca/v-view-details.html?requestSource=b&adId=1210727235
+        - 1650

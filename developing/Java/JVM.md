@@ -4,6 +4,9 @@
     - bookmark 173 (20161018)
     - bookmark 211(page) (20161020)
     - bookmark 195 (20161021)
+    - bookmark 239 (20161027)
+    - bookmark 279 (20161028)
+        - JEE->JBOSS, OSGi
     
  - [How to find a Java thread running on Linux with ps -axl?](http://stackoverflow.com/questions/9934517/how-to-find-a-java-thread-running-on-linux-with-ps-axl)
     - jps
