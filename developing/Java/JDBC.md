@@ -2,6 +2,7 @@
     - [DatabaseMetaData: getSchemas() : DatabaseMetaData « java.sql « Java by API](http://www.java2s.com/Code/JavaAPI/java.sql/DatabaseMetaDatagetSchemas.htm)
     - [关于任意结果集resultset的遍历？](http://www.iteye.com/problems/61152)
     - [Why use PreparedStatement in Java JDBC – Example Tutorial](http://javarevisited.blogspot.com/2012/03/why-use-preparedstatement-in-java-jdbc.html)
+    - [Using Java arrays to insert, retrieve, & update PostgreSQL arrays](http://blog.2ndquadrant.com/using-java-arrays-to-insert-retrieve-update-postgresql-arrays/)
  - transcaction
     - [JDBC之七——事物处理transaction ](http://blog.sina.com.cn/s/blog_885b4ace0100z92z.html)
     - [JDBC PreparedStatement example – Batch Update](http://www.mkyong.com/jdbc/jdbc-preparedstatement-example-batch-update/)

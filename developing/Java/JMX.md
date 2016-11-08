@@ -1,0 +1,2 @@
+ - [JMX整理](https://my.oschina.net/xpbug/blog/221547)
+    - JMX的全称为Java Management Extensions

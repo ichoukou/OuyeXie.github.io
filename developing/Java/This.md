@@ -1,0 +1,2 @@
+ - [Java并发编程之this逃逸问题](https://yq.aliyun.com/articles/49472)
+ - [java并发编程实践学习（四）对象的发布和逸出之this逃逸](http://blog.csdn.net/aitangyong/article/details/25122741)
