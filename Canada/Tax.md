@@ -59,4 +59,9 @@
     - 汇款不等于收入，海外资产的转移或者亲戚朋友的赠予都会体现成进入加拿大金融体系的汇款，因此不需要缴税，但务必保留所有的相关文件，包括汇款单及所有的汇款收款转款单据，一旦税局要求补充资料的时候可以马上提供。
  - [加拿大新移民登陆前买的自住房以后卖掉增值部分要交税吗](http://zhidao.baidu.com/question/983716092355491859.html?qbl=relate_question_0&word=%BC%D3%C4%C3%B4%F3%D2%C6%C3%F1%20%B9%FA%C4%DA%B7%BF%B2%FA%20%BD%BB%CB%B0)
     - 您好：据了解：前业主如果是自住，免征房产增值部分的个人所得税
-    
+ - [关于免税储蓄账户 (TFSA)](http://www.moneygameathome.com/tax/tfsa-articles/About-TFSA)
+ - [加拿大海外资产申报7大类的注意事项](http://jingyan.baidu.com/article/380abd0a6873711d90192caf.html)
+ 
+===========================================
+ 
+ - [居住证被房屋租赁税"绑架" 房东不肯付租客自己"吃进"](http://sh.eastday.com/m/20140909/u1a8329156.html)

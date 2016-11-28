@@ -49,8 +49,18 @@ ALTER INDEX SCno RENAME TO SCSno;
 alter table TABLE_01 rename to TABLE_10;
 ```
 
+# Add
+
+```
+ALTER TABLE tablename ADD newcolumn type NOT NULL DEFAULT (0)
+
+Update tablename SET newcolumn = oldcolumn Where newcolumn = 0
+
+```
+
 # Reference
 
  - http://blog.chinaunix.net/uid-15145533-id-2775847.html
  - http://bbs.csdn.net/topics/391024303
  - http://www.ehow.com/how_6109781_change-table-name-sql.html
+ - [Add a column to a table with a default value equal to the value of an existing column](http://stackoverflow.com/questions/13249936/add-a-column-to-a-table-with-a-default-value-equal-to-the-value-of-an-existing-c)

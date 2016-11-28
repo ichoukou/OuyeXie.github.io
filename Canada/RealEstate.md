@@ -45,3 +45,21 @@
     
  - [溫哥華新稅 已簽約樓花適用買家圖解約惹官司 勝算難料](http://www.mingpaocanada.com/tor/htm/News/20160730/tra1_r.htm)   
     - 換言之﹐未趕及在8月2日之前完成的交易﹐如果買家沒有加拿大公民或永久居民身分﹐又或屬於海外公司﹐均須要支付新的稅款。
+    
+ - [How much deposit do I have to put down on a presale condo?](http://www.macmarketingsolutions.com/blog/how-much-deposit-do-i-have-to-put-down-on-a-presale-condo)
+    - Most presale new homes require a total deposit of 15–20% of the purchase price. However, some developers offer limited opportunities to buy with a 5% or 10% deposit, particularly if it is getting close to completion. Developers are often subject to requirements from their banks as well which is why a 15–20% deposit is needed in most cases or why they can’t be more flexible at times.
+    
+ - How to Purchase a Presale Condo in Vancouver
+    - ![](http://www.mikestewart.ca/how-to-purchase-a-presale-condo-in-vancouver-1-advantages-for-investors/)
+        - An investor may be able to purchase a Presale by putting down a deposit of 5-10%. Should the property increase in value before Completion, an investor could see a significant return on the deposit money invested. Also, in a rising market an investor may be able to buy a presale a with a 5% or 10% deposit and then Complete on the property with over 20% in equity without putting up any more money up due to the increased value of the property at Completion. This would allow the investor to avoid costly CMHC high ratio insurance premiums required for properties purchased with less than a 20% downpayment.
+        - In most cases the Developer will allow you to assign the suite only after they have sold all of their presales. This means that if the Developer doesn’t sell all their presales before Completion, you can’t assign your presale even though the contract says you can.
+        - I suggest that if you are thinking of buying a presale condo in Vancouver, you need to be 110% certain that you can complete on the property.
+        - If the Developer cannot complete the project, very often (depending on the contract) the Buyer can walk and get their deposit back.
+    - ![](http://www.mikestewart.ca/how-to-buy-a-pre-construction-condo-2-advantages-for-owneroccupiers/)
+        -  For owner occupiers, the pre-construction purchase of a condo allows for, in many cases, a level of variety and customization not available on the resale property market. Want a 23rd level view suite with 2 parking and 3 lockers? Want to take two 1 bedroom suite and make them into a completely unique large 2 bedroom? Chances are you can get exactly what you want by buying a presale condo.
+        - Normally Non-Canadian residents have to put down a 35% nonpayment (please confirm with a mortgage broker) when buying an existing property in Vancouver all at the time of purchase. When one buys a presale in Vancouver the deposit usually 20% irrespective of country residence.
+        - You cannot buy a presale condo in Vancouver and get a mortgage on it based on the market value of the property when it completes. Lenders will only lend on the value of the property laid out in the presale purchase contract.
+            - refinance
+                - I heard from the banks that refinancing is not available for non-resident in Vancouver.
+    - ![](http://www.mikestewart.ca/how-to-buy-vancouver-condo-presales-3-disadvantages-risks/)
+    - ![](http://www.mikestewart.ca/an-answer-to-florins-question-can-a-presale-bought-high-ratio-be-completed-on-low-ratio/)
