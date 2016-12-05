@@ -1,3 +1,8 @@
+ - [Property Transfer Tax](http://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax)
+    - [Glossary](http://www2.gov.bc.ca/gov/content/taxes/property-taxes/help-centre/glossary#foreign-national)
+    - [Additional Property Transfer Tax on
+       Residential Property Transfers to Foreign Entities
+       in the Greater Vancouver Regional District](http://www2.gov.bc.ca/assets/gov/taxes/property-taxes/property-transfer-tax/forms-publications/is-006-additional-property-transfer-tax-foreign-entities-vancouver.pdf)
  - www.mls.ca
  - [在加拿大买房 这些术语你必须知道](http://house.yorkbbs.ca/article/estate_nous/1573319.html)
     - 卖方(Vendor)：物业的卖方。
