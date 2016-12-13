@@ -18,6 +18,9 @@
     - 过户费用(Closing costs)：这是除房屋购买价格外的额外费用，如律师费和过户费等。这个费用要在过户当天支付，约为售价的1.5%到4%。
     - 还价(Counteroffer)：如果卖主不接受买主的报价，可能会还价。这意味着，卖方更改买主的报价或过户日期;而买主可在一个指定的时间内接受或拒绝卖方的还价。
     - 房产净值(Equity)：房屋出售价格和债务总额之间的差额。房产净值会随着按揭付款而增加，房屋市场价值的变化也会对此有影响。
+    
+ - [Apartment vs Condo vs Flat vs Loft: What’s the Difference](https://www.needtosellmyhousefast.com/apartment-vs-condo-vs-flat-vs-loft/)
+ - [新移民买公寓看风景：矮公寓vs.高公寓 风景分几档](http://www.canadameet.cn/House/view-2599-1/)
 
 # Uncompleted
 

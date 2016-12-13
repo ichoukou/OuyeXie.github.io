@@ -72,3 +72,7 @@ Warning! This will delete and replace any private key you have at H2.
 
  - http://codeinthehole.com/writing/tips-for-using-a-git-pre-commit-hook/
  - http://stackoverflow.com/questions/927358/how-do-you-undo-the-last-commit
+ - [git 撤销commit](http://zhyq0826.iteye.com/blog/1671638)
+    - git reset –mixed：此为默认方式，不带任何参数的git reset，即时这种方式，它回退到某个版本，只保留源码，回退commit和index信息
+    - git reset –soft：回退到某个版本，只回退了commit的信息，不会恢复到index file一级。如果还要提交，直接commit即可
+    - git reset –hard：彻底回退到某个版本，本地的源码也会变为上一个版本的内容

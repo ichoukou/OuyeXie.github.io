@@ -8,3 +8,11 @@
  - [借助Code Splitting 提升单页面应用性能](http://www.tuicool.com/articles/3EbmAb)
  
  - [Compile an npm module into a single file, without dependencies](http://stackoverflow.com/questions/22710887/compile-an-npm-module-into-a-single-file-without-dependencies)
+ 
+ - [How to prevent moment.js from loading locales with webpack?](http://stackoverflow.com/questions/25384360/how-to-prevent-moment-js-from-loading-locales-with-webpack)
+    - http://webpack.github.io/docs/context.html
+<pre>
+plugins: [
+    new webpack.ContextReplacementPlugin(/moment[\/\\]locale$/, /^\.\/zh-cn$/)
+  ]
+<pre>
