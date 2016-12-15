@@ -1,1 +1,0 @@
-https://github.com/relay-tools/react-router-relay

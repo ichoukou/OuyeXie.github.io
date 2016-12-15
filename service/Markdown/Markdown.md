@@ -1,5 +1,0 @@
- - http://wowubuntu.com/markdown/
- - http://www.appinn.com/markdown/
- - http://daringfireball.net/projects/markdown/syntax
- - http://baike.baidu.com/link?url=TTiVGP9pn4tTYzXoyMMqPkNHk409wFCuycyItPfxRsuOQPP2sv6p2cezAIF2H_dwtxXV9P9Vm7fx1jcgwLQRUq
- - http://sspai.com/25137

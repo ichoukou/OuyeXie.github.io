@@ -1,2 +1,0 @@
- - [java发送http的get、post请求](http://www.cnblogs.com/zhuawang/archive/2012/12/08/2809380.html)
- - [How to send HTTP request in java? [duplicate]](http://stackoverflow.com/questions/1359689/how-to-send-http-request-in-java)

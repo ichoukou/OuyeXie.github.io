@@ -1,1 +1,0 @@
-Refer to ~/Downloads/JetbrainsCrackV2.1.zip

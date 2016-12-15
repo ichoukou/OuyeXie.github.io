@@ -1,2 +1,0 @@
- - [web端URI API](http://lbsyun.baidu.com/index.php?title=uri/api/web)
-    - [java通过百度地图把实际地址转换为经纬度](http://blog.csdn.net/xuweilinjijis/article/details/11519235)

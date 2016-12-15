@@ -1,1 +1,0 @@
- - [ PREGEL A System for Large-Scale Graph Processing](http://people.apache.org/~edwardyoon/documents/pregel.pdf)

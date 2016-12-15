@@ -1,1 +1,0 @@
-http://echarts.baidu.com/doc/about.html

@@ -1,2 +1,0 @@
- - [MySQL--执行mysql脚本及其脚本编写](http://www.cnblogs.com/kex1n/archive/2010/03/26/2286504.html)
- - [postgreSQL 用for执行insert](http://xfqxj.blog.51cto.com/2342497/1051130/)

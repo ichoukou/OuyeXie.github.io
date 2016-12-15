@@ -1,2 +1,0 @@
- - [javascript实现保留两位小数的多种方法](http://www.jb51.net/article/76584.htm)
-    - f = Math.round(x*100)/100

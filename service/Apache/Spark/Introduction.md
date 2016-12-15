@@ -1,3 +1,0 @@
- - [与 Hadoop 对比，如何看待 Spark 技术？](http://www.zhihu.com/question/26568496)
-    - 纪路，程序员, 实际上从应用场景上区分，Hadoop更适合做批处理，而Spark更适合做需要反复迭代的机器学习。
-    - 知乎用户，酱油PHD

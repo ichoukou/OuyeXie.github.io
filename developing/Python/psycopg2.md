@@ -1,2 +1,0 @@
- - http://www.psycopg.org/psycopg/docs/
- - http://www.psycopg.org/psycopg/docs/cursor.html#cursor.fetchone

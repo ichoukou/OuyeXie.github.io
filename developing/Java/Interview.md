@@ -1,1 +1,0 @@
- - [Find the nearest locker in the city](http://qa.geeksforgeeks.org/6310/find-the-nearest-locker-in-the-city)

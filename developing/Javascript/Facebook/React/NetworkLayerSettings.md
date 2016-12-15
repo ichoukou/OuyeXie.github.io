@@ -1,2 +1,0 @@
- - [Network Layer](https://facebook.github.io/relay/docs/guides-network-layer.html)
-    - When it sends queries, it will automatically fail requests after a 15 second timeout. Also, failed requests are automatically retried twice, with a 1 second delay and a 3 second delay, respectively.

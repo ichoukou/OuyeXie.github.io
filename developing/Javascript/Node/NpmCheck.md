@@ -1,1 +1,0 @@
-https://github.com/dylang/npm-check

@@ -1,3 +1,0 @@
- - [JAVA 注解的几大作用及使用方法详解（完）](http://www.tmser.com/?post=34)
-    - [PACKAGE-INFO.JAVA 作用及用法详解](http://www.tmser.com/index.php?post=36)
- - [JAVA 注解](http://www.cnblogs.com/hanxirensheng/articles/2398254.html)

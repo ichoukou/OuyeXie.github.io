@@ -1,1 +1,0 @@
- - [java-String中的 intern()](http://blog.sina.com.cn/s/blog_69dcd5ed0101171h.html)

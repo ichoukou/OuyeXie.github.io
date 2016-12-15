@@ -1,6 +1,0 @@
- - [JBoss Cache](http://jbosscache.jboss.org)
- - [JBossCache](http://baike.baidu.com/link?url=7xv--XYIKU7QQCWOqJEkrXqTXLN8AFkykP1gtKohJh2EC20h-IPbJZWcFLG0alLsczI_Qv9c9vM6QnYi-rJadq)
- - [JBoss Cache：企业级Java事务缓存集群系统](http://www.codeceo.com/article/jboss-cache-java.html)
- - [JAVA几种缓存技术介绍说明](http://zhidao.baidu.com/link?url=kIUxDDz1LvandUwwKPMeRP2myrfsqSpheY0xH6KhsCity7tPHdy9cMXnc05dX3hDfWrAO6TanelKNMLGe_ZVekYz99YpsoMdkZpemssJ_OK)
- - [javacache和redis的区别](http://zhidao.baidu.com/link?url=eDyx2k0hCDmIxduOUR7jQ_DOgPOoopwNyajyeoELj928HM6kzFslYUHyTo6Mu14Mvcw5521hlESCUP96jrff4P3D_VcLfC3KY-u8Iy_TjE3)
- - [ehcache](http://baike.baidu.com/link?url=X4gtZ4PVu9rUVnKAKMP-28Pi_hZBUQ2bub5KurbpINRSKGCmyS19l0hS8paTJCCclN4-0iABof-dv04PA-nywq)

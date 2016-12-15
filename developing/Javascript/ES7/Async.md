@@ -1,2 +1,0 @@
- - http://code.tutsplus.com/tutorials/a-primer-on-es7-async-functions--cms-22367
- - http://segmentfault.com/a/1190000002566697

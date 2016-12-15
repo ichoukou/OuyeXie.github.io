@@ -1,2 +1,0 @@
- - [docs](http://graphql.org/docs/api-reference-type-system)
- - [learning-graphql](https://github.com/mugli/learning-graphql)

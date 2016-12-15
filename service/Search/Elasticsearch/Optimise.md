@@ -1,1 +1,0 @@
-https://www.elastic.co/guide/en/elasticsearch/reference/1.7/indices-optimize.html

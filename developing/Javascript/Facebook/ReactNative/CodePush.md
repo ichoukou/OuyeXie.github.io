@@ -1,1 +1,0 @@
-http://microsoft.github.io/code-push/

@@ -1,1 +1,0 @@
-http://faye.jcoglan.com/browser.html

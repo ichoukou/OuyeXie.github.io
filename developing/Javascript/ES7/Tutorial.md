@@ -1,4 +1,0 @@
- - [ECMAScript 7 support in Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla)
- - [你可能不再需要Underscore](http://www.css88.com/archives/tag/es7)
- - [ECMAScript 2016的制定工作已经启动](http://www.admin10000.com/document/6461.html)
- - [Current Proposals](https://github.com/tc39/ecma262)

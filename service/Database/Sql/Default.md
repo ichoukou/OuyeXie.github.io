@@ -1,7 +1,0 @@
- - Set the default value of a column based on another column of a different data type
-     - http://www.postgresql.org/docs/9.4/static/typeconv-overview.html
-         - [computed column](https://msdn.microsoft.com/en-us/library/ms188300.aspx)
-         - [trigger](https://technet.microsoft.com/en-us/library/ms175089(v=sql.105).aspx)
-         - [trigger](http://www.cnblogs.com/hoojo/archive/2011/07/20/2111316.html)
-         - [trigger example](http://stackoverflow.com/questions/13683413/referencing-another-column-in-default-definition-in-sql-server-2005)
-         - [postgresql trigger](http://www.postgresql.org/docs/9.4/static/trigger-example.html)

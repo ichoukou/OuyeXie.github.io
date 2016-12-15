@@ -1,1 +1,0 @@
-http://kangax.github.io/compat-table/es7/

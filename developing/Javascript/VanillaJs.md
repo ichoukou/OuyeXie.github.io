@@ -1,2 +1,0 @@
- - [What is VanillaJS?](http://stackoverflow.com/questions/20435653/what-is-vanillajs)
-    - Using "VanillaJS" means using plain JavaScript without any additional libraries like jQuery.

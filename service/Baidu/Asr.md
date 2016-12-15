@@ -1,1 +1,0 @@
-http://yuyin.baidu.com/docs/asr/57

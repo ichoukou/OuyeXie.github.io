@@ -1,4 +1,0 @@
- - [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)
- - [Elasticsearch Plugins and Integrations [2.3]](https://www.elastic.co/guide/en/elasticsearch/plugins/2.3/intro.html)
- - [Installing Sense](https://www.elastic.co/guide/en/elasticsearch/guide/current/running-elasticsearch.html)
-    - [Installing Sense](https://www.elastic.co/guide/en/sense/master/installing.html)

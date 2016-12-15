@@ -1,2 +1,0 @@
- - [hive大数据倾斜总结](http://www.cnblogs.com/ggjucheng/archive/2013/01/03/2842860.html)
- - [浅析 Hadoop 中的数据倾斜](http://my.oschina.net/leejun2005/blog/100922)

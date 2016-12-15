@@ -1,3 +1,0 @@
- - %s String
- - %f(%.3f) double, float
- - %d int, long, short

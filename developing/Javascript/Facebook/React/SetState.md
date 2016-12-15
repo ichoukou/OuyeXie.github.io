@@ -1,2 +1,0 @@
- - https://medium.com/@razgoldin/using-react-es-6-syntax-fc05acf72810#.ysrxxjifs
- - http://stackoverflow.com/questions/34464621/cannot-update-during-an-existing-state-transition

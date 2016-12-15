@@ -1,4 +1,0 @@
- - [slf4j](http://www.slf4j.org)
- - [为什么要使用SLF4J而不是Log4J](http://www.importnew.com/7450.html)
-    - SLF4J(Simple logging Facade for Java)不是一个真正的日志实现，而是一个抽象层（ abstraction layer），它允许你在后台使用任意一个日志类库
- - [slf4j结合log4j配置日志系统](http://www.tuicool.com/articles/6VRnui)

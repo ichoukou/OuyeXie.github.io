@@ -1,5 +1,0 @@
- - Server-side rendering allows you to pre-render the initial state of your React components server-side. This speeds up initial page loads as users do not need to wait for all the JavaScript to load before seeing the web page.
-    - http://reactjs.net/guides/server-side-rendering.html
- - [Client-Side vs. Server-Side Rendering](http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/)
- - [isomorphic-relay cookie problem](https://github.com/denvned/isomorphic-relay/issues/1)
-    - https://github.com/facebook/relay/issues/558

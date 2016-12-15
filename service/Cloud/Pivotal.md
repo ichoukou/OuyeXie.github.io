@@ -1,2 +1,0 @@
- - [Pivotal Web Services](https://run.pivotal.io/features/)
-    - [Pivotal推出Cloud Foundry云 专攻PaaS服务](http://server.yesky.com/datacenter/396/37232396.shtml)

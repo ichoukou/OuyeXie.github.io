@@ -1,3 +1,0 @@
- - [require() 源码解读](http://www.ruanyifeng.com/blog/2015/05/require.html)
- - [如何使用require.js?](http://www.cnblogs.com/wuxiaobin/p/4988410.html)
-    - 它的模块管理遵守AMD规范，模块与模块之间可以互相依赖，当然可能会有人会想，模块之间的依赖，要是没法正确地去按照特定顺序加载，会出现错误，AMD规范可以处理这种问题，AMD就是这样一种对模块的定义，使模块和它的依赖可以被异步的加载，但又按照正确的顺序。

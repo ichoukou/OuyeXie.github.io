@@ -1,1 +1,0 @@
- - [answer 5 works for me](http://stackoverflow.com/questions/1537223/change-cursor-type-on-input-type-file/9182787#9182787)

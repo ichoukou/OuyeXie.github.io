@@ -1,1 +1,0 @@
- - [redis-JedisPoolConfig配置](http://www.cnblogs.com/tankaixiong/p/4048167.html)

@@ -1,1 +1,0 @@
-http://www.cnblogs.com/whitewolf/p/details-of-ES7-JavaScript-Decorators.html

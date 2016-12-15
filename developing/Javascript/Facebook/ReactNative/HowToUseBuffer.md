@@ -1,2 +1,0 @@
- - [Issue](https://github.com/facebook/react-native/issues/1158)
- - [Library](https://www.npmjs.com/package/buffer)

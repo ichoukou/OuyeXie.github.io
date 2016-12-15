@@ -1,2 +1,0 @@
- - [mysql中is not null和!=null及null介绍](http://www.111cn.net/database/mysql/45457.htm)
-    - is not null

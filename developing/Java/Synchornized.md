@@ -1,1 +1,0 @@
- - [Java synchronized详解](http://www.cnblogs.com/devinzhang/archive/2011/12/14/2287675.html)

@@ -1,5 +1,0 @@
- - https://material.angularjs.org/latest/#/demo/material.components.chips
- - http://codepen.io/collection/AxKKgY/
- - http://baike.baidu.com/link?url=TjyA27kym9glKQ3onqvRW5vB0EDyqd9Sd2dk_SL86jwu0fo5Jnz_0NvXcH5qcZXf1ipMBtK3lrL3ykm9vGgtR_
- - [AngularJS 教程](http://www.runoob.com/angularjs/angularjs-tutorial.html)
- - [Quickstart](https://angular.io/docs/ts/latest/quickstart.html)

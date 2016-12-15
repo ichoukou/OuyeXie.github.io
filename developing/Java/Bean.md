@@ -1,1 +1,0 @@
- - [Java bean 是个什么概念？](http://www.zhihu.com/question/19773379)

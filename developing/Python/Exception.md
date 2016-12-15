@@ -1,2 +1,0 @@
- - http://www.oschina.net/translate/top-10-mistakes-that-python-programmers-make
- - [traceback](http://bbs.csdn.net/topics/90435944)
