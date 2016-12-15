@@ -1,0 +1,3 @@
+ - [regex](http://www.iteye.com/topic/481228/)
+ - [greedy](http://www.cppblog.com/biao/archive/2010/02/05/107298.html)
+ - [正则中需要转义的特殊字符小结](http://www.jb51.net/article/31478.htm)

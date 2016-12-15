@@ -1,0 +1,2 @@
+ - [用SimpleDateFormat把字符串转换成Date的时候报NumberFormatException10](http://www.iteye.com/problems/70537)
+    - 你好，出现这样的原因是因为：  SimpleDateFormat  这个类不是线程安全的 

@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/8033537/getting-hash-parameters-from-request-url

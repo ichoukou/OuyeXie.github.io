@@ -1,0 +1,3 @@
+ - [authentication-extension](https://github.com/neo4j-contrib/authentication-extension)
+ - [How to configure user and password for neo4j cluster without REST API](http://stackoverflow.com/questions/27645951/how-to-configure-user-and-password-for-neo4j-cluster-without-rest-api)
+    - :server change-password

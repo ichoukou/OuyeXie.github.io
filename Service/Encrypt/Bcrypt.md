@@ -1,0 +1,1 @@
+http://www.williamlong.info/archives/3224.html

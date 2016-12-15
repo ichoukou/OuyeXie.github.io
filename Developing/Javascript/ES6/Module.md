@@ -1,0 +1,3 @@
+ - http://www.2ality.com/2014/09/es6-modules-final.html
+ - https://spring.io/understanding/javascript-modules
+ - http://es6.ruanyifeng.com/#docs/module

@@ -1,0 +1,4 @@
+ - [数据库-规范化理论](http://wenku.baidu.com/link?url=gDUmvkAKGS70FFC2_EJ-viSkY61leqnyqLOod_4Dal-mfojfkrv3SgEwowuK-DNmPwORmYYbH0bpQpdPNB7DpKmQwwXaTa_MmJaJmZwYk7u)
+ - [SQL基础：数据库规范化与三范式](http://www.cnblogs.com/mengdd/archive/2013/04/23/3037149.html)
+ - [数据库关系规范化理论](http://blog.sina.com.cn/s/blog_4d73b3a7010008st.html)
+    - good

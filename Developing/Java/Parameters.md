@@ -1,0 +1,3 @@
+ - [Parameter passing in Java - by reference or by value?](http://www.yoda.arachsys.com/java/passing.html)
+ - [实际参数是如何传递到java方法的](http://www.blogjava.net/heis/archive/2009/04/23/267256.html)
+ - [java 值传递 数组传递](http://www.cnblogs.com/PopShow/p/5207974.html)

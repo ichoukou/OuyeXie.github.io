@@ -1,0 +1,2 @@
+ - Error: ignoring return value of function declared with warn_unused_result attribute
+    - https://github.com/facebook/react-native/issues/8584

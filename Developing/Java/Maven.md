@@ -1,0 +1,5 @@
+ - [MavenRepository](http://mvnrepository.com)
+ - [maven repository](http://blog.csdn.net/joewolf/article/details/4876604)
+    - 在settings.xml中配置远程仓库
+        - 这里我们定义一个id为dev的profile，将所有repositories以及pluginRepositories元素放到这个profile中，然后，使用<activeProfiles>元素自动激活该profile。这样，你就不用再为每个POM重复配置仓库。
+        - 如果你的地理位置附近有一个速度更快的central镜像，或者你想覆盖central仓库配置，或者你想为所有POM使用唯一的一个远程仓库（这个远程仓库代理的所有必要的其它仓库），你可以使用settings.xml中的mirror配置。

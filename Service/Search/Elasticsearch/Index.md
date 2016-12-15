@@ -1,0 +1,1 @@
+ - [向已存在的索引中添加自定义filter/analyzer](http://blog.csdn.net/dm_vincent/article/details/46996021)

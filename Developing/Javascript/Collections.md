@@ -1,0 +1,9 @@
+ - [如何遍历一个JS对象中的所有属性](http://zhidao.baidu.com/link?url=bcAFl4GhcTntE9Gk3y_gPVk_BtHdCYFoDaBz18tSre1NVRYuExkLUw011C68kJ7RT9I5cQ2i7rrsJb1Tk5BQ4a)
+    - for in
+ - set 
+    - new Set()
+    - use object with only keys
+    - [Set](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Set)
+ - [JavaScript Array 对象](http://www.w3school.com.cn/jsref/jsref_obj_array.asp)
+ - [How to convert Set to Array?](http://stackoverflow.com/questions/20069828/how-to-convert-set-to-array)
+    - let array = Array.from(mySet);

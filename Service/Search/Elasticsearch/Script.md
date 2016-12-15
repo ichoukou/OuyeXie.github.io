@@ -1,0 +1,4 @@
+ - [Introduction to Elasticsearch Scripting](https://qbox.io/blog/introduction-to-elasticsearch-scripting)
+ - [Scripting](https://www.elastic.co/guide/en/elasticsearch/reference/1.6/modules-scripting.html)
+ - [Groovy Documentation](http://groovy-lang.org/documentation.html)
+ - [Using boolean fields in groovy script in elasticsearch - doc['field_name'].value not working](http://stackoverflow.com/questions/29809853/using-boolean-fields-in-groovy-script-in-elasticsearch-docfield-name-value)

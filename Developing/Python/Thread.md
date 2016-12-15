@@ -1,0 +1,4 @@
+ - [thread](http://www.cnblogs.com/fnng/p/3489321.html)
+ - [threading](http://python.jobbole.com/81546/)
+ - [thread pool](http://jishublog.iteye.com/blog/1898971)
+ - [queue](http://www.jb51.net/article/48605.htm)

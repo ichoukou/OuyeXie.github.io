@@ -1,0 +1,1 @@
+http://www.jdon.com/idea/nodejs/promise.html

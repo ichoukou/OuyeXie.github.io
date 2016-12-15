@@ -1,0 +1,11 @@
+ - [neo4j-uuid](https://github.com/graphaware/neo4j-uuid)
+    - GraphAware UUID is a simple library that transparently assigns a UUID to newly created nodes and relationships in the graph and makes sure nobody can (accidentally or intentionally) change or delete them.
+ - [Node id should not be used in graphs](https://github.com/neo4j/neo4j/issues/258)
+    - The node id is an implementation detail and shouldn't be exposed in graphs used for documentation. It might be helpful for debugging a graph, but not in the context of documentation. If some example doesn't work without node id's in the output, fix the example to use attributes instead.
+ - [Node identifiers in neo4j](http://stackoverflow.com/questions/9051442/node-identifiers-in-neo4j)
+    - Think of the node-id as an implementation detail (like the rowid of relational databases, can be used to identify nodes but should not be relied on to be never reused). You would add your natural keys as properties to the node and then index your nodes with the natural key (or enable auto-indexing for them).
+ - [How to access the internal id of neo4j node?](http://stackoverflow.com/questions/27968827/how-to-access-the-internal-id-of-neo4j-node)
+    - The ID() function returns the internal ID of the node or relationship. This is a generated id that you can not control yourself, it is totally handled by the database (and it may even be reused so you can't really rely on those values). Each node has got exactly one internal id and it is unique throughout the entire database, hence you can never find multiple nodes with the same internal id.
+    - There can only be one node at a time with a given internal ID. After you delete a node, its internal ID can be reassigned to a new node, but not before then.
+ - [Using the graph to control unique id generation](https://gist.github.com/jacquibo/8012859)
+    - Neo4j does provide a unique id for each node and relationship, but they are not persistent. The id can be accessed by returning id(node) or id(relationship). This id is unique, but it can change if the database store is compacted. This compaction currently only occurs when the database is restarted, but it does mean the ids are volatile. Neo4j’s unique ids are also reused, given an id you may expect a Person and get a Fruit.

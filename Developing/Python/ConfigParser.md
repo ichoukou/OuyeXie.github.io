@@ -1,0 +1,2 @@
+ - http://blog.csdn.net/gexiaobaohelloworld/article/details/7976944
+ - https://docs.python.org/2/library/configparser.html

@@ -1,0 +1,3 @@
+ - http://baike.baidu.com/link?url=w397EqnmfMx3eOSKDlEIm74gBFUia2u-Pd7HRA22RdaTK-XpvLjcRFdqyFMUoItnW-0MhtLUwQ7Aiq2GyIh_ca
+ - [Javascript闭包——懂不懂由你，反正我是懂了](http://kb.cnblogs.com/page/110782/)
+ - [(runyifeng)学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)

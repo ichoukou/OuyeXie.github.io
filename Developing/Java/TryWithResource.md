@@ -1,0 +1,3 @@
+ - [The try-with-resources Statement](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html)
+ - [Java7里try-with-resources分析](http://blog.csdn.net/hengyunabc/article/details/18459463)
+ - [Java 7中的Try-with-resources](http://ifeve.com/java-7中的try-with-resources/)

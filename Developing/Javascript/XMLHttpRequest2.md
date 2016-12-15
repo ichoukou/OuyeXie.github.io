@@ -1,0 +1,3 @@
+ - http://www.ruanyifeng.com/blog/2012/09/xmlhttprequest_level_2.html
+ - https://github.com/ioseb/XMLHttpRequest2
+ - [Automatic cookies #1274](https://github.com/facebook/react-native/issues/1274)
