@@ -24,9 +24,37 @@
     - the law of demand
     - demand vs quantity demanded
     - demand curve
+ - 相关产品价格和需求
+    - the price of related products
+        - substitute
+        - complement
+ - 收入、人口或偏好变化
+    - price expected
+    - income
+        - inferior good
+        - normal good
+    - population
+    - preference
+ - 正常商品和劣等商品
+ - 劣等商品阐明
+ - 供给定律 
+    - the law of supply
+ - 影响供给的各种因素
+    - price of inputs
+    - price of related goods
+    - number of suppliers
+    - technology
+    - expected future price
+        - perishable goods 易腐
+ - 市场均衡
+    - shortage
+    - surplus
+    - equilibrium price
+    - equilibrium quantity
     
     
     
+  
 # References 
  
  - http://open.163.com/movie/2011/11/C/P/M8LHSGLJP_M8LI5BDCP.html
