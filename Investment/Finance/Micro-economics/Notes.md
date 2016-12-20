@@ -51,9 +51,17 @@
     - surplus
     - equilibrium price
     - equilibrium quantity
-    
-    
-    
+ - 市场均衡变化
+ - 价格的需求弹性
+    - elasticity of demand: change in price impacts on quantity demanded
+ - 需求弹性进一步讲解
+ - 完全无弹性和完全弹性
+    - insulin: perfect inelasticity -> 0
+    - coke vending machine: perfect elasticity -> infinite
+ - 常数单位弹性
+    - linear demand curve
+    - constant elasticity of demand
+ - 总收入和弹性
   
 # References 
  
