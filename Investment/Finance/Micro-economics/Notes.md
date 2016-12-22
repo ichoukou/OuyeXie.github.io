@@ -62,6 +62,22 @@
     - linear demand curve
     - constant elasticity of demand
  - 总收入和弹性
+    - total revenue = price * quantity
+    - while elastic, price down, total revenue up
+    - while unit elastic, price change, total revenue constant
+    - while inelastic, price down, total revenue down
+ - 总收入和弹性进一步讲解
+ - 需求交叉弹性
+    - cross elasticity of demand
+    - nearly perfect substitute
+        - positive value
+    - complement
+        - negative relationship
+    - unrelated
+        - 0
+ - 供给弹性
+    - elasticity of supply
+    - NOT FINISHED (22/12/2016 prepare english)
   
 # References 
  
