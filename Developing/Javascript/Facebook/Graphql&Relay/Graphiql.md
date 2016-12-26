@@ -23,3 +23,12 @@ query{
     }
   }
 }
+
+mutation UpdateContributorUsername {
+  subscribeStockMutation(input: {clientMutationId:"a", stockId: "U3RvY2s6NDMwNDg4", subscribed: false}) {
+    stock {
+      id
+      viewerDoesSubscribe
+    }
+  }
+}
