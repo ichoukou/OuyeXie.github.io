@@ -23,7 +23,7 @@
  - http://roadtoielts.chinaielts.org
     - writing
         - http://roadtoielts.chinaielts.org/area1/RoadToIELTS2/Start-GT.php?prefix=TD
-            - ![linking words and phrases](../Assets/6225979c947d48869f1b7667c8c8d16c_th.png)
+            - ![linking words and phrases](../Assets/Screen Shot 2016-12-21 at 7.17.37 PM.png)
             
 # Xindongfang Band 9
 
