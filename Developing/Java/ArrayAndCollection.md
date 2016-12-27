@@ -46,8 +46,11 @@
     - List list = Arrays.asList(arr);
  
  - [JAVA数组初始化](http://wenwen.sogou.com/z/q69635729.htm)
-    - string[] str = new string[]{1,2,3}       或       string[] str = {1,2,3}              二维数组初始化       int[][] a={{1,2,3},{2,3,4},{1,0}}
-    
+ 
+```
+string[] str = new string[]{1,2,3}       或       string[] str = {1,2,3}              二维数组初始化       int[][] a={{1,2,3},{2,3,4},{1,0}}
+``` 
+
  - [java的数据类型有基本类型和引用类型。数组属于什么类型？ [问题点数：20分，结帖人OnlyOneLove]](http://bbs.csdn.net/topics/330044718)
     - 引用 Object
     
