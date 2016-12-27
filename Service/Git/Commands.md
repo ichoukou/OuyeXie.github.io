@@ -78,3 +78,4 @@ Warning! This will delete and replace any private key you have at H2.
     - git reset –soft：回退到某个版本，只回退了commit的信息，不会恢复到index file一级。如果还要提交，直接commit即可
     - git reset –hard：彻底回退到某个版本，本地的源码也会变为上一个版本的内容
  - http://stackoverflow.com/questions/3011625/git-mv-and-only-change-case-of-directory/3011723#3011723
+ - [error: src refspec XXX matches more than one](http://blog.csdn.net/cjc921/article/details/43672425)
