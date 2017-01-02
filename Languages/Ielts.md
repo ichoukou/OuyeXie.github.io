@@ -272,9 +272,10 @@
 ## Writing   
  
  - writing bookmarks
-    - 133 02/01/2017
     - 219-311/314 task 1
+        - 231 02/01/2017
     - 122-219/314 task 2
+        - 133 02/01/2017
    
  - Questions
     - agree or disagree
@@ -285,8 +286,42 @@
  - notes
     - it is essential to use precise and accurate vocabulary, including preposition, in order to get a high band.
     
+### Task 1
+    
+ - Letters
+    - formal
+        - Dear ..., Yours sincerely,
+        - Dear Mr/Mrs, Yours faithfully,
+        
+    - informal
+        - abbreviation
+        - Dear ..., Regards,
+ 
+ - expression
+    - thus far
+    - lodge a complaint about
+    - read closely
+    - by comparison with
+    - prior to
+    - indicate
+    - unlimited access to 
+    - upon arrival
+    - other such ...
+    - fellow students
+    - as you are no doubt aware,
+    - Considering ...,
+    - entirely unreasonable
+    - irrational
+    - affordable alternatives
+    - when it comes to...
+    - your assistant in this matter is greatly appreciated
+    
+ 
+ 
+### Task 2
  - grammar
-    - --
+    - `--`
+    - `-`
     - ()
     - ,,
     - The Internet has brought significant changes to our lives in recent years.
