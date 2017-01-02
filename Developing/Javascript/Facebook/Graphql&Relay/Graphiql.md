@@ -32,3 +32,25 @@ mutation UpdateContributorUsername {
     }
   }
 }
+
+graphiql: process.env.NODE_ENV === 'development' || !!req.query.debug,
+=>
+http://shengupiao.com/graphql?debug=true
+
+query {stock (symbol: "837602") {
+  activities(first: 100) {
+    edges {
+      node {
+        ... on PostActivity {
+        post {
+          sourceCreatedAt
+          createdAt
+          id
+          title
+        }
+      }
+    }
+  }
+}
+}
+}

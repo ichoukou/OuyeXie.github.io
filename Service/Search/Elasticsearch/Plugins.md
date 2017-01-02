@@ -175,3 +175,27 @@ curl 'http://localhost:9288/stocks/_analyze?analyzer=bosonnlp&pretty=true' -d ' 
     - 新浪云：http://www.sinacloud.com/doc/sae/python/segment.html
     
     - 语言云：http://www.ltp-cloud.com/document
+    
+# [PLUGINS](https://www.elastic.co/guide/en/elasticsearch/plugins/5.1/intro.htmla)
+  
+## general
+   
+ - Plugins contain JAR files, but may also contain scripts and config files, and must be installed on every node in the cluster. After installation, each node must be restarted before the plugin becomes visible.
+ - [Help for plugin authors](https://www.elastic.co/guide/en/elasticsearch/plugins/5.1/plugin-authors.html)
+    - https://github.com/elastic/elasticsearch/tree/master/plugins/jvm-example
+ - [The ultimate guide for Elasticsearch plugins](http://www.slideshare.net/synhershko/the-ultimate-guide-for-elasticsearch-plugins)
+ 
+## write your own
+
+ - [Creating a Plugin for Elasticsearch 5.0 Using Maven](http://david.pilato.fr/blog/2016/07/27/creating-a-plugin-for-elasticsearch-5-dot-0-using-maven/)
+    - good
+    - [Creating a Plugin for Elasticsearch 5.0 Using Maven (Updated for GA)](http://david.pilato.fr/blog/2016/10/16/creating-a-plugin-for-elasticsearch-5-dot-0-using-maven-updated-for-ga/)
+    - [Creating an Ingest Plugin for Elasticsearch (Updated for GA)](http://david.pilato.fr/blog/2016/10/17/creating-an-ingest-plugin-for-elasticsearch-updated-for-ga/)
+    - [Elasticsearch Real Integration Tests (Updated for GA)](http://david.pilato.fr/blog/2016/10/18/elasticsearch-real-integration-tests-updated-for-ga/)
+ - [BUILDING A CUSTOM ANALYZER IN LUCENE](https://www.citrine.io/blog/2015/2/14/building-a-custom-analyzer-in-lucene)
+ - [BUILDING CUSTOM PLUGINS FOR ELASTICSEARCH](https://www.citrine.io/blog/2015/2/24/building-a-custom-analyzer-in-lucene-part-two)
+     - [plugin-plussign](https://github.com/OuyeXie/plugin-plussign)
+     - * `PlusSignAnalyzerProvider extends AbstractIndexAnalyzerProvider`
+     - * `PlusSignBinderProcessor extends AnalysisModule.AnalysisBinderProcessor`
+     - * `PlusSignPlugin extends AbstractPlugin`
+ - [Creating custom analysis plugin](https://www.safaribooksonline.com/library/view/mastering-elasticsearch/9781783281435/ch09s03.html)

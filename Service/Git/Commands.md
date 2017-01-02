@@ -39,6 +39,7 @@ git pull --rebase filod migration //quick way: http://www.yiibai.com/git/git_pul
 git commit -a -m "test" --no-verify //skip pre-commit hook
 git reset --soft asdfasdf //when you mis-commit something (left something for example) (git commit -c ORIG_HEAD )
 git config core.ignorecase false //You want to set the option core.ignorecase to false, which will make Git pay attention to case on file systems that don't natively support it. To enable in your repo
+git push origin refs/heads/1.0.0-beta
 </code>
 </div>
 
