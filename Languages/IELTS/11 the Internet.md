@@ -1,0 +1,39 @@
+- 122
+    - grammar
+        - `--`
+        - `-`
+        - ()
+        - ,,
+        - The Internet has brought significant changes to our lives in recent years.
+        - Yet, there remains some disagreement as to whether the overall impact of ... has been positive or negative.
+        - While there are certain valid arguments to the contrary ...
+        - Equally importantly,
+        - despite
+        - nevertheless
+        - by way of conclusion, I once again reaffirm that 
+        - admittedly
+        - recently, in recent times (PP)
+    - vocabulary/lexis
+        - ... and ...
+        - ... or ...
+        - *reaffirm/restate
+        - *impact
+        - far overweight
+        - the benefits are twofold
+        - indisputable fact
+        - revolutionise
+        - a problem occasionally seen in 
+        - incredibly useful and powerful
+        - facilitate
+        - a vast amount of 
+        - offensive
+        - pornography
+        - change -> alter
+        - talk to -> relate to 
+        - friends and families -> loved ones
+        - involve -> entail
+        - can be accessed
+        - reliable
+        - in earlier times
+        - faraway places
+        - global trade

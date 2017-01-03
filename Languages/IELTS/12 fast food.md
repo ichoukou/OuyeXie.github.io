@@ -1,0 +1,27 @@
+ - 133
+    - grammar
+        - The past 50 years have seen a dramatic increase in the availability of fast food.
+        - Two of the primary drawbacks associated with this trend are listed as follows. 
+        - Moreover,
+        - in other words
+        - further and even more importantly, though, 
+        - it is also interesting to note that
+        - Having grown up doing ...
+        - Given the ... risks associated with this trend, I believe...
+        - has a positive role to play in the world
+    
+    - vocabulary/lexis
+        - laud
+        - relatively low cost
+        - detrimental
+        - at large (society at large)
+        - undeniable fact
+        - to excess
+        - illnesses -> ailments (such ailments as high blood pressure, obesity ...)
+        - affordable
+        - deliberately
+        - Ronald McDonald
+        - a beacon to
+        - playgrounds
+        - warranted
+        - major health problems

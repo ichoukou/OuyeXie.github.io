@@ -1,0 +1,15 @@
+ - 240
+    - branch
+    - representatives
+    - dependable
+    - vehicle
+    - mechanical
+    - stranded
+    - To make matters worse,
+    - Consequently
+    - , first ... and then ..., 
+    - summer hot
+    - in the summer heat
+    - entitled to request a full refund
+    - prompt resolution of this matter
+    - would be doing 

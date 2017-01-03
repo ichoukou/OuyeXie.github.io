@@ -1,0 +1,28 @@
+ - 142
+    - grammar
+        - The past 50 years have seen a considerable increase in ...
+        - this is unlikely to occur while 
+        - one particularly salient example of this is     
+    - vocabulary/lexis
+        - undeniable economic prosperity
+        - host countries
+        - international holidaymaking
+        - holidaymaker
+        - has been in fact negative
+        - wealthy 
+        - affluent
+        - influx
+        - prostitution, alcoholism and drug abuse
+        - foster
+        - understanding and tolerance
+        - potent symbol of western cultural domination
+        - moral decadence
+        - degradation
+        - decades
+        - snorkellers
+        - sustainable
+        - renowned
+        - booming
+        - numerous and complex
+        - insurmountable
+        - foreseeable future

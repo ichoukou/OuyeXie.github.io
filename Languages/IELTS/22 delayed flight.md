@@ -1,0 +1,17 @@
+ - 231
+    - I am writing with regard to 
+    - I was initially booked to 
+    - leave ... for ...
+    - the first leg 
+    - the outgoing journey
+    - uneventful
+    - in the boarding lounge
+    - at ... airport
+    - due to commence work
+    - band 6, ... was entirely to blame for this ...
+    - foul-up
+    - at such short notice
+    - entirely the fault of ...
+    - I feel that compensation in the form of a complimentary ticket of the same distance would be warranted.
+    - supplied
+    - A swift reply would be greatly appreciated.

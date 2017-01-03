@@ -1,0 +1,18 @@
+ - 219
+    - thus far
+    - lodge a complaint about
+    - read closely
+    - by comparison with
+    - prior to
+    - indicate
+    - unlimited access to 
+    - upon arrival
+    - other such ...
+    - fellow students
+    - as you are no doubt aware,
+    - Considering ...,
+    - entirely unreasonable
+    - irrational
+    - affordable alternatives
+    - when it comes to...
+    - your assistant in this matter is greatly appreciated
