@@ -35,3 +35,18 @@
  - species ['spiʃiz]
  - sugar ['ʃʊgə]
  - tissues ['tɪʃu]
+ 
+# Synonyms Thesaurus
+ 
+ - wealthy, affluent, over-loaded, up-market, opulent, rich, flush, flourish, moneyed, loaded, propertied, uptown, upscale, well-heeled
+ - degradation, pollution, contamination
+ - salient, classic, typical, prime
+ - indisputable, undeniable, evident, certain, irrefutable, indubitable
+ - refute, argue, contend, expose, debate, counter, oppose, disputed
+ - well-known, renowned, prominent, notable, esteemed, distinguished, famed
+ - destroy, dispatch, eradicate, extinguish, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
+ - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser
+ - legislation, law, regulation, constitution, order, ruling, warrant, requirement
+ - prohibit, forbid, ban, constrain, block, inhibit, obstruct
+ - dispatch, delegate, distribute
+ - 

@@ -274,89 +274,295 @@
  - writing bookmarks
     - 219-311/314 task 1
         - 231 02/01/2017
+        - 240 03/01/2017
+        - 249 03/01/2017
     - 122-219/314 task 2
         - 133 02/01/2017
+        - 142 03/01/2017 --->
+        - 152 03/01/2017
+        - 161 03/01/2017
    
  - Questions
     - agree or disagree
         - opinion
+            - first
+                - Issue
+                - Raise questions
+                - Despite ... I ...
+                - Reasons
+            - second
+                - Topic
+                <div>
+                - Example
+                - Support
+                </div>
+                <div>
+                - Admittedly
+                - Nevertheless
+                </div>
+            - third
+                - Topic
+                <div>
+                - Example
+                </div>
+                <div>
+                - Example
+                - Conclude briefly
+                </div>
+            - fourth
+                - Conclusion
+                - Although ..., it ...
         - agree or disagree
     - causes, effects and solutions
  
  - notes
     - it is essential to use precise and accurate vocabulary, including preposition, in order to get a high band.
     
+ - speaking English
+    - I think ...
+    
+ - expressions
+    - imagine what would happen -> unreal and imaginary situations
+    - imagine what will happen -> planned situations
+    
 ### Task 1
     
  - Letters
     - formal
-        - Dear ..., Yours sincerely,
-        - Dear Mr/Mrs, Yours faithfully,
+        - Dear Mr ..., Yours sincerely,
+        - Dear Sir/Madam, Yours faithfully,
         
     - informal
+        - acquaintance
         - abbreviation
         - Dear ..., Regards,
  
  - expression
-    - thus far
-    - lodge a complaint about
-    - read closely
-    - by comparison with
-    - prior to
-    - indicate
-    - unlimited access to 
-    - upon arrival
-    - other such ...
-    - fellow students
-    - as you are no doubt aware,
-    - Considering ...,
-    - entirely unreasonable
-    - irrational
-    - affordable alternatives
-    - when it comes to...
-    - your assistant in this matter is greatly appreciated
+    - 21 Internet connection problems
+        - thus far
+        - lodge a complaint about
+        - read closely
+        - by comparison with
+        - prior to
+        - indicate
+        - unlimited access to 
+        - upon arrival
+        - other such ...
+        - fellow students
+        - as you are no doubt aware,
+        - Considering ...,
+        - entirely unreasonable
+        - irrational
+        - affordable alternatives
+        - when it comes to...
+        - your assistant in this matter is greatly appreciated
+    - 22 delayed flight
+        - I am writing with regard to 
+        - I was initially booked to 
+        - leave ... for ...
+        - the first leg 
+        - the outgoing journey
+        - uneventful
+        - in the boarding lounge
+        - at ... airport
+        - due to commence work
+        - band 6, ... was entirely to blame for this ...
+        - foul-up
+        - at such short notice
+        - entirely the fault of ...
+        - I feel that compensation in the form of a complimentary ticket of the same distance would be warranted.
+        - supplied
+        - A swift reply would be greatly appreciated.
+    - 23 problems with a rental car
+        - branch
+        - representatives
+        - dependable
+        - vehicle
+        - mechanical
+        - stranded
+        - To make matters worse,
+        - Consequently
+        - , first ... and then ..., 
+        - summer hot
+        - in the summer heat
+        - entitled to request a full refund
+        - prompt resolution of this matter
+        - would be doing 
+    - 24 low IELTS score
+    - 25 university clubs
+    - 26 university entrance requirements
+    - 27 missed immigration interview
+    - 28 saying goodbye
+    - 29 in hospital
+    - 30 change of plans
     
  
  
 ### Task 2
- - grammar
-    - `--`
-    - `-`
-    - ()
-    - ,,
-    - The Internet has brought significant changes to our lives in recent years.
-    - Yet, there remains some disagreement as to whether the overall impact of ... has been positive or negative.
-    - While there are certain valid arguments to the contrary ...
-    - Equally importantly,
-    - despite
-    - nevertheless
-    - by way of conclusion
-    - admittedly
-    - recently, in recent times (PP)
-       
-     
+ - 11 the Internet
+    - grammar
+        - `--`
+        - `-`
+        - ()
+        - ,,
+        - The Internet has brought significant changes to our lives in recent years.
+        - Yet, there remains some disagreement as to whether the overall impact of ... has been positive or negative.
+        - While there are certain valid arguments to the contrary ...
+        - Equally importantly,
+        - despite
+        - nevertheless
+        - by way of conclusion, I once again reaffirm that 
+        - admittedly
+        - recently, in recent times (PP)
     
- - vocabulary/lexis
-    - ... and ...
-    - ... or ...
-    - *reaffirm/restate
-    - *impact
-    - far overweight
-    - the benefits are twofold
-    - indisputable fact
-    - revolutionise
-    - a problem occasionally seen in 
-    - incredibly useful and powerful
-    - facilitate
-    - a vast amount of 
-    - offensive
-    - pornography
-    - change -> alter
-    - talk to -> relate to 
-    - friends and families -> loved ones
-    - involve -> entail
-    - can be accessed
-    - reliable
-    - in earlier times
-    - faraway places
-    - global trade
+    - vocabulary/lexis
+        - ... and ...
+        - ... or ...
+        - *reaffirm/restate
+        - *impact
+        - far overweight
+        - the benefits are twofold
+        - indisputable fact
+        - revolutionise
+        - a problem occasionally seen in 
+        - incredibly useful and powerful
+        - facilitate
+        - a vast amount of 
+        - offensive
+        - pornography
+        - change -> alter
+        - talk to -> relate to 
+        - friends and families -> loved ones
+        - involve -> entail
+        - can be accessed
+        - reliable
+        - in earlier times
+        - faraway places
+        - global trade
+        
+ - 12 fast food
+    - grammar
+        - The past 50 years have seen a dramatic increase in the availability of fast food.
+        - Two of the primary drawbacks associated with this trend are listed as follows. 
+        - Moreover,
+        - in other words
+        - further and even more importantly, though, 
+        - it is also interesting to note that
+        - Having grown up doing ...
+        - Given the ... risks associated with this trend, I believe...
+        - has a positive role to play in the world
+    
+    - vocabulary/lexis
+        - laud
+        - relatively low cost
+        - detrimental
+        - at large (society at large)
+        - undeniable fact
+        - to excess
+        - illnesses -> ailments (such ailments as high blood pressure, obesity ...)
+        - affordable
+        - deliberately
+        - Ronald McDonald
+        - a beacon to
+        - playgrounds
+        - warranted
+        - major health problems
+    
+ - 13 international tourism
+    - grammar
+        - The past 50 years have seen a considerable increase in ...
+        - this is unlikely to occur while 
+        - one particularly salient example of this is     
+    - vocabulary/lexis
+        - undeniable economic prosperity
+        - host countries
+        - international holidaymaking
+        - holidaymaker
+        - has been in fact negative
+        - wealthy 
+        - affluent
+        - influx
+        - prostitution, alcoholism and drug abuse
+        - foster
+        - understanding and tolerance
+        - potent symbol of western cultural domination
+        - moral decadence
+        - degradation
+        - decades
+        - snorkellers
+        - sustainable
+        - renowned
+        - booming
+        - numerous and complex
+        - insurmountable
+        - foreseeable future
+        
+             
+ - 14 immigration
+    - grammar
+        - this raises certain questions about  
+        - Although there are valid arguments to the contrary, in this paper I will argue that ...
+        - The reason for this are twofold
+        - Imagine the chaos that would ensure if ...
+        - It is, therefore, for all ...
+        - Two further instances of practices which are ... are ...
+        - Secondly and more importantly, though, 
+        - It is my belief that 
+        - , whereas
+    - vocabulary/lexis
+        - integration
+        - immigrants
+        - accepted rules of behaviours
+        - both written and unwritten
+        - vitally important
+        - for the sake of 
+        - chaos
+        - etiquette
+        - regardless of 
+        - possession
+        - permitted
+        - prohibited
+        - societal cohesion
+        - social norms
+        - legislation
+        - vibrancy
+        - contend
+        - undermine
+        - diversity
+        - alienate
+        - tendency
+        - homogeneous
+        - blurred
+        - obey -> observe the laws
+        - unite
+
+
+ - 15 jobs and gender
+    - grammar
+              
+    - vocabulary/lexis
+    
+ - 16 cigarette smoking
+    - grammar
+              
+    - vocabulary/lexis
+    
+ - 17 endangered species
+    - grammar
+              
+    - vocabulary/lexis
+    
+ - 18 rural depopulation
+    - grammar
+              
+    - vocabulary/lexis
+    
+ - 19 distance within families
+    - grammar
+              
+    - vocabulary/lexis
+    
+ - 20 declining educational standards
+    - grammar
+              
+    - vocabulary/lexis
