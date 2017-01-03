@@ -1,1 +1,20 @@
  - 249
+    - insufficient
+    - minimum of
+    - gain admission
+    - means of gaining entrance
+    - Your assistance in this matter is greatly appreciated.
+    - competency
+    - enrolling overseas candidates
+    - pre-sessional
+    - internal examination
+    - resit
+    - prior to
+    - semester
+    - hence
+    - on offer
+    - band score of 6
+    - indicated
+    - along with 
+    - programme
+    - institute

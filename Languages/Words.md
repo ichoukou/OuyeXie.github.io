@@ -18,6 +18,7 @@
  - [retain和maintain作“保持”讲怎么区别？](https://zhidao.baidu.com/question/11732149.html?qbl=relate_question_1&word=retain%20maintain)
     - retain主要指保留，持有某样东西，还有“取得”的意思
     - maintain是保持某个动作或状态的意思，如maintain stability.
+        - I maintain ... I still believe
     - sustain 经过一场劫难得以保存。
     
 # Pronunciation [prə,nʌnsɪ'eɪʃ(ə)n]
@@ -46,7 +47,12 @@
  - well-known, renowned, prominent, notable, esteemed, distinguished, famed
  - destroy, dispatch, eradicate, extinguish, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
  - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser
- - legislation, law, regulation, constitution, order, ruling, warrant, requirement
+ - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction
  - prohibit, forbid, ban, constrain, block, inhibit, obstruct
  - dispatch, delegate, distribute
- - 
+ - conservative, constant, conventional, inflexible, obsolete, deprecated
+ - sophisticated (sophomore), experienced, mature, practical, refined, stereotypical (stereotype (n)) 
+ - luxurious (luxury), extravagant, costly, deluxe, fancy, gorgeous, grand, posh, majestic, lavish
+ - wise, wisdom, wizard (n), insightful, educated, discreet, shrewd, shap, bright, intelligent, smart, gifted, talented, 
+ - unwise, thickheaded, foolish, indiscreet, naive, senseless, silly, moronic, moron (n), absurd, insane, jerky, mad, ridiculous, stupid, unintelligent, illogical
+ - obstacles, block, bump, clog, hamper, handicap, hardship, hitch, stumbling (adj), rub, obstruction, restriction, barricade, fence, hedge, palings

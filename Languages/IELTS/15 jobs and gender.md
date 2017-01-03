@@ -1,4 +1,32 @@
  - 161
     - grammar
-          
+        - These days, it seems that more ... than ever before  
+        - The reasons of my position are as follows.
+        - I would contend ...
+        - I maintain ...
     - vocabulary/lexis
+        - and vice versa
+        - hold to the conservative view that
+        - performed
+        - base ... on
+        - broad generalisations about
+        - characteristics
+        - stereotypes
+        - traits
+        - typical of 
+        - exceptions to
+        - interpersonal communicators
+        - conventional
+        - traditionally reserved
+        - opposite sex
+        - in a workplace
+        - frequently, though by no means always, 
+        - Rather than judging ...
+        - work practices
+        - transformed
+        - inaccurate
+        - innovation
+        - occupation
+        - argue -> contend
+        - thus
+        - simply
