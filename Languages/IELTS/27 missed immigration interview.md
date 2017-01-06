@@ -1,0 +1,16 @@
+ - 275
+    - I am writing in order to explain 
+    - absence from 
+    - was scheduled to attend
+    - request a new appointment
+    - I was, in fact, ...
+    - suffer a severe asthma attack
+    - accompany my daughter to the hospital
+    - attempted to contact
+    - comfort my daughter
+    - simply forgot
+    - I sincerely apologise for the inconvenience I am sure I caused interviews and others at your office.
+    - I am wondering if it would be possible to ... <b>?</b>
+    - arrange an appointment
+    - for sometime during the next two weeks
+    - I appreciated your assistance in this matter.

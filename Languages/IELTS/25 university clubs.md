@@ -1,2 +1,18 @@
  - 258
-    - 
+    - I am a newly enrolled overseas students soon to take up studies at your university.
+    - I am writing with regards to ...
+    - clubs and societies
+    - likely to be open and operating
+    - during the coming semester
+    - rather nervous
+    - would, therefore, like to 
+    - make some contacts
+    - brochures
+    - information on membership and associated fees
+    - enquiries
+    - inquiries
+    - inquire
+    - of particular interest to me
+    - Your assistance in this matter is greatly appreciated
+    - be grateful for
+    - I wanted to ...

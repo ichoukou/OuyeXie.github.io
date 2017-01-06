@@ -4,13 +4,14 @@
         - `-`
         - ()
         - ,,
-        - The Internet has brought significant changes to our lives in recent years.
+        - <b>The Internet has brought significant changes to our lives in recent years.</b>
         - Yet, there remains some disagreement as to whether the overall impact of ... has been positive or negative.
         - While there are certain valid arguments to the contrary ...
+        - <b>These benefits are twofold</b>
         - Equally importantly,
         - despite
         - nevertheless
-        - by way of conclusion, I once again reaffirm that 
+        - <b>by way of conclusion, I once again reaffirm that</b>
         - admittedly
         - recently, in recent times (PP)
     - vocabulary/lexis
@@ -19,7 +20,6 @@
         - *reaffirm/restate
         - *impact
         - far overweight
-        - the benefits are twofold
         - indisputable fact
         - revolutionise
         - a problem occasionally seen in 

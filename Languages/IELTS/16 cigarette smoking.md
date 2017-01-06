@@ -1,4 +1,34 @@
- - 161
+ - 171
     - grammar
+        - <b>There are widely differing views on the issue of whether ...</b>
+        - Some people would suggest that ... and that ... , however, I personally believe that ...
+        - <b>There are two principle reasons for this.</b>
+        - One point which I believe to be absolutely pivotal is the fact that ...
+        - If ... , therefore, I believe ...
+        - It is particularly so given the fact that ... , while ...
+        - However, perhaps the strongest argument in favor of / against ... is that of (public health).
+        - It is a irrefutable fact that
+        - would no doubt argue that ...
+        - `- including -`
           
     - vocabulary/lexis
+        - prohibitionist approach
+        - substance abuse
+        - to be consistent in pursuing ...
+        - illicit drugs
+        - heroin
+        - cocaine
+        - marijuana
+        - legitimate medical applications
+        - lung cancer
+        - other such fatal diseases
+        - pro-smoking groups
+        - interests and rights of society at large
+        - entirely justified
+        - widespread prohibition
+        - seriousness
+        - ultimate goal
+        - cover the costs
+        - costly
+        - the majority of 
+        - wish to

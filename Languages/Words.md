@@ -56,3 +56,6 @@
  - wise, wisdom, wizard (n), insightful, educated, discreet, shrewd, shap, bright, intelligent, smart, gifted, talented, 
  - unwise, thickheaded, foolish, indiscreet, naive, senseless, silly, moronic, moron (n), absurd, insane, jerky, mad, ridiculous, stupid, unintelligent, illogical
  - obstacles, block, bump, clog, hamper, handicap, hardship, hitch, stumbling (adj), rub, obstruction, restriction, barricade, fence, hedge, palings
+ - controversial, contentious
+ - delicate, fragile
+ - contractions,  abbreviation
