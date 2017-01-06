@@ -59,3 +59,5 @@
  - controversial, contentious
  - delicate, fragile
  - contractions,  abbreviation
+ - difference, disparity, distinction
+ - appealing, tempting, attractive, intriguing, charming, lovable, delightful, dishy, pleasing

@@ -1,4 +1,39 @@
  - 190
     - grammar
-          
+        - While ... , these days ...
+        - <b>In this essay, I intend to discuss the impact of this problem as well as how ...</b>
+        - such as high unemployment, crime and, in less affluent counties, the creation of slums
+        - In order to stem the tide of rural depopulation, ...
+        - I firmly believe that country and city dwellers alike would find the idea of
+        - One further method of ... would be ...
+        - <b>In reality, this problem is unlikely to be resolved in the short term. However, it is by no means of insurmountable, and I am convinced that ... </b>
     - vocabulary/lexis
+        - vibrant and growing places
+        - excitement
+        - rural areas
+        - Surprisingly, 
+        - the most serious consequence 
+        - urban areas
+        - as a result of
+        - overcrowding
+        - throughout the world
+        - be increasingly prone to 
+        - particularly good example of
+        - Further
+        - uncontrolled development / growth
+        - give rise to 
+        - social problems
+        - in less affluent countries
+        - the creation of slums
+        - Clearly,
+        - a limit to 
+        - negatively influenced
+        - address its root causes
+        - At the heart of this matter is the disparity of 
+        - services and facilities
+        - more readily available
+        - far more appealing
+        - financial incentives
+        - subsidies (subsidise)
+        - willingly relocate
+        
