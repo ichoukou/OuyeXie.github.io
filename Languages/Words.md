@@ -61,3 +61,4 @@
  - contractions,  abbreviation
  - difference, disparity, distinction
  - appealing, tempting, attractive, intriguing, charming, lovable, delightful, dishy, pleasing
+ - compensate, complement (vs compliment)

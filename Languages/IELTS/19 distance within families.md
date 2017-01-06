@@ -1,4 +1,45 @@
  - 200
     - grammar
-          
+        - Now, however,   
+        - <b>This phenomenon is symptomatic of the ... </b>
+        - <b>In this essay, I intend to explore the sources of this problem along with some possible solutions to it.</b>
+        - <b>Chief among the causes of this problem is ...</b>
+        - Recently, though, 
+        - Consequently, 
+        - Little wonder, then, that ...
+        - <b>Another contributing factor is ...</b>
+        - <b>In order to resolve ... , I believe we must first address its root causes.</b>
+        - <b>Perhaps the most effective method of doing this would be ...</b>
+        - Admittedly, 
+        - <b>One another measure would be to ... </b>
+        - <b>In conclusion, I believe that this is clearly a problem of such complexity that no solution is likely in the short term. However, I believe that the measures outlined above would constitute a good first step.</b>
     - vocabulary/lexis
+        - divorce and family breakdown
+        - were virtually unheard of 
+        - previous generations
+        - traditionally
+        - assume the role of breadwinner
+        - assume the responsibility
+        - act as the homemaker
+        - become the norm
+        - double income family
+        - alienated
+        - passive and solitary nature
+        - modern forms of entertainment
+        - sense of alienation within families
+        - financial incentives
+        - subsidies
+        - fully compensate
+        - couples
+        - soften the hardship
+        - live on a single income
+        - provide an alternative
+        - would rather
+        - remain at home
+        - financial constraints
+        - interactive leisure activities
+        - pastime
+        - public education campaigns
+        - in the community
+        - in recent times
+        - abovementioned
