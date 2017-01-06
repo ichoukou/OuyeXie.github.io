@@ -1,1 +1,22 @@
  - 293
+    - Dear Friends,
+    - Thank you all so much for your ...
+    - care and concern
+    - mean a lot to me
+    - in a few days' time
+    - to tell the truth
+    - be sick to death of
+    - daytime TV
+    - complain about how busy we are with overtime and meetings and everything
+    - Anyway, I hope you're all well.
+    - Thanks again and I hope to see you all very soon.
+    - actually
+    - boredom
+    - get back on my feet
+ - formal way   
+    - I trust
+    - agony agonising
+    - monotonous monotony
+    - express displeasure
+    - eagerly anticipate
+    - in the very near future
