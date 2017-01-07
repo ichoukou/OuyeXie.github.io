@@ -45,7 +45,7 @@
  - indisputable, undeniable, evident, certain, irrefutable, indubitable
  - refute, argue, contend, expose, debate, counter, oppose, disputed
  - well-known, renowned, prominent, notable, esteemed, distinguished, famed
- - destroy, dispatch, eradicate, extinguish, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
+ - destroy, undermine, dispatch, eradicate, extinguish, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
  - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser
  - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction
  - prohibit, forbid, ban, constrain, block, inhibit, obstruct
@@ -62,3 +62,6 @@
  - difference, disparity, distinction
  - appealing, tempting, attractive, intriguing, charming, lovable, delightful, dishy, pleasing
  - compensate, complement (vs compliment)
+ - crucial, important, significant, critical, capital, vital, crisis
+ - undue, excessive, unnecessary, disproportionate, exceeding, extravagant, extreme, immoderate, improper, inappropriate
+ - exaggerate, brag, distort, corrupt, enlarge, emphasize, fudge, go to extremes, overdraw, depreciate (vs)

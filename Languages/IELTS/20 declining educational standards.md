@@ -1,4 +1,44 @@
  - 210
     - grammar
-          
+        - <b>There is a widely held perception in many parts of the world today that ... </b>
+        - <b>In the following essay, I aim to identify the sources of this problems as well as some viable solutions to it.</b>
+        - <b>From my perspective, one of the most significant obstacles to ...</b>
+        - If ... are to be ... , therefore, it is crucial that ...
+        - Admittedly, 
+        - <b>Nevertheless, I remain firmly convinced that ... </b>
+        - <b>Another major contributing factor in ... is ... </b>
+        - Interesting though they may be, ... simply serve to ...
+        - <b>In order to ... , therefore, ...</b>
+        - <b>In reality, of course (admittedly), this is a vast oversimplification of the issue. ... . However, I believe ... is sometimes ... .</b> 
     - vocabulary/lexis
+        - in decline
+        - viable solutions
+        - lack of discipline
+        - previous generations
+        - maintain orders
+        - use of corporal punishment
+        - powerless
+        - unruly students
+        - the resultant misbehaviour and inattention
+        - seriously undermine
+        - learning process
+        - on the part of 
+        - classroom discipline 
+        - restored
+        - crucial
+        - numerous alternatives
+        - is frowned upon by many
+        - behaviour management
+        - undue attention
+        - sub-standard academic achievement
+        - soft subjects
+        - mathematics
+        - serve to 
+        - distract
+        - neglected
+        - educational outcomes
+        - core subjects
+        - oversimplification
+        - reintroduction
+        - problematic in themselves
+        
