@@ -1,2 +1,4 @@
  - [几种英文破折号的使用](http://wenku.baidu.com/link?url=3Cbheoo-3N6FHDkZ0_FiPz3gxyxbkUhK53uFLijNK-az54Hmn8pQF5havS4s4iQgNFxw_EqoiC333Ugk0RaiWsX--3HoZ4mOXcPy9_wCIBG)
     - em dash
+    - you can use a dash (--) to join two sentences if the second sentence explains something about the first one
+        - 309/314 in "ielts band 6 for writing"

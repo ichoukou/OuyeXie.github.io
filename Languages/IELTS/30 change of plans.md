@@ -1,1 +1,25 @@
  - 302
+    - I hope you're well and ...
+    - going smoothly
+    - If I know you, you probably have(n't) ...
+    - I had some bad news though --
+    - originally planned
+    - unfortunately
+    - on the morning you get here
+    - could probably make it by
+    - doesn't suit you
+    - secretary
+    - Anyway,
+    - sometime before you leave
+    - <b>Well, I guess that's about all I needed to say.</b>
+    - regarding / relating to 
+ - formal 
+    - eagerly anticipate
+    - without hindrance
+    - conduct preparations
+    - be required to 
+    - initially
+    - have no objection
+    - prior to your departure
+    - in this regard
+    - please -> kindly

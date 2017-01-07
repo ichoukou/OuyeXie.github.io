@@ -20,3 +20,12 @@
     - putting up with
     - actually
     - <b>Well, I'd better be going now. Keep in touch and don't forget ...</b>
+ - formal 
+    - tolerate
+    - pressing 
+    - depart
+    - forward
+    - maintain contact
+    - insufficient
+    - arise
+    - fall ill
