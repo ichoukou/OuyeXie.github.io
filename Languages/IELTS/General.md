@@ -24,6 +24,11 @@
         - reading (page 103) 38/40 (07/01/2017)    
     - test B
         - reading (page 116)
+ - 9 
+    - test 3
+        - listening (page 56) 32-35/40 (09/01/2017) 
+    - test A 
+        - reading (page 104) 38/40 (09/01/2017)
             
 # [Road to IELTS](http://roadtoielts.chinaielts.org)
  
@@ -59,8 +64,19 @@
  - synonyms
     - foresee
  - topic
-   
-                          
+ - [雅思听力连字符要还是不要？](http://ielts.shanghai.gedu.org/tl/201311112962.html)
+    - eighty-seven percent（87%）；  nineteen eighty-eight（1988）； Two hundred-seven-six-five（200-7-6-5 ‘电话号码’）等。
+    - ten-four（10.00-4.00 剑3）； three to four thousand words （3000-4000 剑4）； sixty to eighty pounds （￡60-￡80 剑5）；
+    - 1.形容词/数词+名词：例如：small-scale（剑3）；full-time/part-time job（剑5）；low-risk investment（剑5）；second-year student （剑5）；ten-minute walk（剑6）；seven-screen cinema （剑7）；high-quality （剑7）；low-cost cover （剑7）；
+    - 2.副词＋过去分词：例如：well-equipped gym （剑5）；fully-licensed restaurant （剑6）；well-qualified （剑7）；
+    - 3.形容词＋名词-ed：例如：old-fashioned（剑3）；two-bedroomed house （剑3）；passport-sized （剑3）；medium-sized coach （剑5）；
+    - 4.名词+名词：例如：beach-netting （剑4）；money-lenders （剑6）；car-park （剑8）；
+    - 连字符可用于某些前缀与词根之间：例如：over-lap （剑3）；co-operative（剑3）；counter-productive（剑3）；under-reported（剑4）；
+    - 位于名词之前用作定语的复合修饰语之间，一般应加连字符。例如：500-year-old tree（剑6）；on a one-to-one basis （剑6）；face-to-face interviews（剑6）；door-to-door service （剑7）；up-to-date（剑7）；
+        - 在这里需要注意的是短语door to door和face to face后面加名词的时候起到的是形容词作用，而不加连字符的时候则变成副词成分。请大家体会下面的2个例句：例句：
+      　     - 1.The two men stood face to face. 用在动词后面，作为副词使用。
+      　　   - 2.We need to conduct a couple of face-to-face interviews. 用在名词前，作为形容词使用。
+ - [雅思听力遇上连字符如何处理？](http://bbs.zhan.com/thread-307005-1-1.html)                    
 # Xindongfang Band 9
 
 ## Speaking
@@ -71,6 +87,8 @@
     - 135 31/12/2016
     - 135-150/216
     - 198-216/216
+ - second time   
+    - 117, 138 08/01/2017
     
  - notes
     - Only in part 3 the examiners will rephrase a question if you do not understand it. In part 1, they will repeat and then move over to the next question.
@@ -126,6 +144,10 @@
             - Topic, <block>Example</block>, <block>Example, Conclude briefly</block>
             - Conclusion, Although ... it ...
     - causes, effects and solutions
+            - Trend, In this essay, causes/impacts and solutions.
+            - Causes/impacts, one, two
+            - Solutions, one two
+            - In reality, insurmountable, convinced
  
  - notes
     - it is essential to use precise and accurate vocabulary, including preposition, in order to get a high band.

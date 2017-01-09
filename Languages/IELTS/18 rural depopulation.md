@@ -36,4 +36,5 @@
         - financial incentives
         - subsidies (subsidise)
         - willingly relocate
+        - alike
         

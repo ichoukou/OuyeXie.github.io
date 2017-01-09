@@ -1,3 +1,7 @@
+- I tend to 
+- 
+
+
 - Firstly
 - By this I mean
 - For instance

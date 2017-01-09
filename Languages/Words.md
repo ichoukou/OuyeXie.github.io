@@ -59,10 +59,16 @@
  - controversial, contentious
  - delicate, fragile
  - contractions,  abbreviation
- - difference, disparity, distinction
+ - difference, disparity, distinction, resemblance (vs)
  - appealing, tempting, attractive, intriguing, charming, lovable, delightful, dishy, pleasing
  - compensate, complement (vs compliment)
- - crucial, important, significant, critical, capital, vital, crisis
+ - crucial, important, significant, critical, capital, vital, crisis, compelling
  - undue, excessive, unnecessary, disproportionate, exceeding, extravagant, extreme, immoderate, improper, inappropriate
  - exaggerate, brag, distort, corrupt, enlarge, emphasize, fudge, go to extremes, overdraw, depreciate (vs)
  - speculate, anticipate, estimate
+ - competent, calibre
+ - prompt, swift, subtle, sensitive
+ - high way, free way, motor way
+ - insulation, isolation, alienation
+ 
+ 
