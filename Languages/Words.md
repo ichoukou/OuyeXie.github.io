@@ -46,7 +46,7 @@
  - refute, argue, contend, expose, debate, counter, oppose, disputed
  - well-known, renowned, prominent, notable, esteemed, distinguished, famed
  - destroy, undermine, dispatch, eradicate, extinguish, eliminate, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
- - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser
+ - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser, jury (non), justify (v)
  - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction
  - prohibit, forbid, ban, constrain, block, inhibit, obstruct
  - dispatch, delegate, distribute
@@ -61,14 +61,19 @@
  - contractions,  abbreviation
  - difference, disparity, distinction, resemblance (vs)
  - appealing, tempting, attractive, intriguing, charming, lovable, delightful, dishy, pleasing
- - compensate, complement (vs compliment)
+ - compensate, complement (vs compliment (complimentary ticket)) 
  - crucial, important, significant, critical, capital, vital, crisis, compelling
  - undue, excessive, unnecessary, disproportionate, exceeding, extravagant, extreme, immoderate, improper, inappropriate
  - exaggerate, brag, distort, corrupt, enlarge, emphasize, fudge, go to extremes, overdraw, depreciate (vs)
- - speculate, anticipate, estimate
- - competent, calibre
+ - speculate, anticipate, estimate, predict, forecast
+ - wizard, witch, witches, witcher, spirit， sprite (non), smurf, elf (elves), 
+ - competent, calibre，malcontent(vs)
  - prompt, swift, subtle, sensitive
  - high way, free way, motor way
  - insulation, isolation, alienation
- 
- 
+ - chauffeur, concierge (non)
+ - psychology, philosophy, chemistry, agriculture, geography, geometry, geology, astronomy, astrology, literature, mathematics, physics, biology, botany, archaeology, palaeontology
+ - psychologist, philosopher, chemist, agriculturist, geographer, geometrist, geologist, astronaut, astronomer, astrologist, literati (literatus), mathematician, physician, biologist, botanist, archaeologist, palaeontologist 
+ - psychic
+ - obsessed, compelling
+ - chaos, foul-up

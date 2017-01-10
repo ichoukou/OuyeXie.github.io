@@ -23,5 +23,6 @@
         - Ronald McDonald
         - a beacon to
         - playgrounds
-        - warranted
+        - public education campaigns
+        - wwould be arranted
         - major health problems

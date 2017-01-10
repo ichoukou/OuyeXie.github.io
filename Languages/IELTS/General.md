@@ -89,6 +89,9 @@
     - 198-216/216
  - second time   
     - 117, 138 08/01/2017
+    - 126, 142 10/01/2017
+ - part two notes
+    - 109
     
  - notes
     - Only in part 3 the examiners will rephrase a question if you do not understand it. In part 1, they will repeat and then move over to the next question.

@@ -1,5 +1,10 @@
 - I tend to 
-- 
+- more often than not
+- be easier said than done
+- tall order
+- when it comes to
+- implications
+- so to say
 
 
 - Firstly
