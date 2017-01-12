@@ -117,7 +117,12 @@
     - leave Beijing for Sydney
     - on arrival in the boarding lunge at Kingsford Smith Airport
     - (nothing here) the following day
-
+    - entitle ... to ... 
+        - Your years of service entitle you to a pension.
+        - be entitled to (或 to do)something
+    - resolution of ...
+    
+    
 # article
 
  - [英语冠词用法归纳总结](http://wenku.baidu.com/link?url=pl5I3Z1cFyXm6VwLPHz7yz3jChPfsDkwAyCPKXuQ5wI-SSAE840TjOh8KAKnfnq5TdPMr1zuRy7rbjFhJiPpa9d6djp074I_2ZIpFhTO99q)

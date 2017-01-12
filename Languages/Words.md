@@ -45,7 +45,7 @@
  - indisputable, undeniable, evident, certain, irrefutable, indubitable
  - refute, argue, contend, expose, debate, counter, oppose, disputed
  - well-known, renowned, prominent, notable, esteemed, distinguished, famed
- - destroy, undermine, dispatch, eradicate, extinguish, eliminate, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
+ - destroy, undermine, dispatch, vanish, eradicate, extinguish, eliminate, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
  - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser, jury (non), justify (v)
  - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction
  - prohibit, forbid, ban, constrain, block, inhibit, obstruct
@@ -77,3 +77,21 @@
  - psychic
  - obsessed, compelling
  - chaos, foul-up
+ - bollocks
+ - demon, evil, hell, infernal, sinner, ghost
+ - remedy, cure, therapy (therapist)
+ - despicable, detrimental, deliberate (deliberately)
+ - loathe, despise, object to
+ - cereal, oats, cous cous
+ - predator, herbivore, reptile, mammal
+ - intriguing, interesting
+ - ethical, moral
+ - pollution, contamination, pollutants, contaminants
+ - enormous(大, 恶), tremendous(大, 好), numerous(多), massive, vast
+
+# just words
+
+ - intact
+ - exile
+ - Professor, I don't know what to say, I'm appalled.
+ 
