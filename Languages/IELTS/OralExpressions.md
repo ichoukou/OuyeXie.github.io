@@ -1,10 +1,13 @@
 - I tend to 
 - more often than not
 - be easier said than done
-- tall order
 - when it comes to
 - implications
 - so to say
+- as I recall
+- above all
+- all in all
+- that is to say
 
 
 - Firstly
@@ -169,4 +172,8 @@
 - and another thing
 - stems form the fact that
 - all things considered
-    
+
+- hours on end
+- tall order
+- personal hygiene and cleanliness
+- stick to his guns

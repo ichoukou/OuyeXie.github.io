@@ -34,6 +34,16 @@
         - listening (page 80) 35/40 (11/01/2017) 
     - test A 
         - reading (page 117) 37/40 (11/01/2017)
+ - 11
+    - test 2
+        - listening (page 33) 36/40 (13/01/2017) 
+        - reading (page 41) 39/40 (13/01/2017)
+    - test 1
+        - listening (page ) /40 (17/01/2017) 
+        - reading (page ) /40 (17/01/2017)
+    - test 4
+        - listening (page ) /40 (20/01/2017) 
+        - reading (page ) /40 (20/01/2017)
             
 # [Road to IELTS](http://roadtoielts.chinaielts.org)
  
@@ -95,8 +105,43 @@
  - second time   
     - 117, 138 08/01/2017
     - 126, 142 10/01/2017
+    - 128, 142 12/01/2017
  - part two notes
     - 109
+    - place
+        - location
+        - history
+        - scenery
+        - attractions
+        - industry
+        - people
+        - amenities
+        - food
+        - good/bad points
+    - people
+        - name
+        - background
+        - appearance
+        - personality
+        - job
+        - lifestyle
+        - achievemensts -> accomplishments
+        - influence
+        - like/dislike
+    - object
+        - background
+        - appearance
+        - function
+        - differences
+        - good/bad points
+    - event/time/activity
+        - when 
+        - where
+        - who
+        - how
+        - influence
+        - good/bad points
+    
     
  - notes
     - Only in part 3 the examiners will rephrase a question if you do not understand it. In part 1, they will repeat and then move over to the next question.

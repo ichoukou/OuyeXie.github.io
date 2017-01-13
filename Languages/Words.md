@@ -78,7 +78,7 @@
  - obsessed, compelling
  - chaos, foul-up
  - bollocks
- - demon, evil, hell, infernal, sinner, ghost
+ - demon, evil, hell, inferno (infernal, inferno is salvation), sinner, ghost
  - remedy, cure, therapy (therapist)
  - despicable, detrimental, deliberate (deliberately)
  - loathe, despise, object to
@@ -88,6 +88,8 @@
  - ethical, moral
  - pollution, contamination, pollutants, contaminants
  - enormous(大, 恶), tremendous(大, 好), numerous(多), massive, vast
+ - famine, starvation, hunger
+ - strain, stress, pressure, nerve, tense
 
 # just words
 
