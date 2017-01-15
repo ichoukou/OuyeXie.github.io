@@ -4,10 +4,12 @@
 - when it comes to
 - implications
 - so to say
+- so as to say
 - as I recall
 - above all
 - all in all
 - that is to say
+- as a good place as any
 
 
 - Firstly
@@ -172,8 +174,22 @@
 - and another thing
 - stems form the fact that
 - all things considered
+- every so often
 
 - hours on end
 - tall order
 - personal hygiene and cleanliness
 - stick to his guns
+- backward places in the nation
+- reflect on their own culture
+- xenophobia
+- is not so welcoming
+- charismatic
+- determination to be successful
+- electrifying
+- families, couples and individuals
+- in demand
+- get accustomed to 
+- inappropriate and often offensive
+- most astonishingly of all
+- vigilantly
