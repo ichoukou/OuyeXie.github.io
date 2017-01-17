@@ -193,3 +193,6 @@
 - inappropriate and often offensive
 - most astonishingly of all
 - vigilantly
+- emotional stress
+- mental well-being
+- emotionally stressed out

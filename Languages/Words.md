@@ -84,7 +84,7 @@
  - despicable, detrimental, deliberate (deliberately)
  - loathe, despise, object to
  - cereal, oats, cous cous
- - predator, herbivore, reptile, mammal
+ - predator, carnivore, herbivore, reptile, mammal
  - intriguing, interesting
  - ethical, moral
  - pollution, contamination, pollutants, contaminants

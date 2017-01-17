@@ -298,3 +298,19 @@
     - I missed you
     - I was thinking if you have the time, you could ...
         - [i was deeply thinking if i am pregnant.](http://community.babycenter.com/post/a28745029/i_was_deeply_thinking_if_i_am_pregnant.)
+        
+# verbal
+
+ - past tense
+     - experience
+     - as opposed to the past when
+     - as a child
+     - since
+     - remember
+     - in the 80s
+     - as far as I can recall
+     - back when
+     - back then
+     - in stark contrast
+     - on our past failure (complicated)
+     - in the past
