@@ -11,5 +11,7 @@
     - summer hot
     - in the summer heat
     - entitled to request a full refund
+    - resolution
     - prompt resolution of this matter
-    - would be doing 
+    - would be making a long journey 
+    - it broke down, leaving me ....

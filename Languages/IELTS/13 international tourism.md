@@ -3,8 +3,11 @@
         - <b>The past 50 years have seen a considerable increase in ...</b>
         - <b>Two of the primary drawbacks associated with this trend are as follows.</b>
         - this is unlikely to occur while 
-        - one particularly salient example of this is     
+        - one particularly salient example of this is   
+        - <b>Although they are by no means of insurmountable, it is highly unlikely they will be resolved in the foreseeable future.</b>
     - vocabulary/lexis
+        - considerable increase
+        - global tourism
         - undeniable economic prosperity
         - host countries
         - international holidaymaking
@@ -13,17 +16,24 @@
         - wealthy 
         - affluent
         - influx
+        - this influx of mainly western tourists 
+        - has brought with it problems such as
         - prostitution, alcoholism and drug abuse
         - foster
         - understanding and tolerance
         - potent symbol of western cultural domination
         - moral decadence
         - degradation
+        - has caused in many parts of the world
+        - one particular salient example of this is
+        - countless 
         - decades
         - snorkellers
+        - vast sections of coral
         - sustainable
         - renowned
         - booming
+        - booming international tourist industry
         - numerous and complex
         - insurmountable
         - foreseeable future

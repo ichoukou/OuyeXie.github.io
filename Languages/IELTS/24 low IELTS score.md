@@ -1,5 +1,8 @@
  - 249
+    - English competency of enrolling overseas candidates 
+    - begin postgraduate studies at you university
     - insufficient
+    - and that I would require
     - minimum of
     - gain admission
     - means of gaining entrance
@@ -9,12 +12,16 @@
     - pre-sessional
     - internal examination
     - resit
+    - resit IELTS
     - prior to
     - semester
+    - prior to the beginning of semester 
     - hence
     - on offer
+    - further information on any such courses 
+    - gaining entrance to ...
     - band score of 6
     - indicated
     - along with 
     - programme
-    - institute
+    - institutes

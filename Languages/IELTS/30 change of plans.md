@@ -2,8 +2,8 @@
     - I hope you're well and ...
     - going smoothly
     - If I know you, you probably have(n't) ...
-    - I had some bad news though --
-    - originally planned
+    - I have some bad news though --
+    - as I <?>had</?> originally planned
     - unfortunately
     - on the morning you get here
     - could probably make it by

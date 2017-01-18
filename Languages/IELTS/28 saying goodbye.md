@@ -5,21 +5,25 @@
     - without saying goodbye
     - urgent 
     - came up
+    - something urgent came up at home
     - got sick
     - anyway
     - I hope
     - write and tell me
+    - if you've got the time
     - too
-    - I was thinking that ...
-    - I just wanted to say ...
+    - <b>I was thinking that ...</b>
+    - <b>I just wanted to say ...</b>
     - messy
     - at times
     - not to mention
     - cranky
     - thanks
     - putting up with
+    - so thanks for putting up with me
     - actually
     - <b>Well, I'd better be going now. Keep in touch and don't forget ...</b>
+    - drop in 偶然(或顺便)走访(或访问)(on)
  - formal 
     - tolerate
     - pressing 

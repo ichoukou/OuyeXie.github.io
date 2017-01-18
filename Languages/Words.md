@@ -56,7 +56,7 @@
  - luxurious (luxury), extravagant, costly, deluxe, fancy, gorgeous, grand, posh, majestic, lavish
  - wise, wisdom, wizard (n), insightful, educated, discreet, shrewd, shap, bright, intelligent, smart, gifted, talented, 
  - unwise, thickheaded, foolish, indiscreet, naive, senseless, silly, moronic, moron (n), absurd, insane, jerky, mad, ridiculous, stupid, unintelligent, illogical
- - obstacles, hindrance, barrier, block, bump, clog, hamper, handicap, hardship, hitch, stumbling (adj), rub, obstruction, restriction, barricade, fence, hedge, palings
+ - obstacles, obscure (v), hindrance, barrier, block, bump, clog, hamper, handicap, hardship, hitch, stumbling (adj), rub, obstruction, restriction, barricade, fence, hedge, palings
  - controversial, contentious
  - delicate, fragile
  - contractions,  abbreviation
@@ -97,6 +97,11 @@
  - sophisticated, generalisation, stereotypes, discrimination, violence, apartheid, xenophobia
  - modest, mediocre, medium, intermediate
  - preserve, protect, defend, conserve, save, secure, shelter
+ - fat, greasy (grease), graisse
+ - gratuity, tips
+ - sadist, masochist
+ - guilt, acquittal
+ - pride, prejudice
  
  
 # just words
@@ -104,4 +109,12 @@
  - intact
  - exile
  - Professor, I don't know what to say, I'm appalled.
+ - decorate
+ - mammal
+ - January
+ - February
+ - menstrual (cramp)
+ - arrogance
+ - umbrella
+ - [drizzle, shower, pour](http://blog.sina.com.cn/s/blog_14b7645660102w3u7.html)
  

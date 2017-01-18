@@ -39,8 +39,8 @@
         - listening (page 33) 36/40 (13/01/2017) 
         - reading (page 41) 39/40 (13/01/2017)
     - test 1
-        - listening (page ) /40 (17/01/2017) 
-        - reading (page ) /40 (17/01/2017)
+        - listening (page ) 36/40 (17/01/2017) 
+        - reading (page ) 38/40 (17/01/2017)
     - test 4
         - listening (page ) /40 (20/01/2017) 
         - reading (page ) /40 (20/01/2017)

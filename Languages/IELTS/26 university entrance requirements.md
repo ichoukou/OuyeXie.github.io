@@ -6,7 +6,7 @@
     - attain a score
     - I would be most appreciative of any information you could give me in this regard.
     - along with
-    - Please find enclosed copies of ... as well as ...
+    - <b>Please find enclosed copies of ... as well as ...</b>
     - academic transcript
     - Should you have any further queries regarding ... , please do not hesitate to contact me at ...
     - sufficient

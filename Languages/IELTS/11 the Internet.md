@@ -8,9 +8,11 @@
         - Yet, there remains some disagreement as to whether the overall impact of ... has been positive or negative.
         - While there are certain valid arguments to the contrary ...
         - <b>These benefits are twofold</b>
+        - It is a indisputable fact that
         - Equally importantly,
         - despite
-        - nevertheless
+        - nevertheless / nonetheless
+        - I would contend
         - <b>by way of conclusion, I once again reaffirm that</b>
         - admittedly
         - recently, in recent times (PP)
@@ -23,8 +25,10 @@
         - indisputable fact
         - revolutionise
         - a problem occasionally seen in 
+        - rather than
         - incredibly useful and powerful
         - facilitate
+        - contact (n) with
         - a vast amount of 
         - offensive
         - pornography
@@ -33,7 +37,10 @@
         - friends and families -> loved ones
         - involve -> entail
         - can be accessed
+        - some would consider ...
+        - ranging from ... to ...
         - reliable
         - in earlier times
         - faraway places
         - global trade
+        - flow of information

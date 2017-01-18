@@ -7,6 +7,8 @@
     - to tell the truth
     - be sick to death of
     - daytime TV
+    - I'm already sick to death of daytime TV
+    - hanging in a sling
     - complain about how busy we are with overtime and meetings and everything
     - Anyway, I hope you're all well.
     - Thanks again and I hope to see you all very soon.

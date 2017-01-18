@@ -1,7 +1,9 @@
  - 133
     - grammar
         - <b>The past 50 years have seen a dramatic increase in the availability of fast food.</b>
+        - <b>In this essay, I intend to argue that ... </b>
         - <b>Two of the primary drawbacks associated with this trend are listed as follows.</b>
+        - it is a undeniable fact that
         - Moreover,
         - in other words
         - further and even more importantly, though, 
@@ -17,12 +19,15 @@
         - at large (society at large)
         - undeniable fact
         - to excess
+        - which are incredibly high in
         - illnesses -> ailments (such ailments as high blood pressure, obesity ...)
         - affordable
         - deliberately
+        - deliberately attempt to attract
+        - one particular good (salient) example of this is ...
         - Ronald McDonald
         - a beacon to
         - playgrounds
         - public education campaigns
-        - wwould be arranted
+        - would be warranted
         - major health problems

@@ -4,13 +4,14 @@
     - was scheduled to attend
     - request a new appointment
     - I was, in fact, ...
+    - when I received a call from ... saying ...
     - suffer a severe asthma attack
     - accompany my daughter to the hospital
     - attempted to contact
     - comfort my daughter
     - simply forgot
     - I sincerely apologise for the inconvenience I am sure I caused interviews and others at your office.
-    - I am wondering if it would be possible to ... <b>?</b>
+    - I <b>was</b> wondering if it would be possible to ... <b>?</b>
     - arrange an appointment
     - for sometime during the next two weeks
     - I appreciated your assistance in this matter.

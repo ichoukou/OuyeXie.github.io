@@ -19,3 +19,17 @@
  - numerous and complex
  - although they are by no means insurmountable
  - in the foreseeable future
+ 
+ 
+ - London Heathrow
+ - benefits <-> drawbacks
+ - loved ones
+ 
+ - incredibly
+ - fever
+ - asthma
+ - beliefs
+ 
+ 
+ - a vast amount of material
+ - vast sections of coral

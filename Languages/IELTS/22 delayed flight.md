@@ -5,8 +5,10 @@
     - the first leg 
     - the outgoing journey
     - uneventful
-    - in the boarding lounge
+    - uneventful enough
+    - on arrival in the boarding lounge
     - at ... airport
+    - considerable inconvenience
     - due to commence work
     - band 6, ... was entirely to blame for this ...
     - foul-up

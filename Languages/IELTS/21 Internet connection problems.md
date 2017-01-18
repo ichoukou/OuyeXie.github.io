@@ -1,4 +1,7 @@
  - 219
+    - a recently arrived overseas student currently staying in ...
+    - recently arrived
+    - quite satisfactory thus far
     - thus far
     - lodge a complaint about
     - read closely
