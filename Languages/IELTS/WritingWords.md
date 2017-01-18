@@ -24,12 +24,13 @@
  - London Heathrow
  - benefits <-> drawbacks
  - loved ones
- 
  - incredibly
  - fever
  - asthma
  - beliefs
+ - express/present my apology
  
  
  - a vast amount of material
  - vast sections of coral
+ - a great deal of 

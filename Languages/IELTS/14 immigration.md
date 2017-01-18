@@ -12,14 +12,21 @@
         - , whereas
     - vocabulary/lexis
         - integration
+        - the integration of newcomers into society
         - immigrants
         - accepted rules of behaviours
+        - adopted country
         - both written and unwritten
         - vitally important
+        - observe the laws of ...
         - for the sake of 
+        - social order
         - chaos
+        - ensue
         - etiquette
         - regardless of 
+        - regardless of any differences to laws ...
+        - two further instances of practices ... 
         - possession
         - permitted
         - prohibited
