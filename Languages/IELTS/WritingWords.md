@@ -41,6 +41,12 @@
  - imbalances
  - economic crops
  - education campaigns
+ - probably
+ - argument
+ - criminal
+ - species
+ - fluctuate
+ - opinion
  
  
  - a vast amount of material

@@ -36,6 +36,7 @@
     - character
     - Situational
     - <b>aspirations</b>
+    - inspirations
     - ambitions
     - innovation
     - postbox
@@ -283,6 +284,7 @@
     - comparison
     - evaporate
     - competition
+    - competitive
     - car-park
     - January
     - February
@@ -355,4 +357,199 @@
     - synonyms, antonyms
     - symmetrical
     - luxury, luxurious
+    - intrinsic
+    - intriguing
+    - costumes
+    - consult
  - [雅思听力常用词汇](http://wenku.baidu.com/view/4dd7feee7cd184254a3535a5.html?from=search)
+    - space out
+    - seminar
+    - semester
+    - January
+    - February
+    - August
+    - compulsory
+    - obligatory
+    - orientation
+    - accommodation
+    - associate professor
+    - coordinator
+    - counselor
+    - adviser
+    - corporation crime
+    - explosion
+    - intensively
+    - astrology
+    - astronomy
+    - avenue
+    - boulevard
+    - door-key
+    - curly
+    - helicopter
+    - ambulance
+    - Australia
+    - United States
+    - Atlantic
+    - Pacific
+    - Indian
+    - Arctic
+    - Asia
+    - America
+    - Australia
+    - Africa
+    - Europe
+    - Antarctica
+    - tunnel
+    - efficiency
+    - cassettes
+    - Sydney
+    - Athens
+    - humidity
+    - centigrade
+    - evaporate
+    - surroundings
+    - psychology
+    - medicine
+    - century
+    - intervention
+    - royal <b>commission</b>
+    - commitment
+    - monopoly
+    - faculty
+    - commuter
+    - intelligent
+    - financial
+    - second-hand
+    - Greece
+    - Britain
+    - Russia
+    - journalist
+    - close-up
+    - home-stay
+    - informative
+    - systematically
+    - non-smoker
+    - non-drinker
+    - currency
+    - corrupt
+    - rotten
+    - bribe
+    - trousers
+    - sports wear
+    - stationery
+    - stationary
+    - Yen
+    - consultation
+    - vacation
+    - vocational
+    - affairs
+    - phone-in
+    - schedule
+    - corridor, aisle, passage
+    - receptionist, representative, delegate
+    - steak
+    - barbecue
+    - tribute
+    - archaeology
+    - historian
+    - cultivate
+    - rich-colored
+    - pottery
+    - noble house, suite, studio, dormitory, condominium
+    - expiry, expire
+    - mosquito
+    - ubiquitous
+    - plastics
+    - silent
+    - unsociable, sociable
+    - furniture, furnish
+    - fertile, fertilize, fertilizer
+    - ingredient
+    - agriculture
+    - inflation
+    - deflation
+    - deficit
+    - clinic
+    - Master's Degree
+    - disturbance
+    - moustache
+    - diary
+    - dairy  奶制品
+    - anxiety
+    - harbour
+    - infection
+    - prescribed
+    - antibiotics
+    - penicillin
+    - <b>drowsiness</b>
+    - vocabulary
+    - strategy
+    - press
+    - grand
+    - grant
+    - tribe
+    - skeleton
+    - painting
+    - <b>corpse</b>
+    - mill
+    - decay
+    - tuition
+    - cathedral
+    - quieter
+    - Malaysia, Malaysian
+    - Singapore, Singaporean
+    - <b>exotic</b>
+    - peregrine
+    - falcons
+    - pigeon
+    - penguin
+    - dolphin
+    - splashing
+    - circus
+    - jungle
+    - stadium
+    - lightning
+    - youngster
+    - marine
+    - venue
+    - invitation
+    - meshing
+    - steady
+    - mining
+    - forestry
+    - stomach
+    - stomachache
+    - headache
+    - postgraduate students
+    - <b>terrestrial</b>
+    - hard-hoofed
+    - cattle
+    - atmospheric
+    - <b>irrigation</b>
+    - sewage
+    - expansion
+    - canoe
+    - kangaroo
+    - giraffe
+    - gorilla
+    - gazelle
+    - crocodile
+    - resistance
+    - assistance
+    - prohibit
+    - habitat
+    - messy
+    - cranky
+    - compulsive, compulsory
+    - referee
+    - prejudice
+    - discrimination
+    - criminal
+    - shearing
+    - committee
+    - take-away
+    - respondent
+    - maintenance
+    - maintain
+    - insurance
+    - approval

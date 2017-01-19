@@ -72,7 +72,7 @@
  - speculate, anticipate, estimate, predict, forecast
  - wizard, witch, witches, witcher, spirit， sprite (non), smurf, elf (elves), 
  - competent, calibre，malcontent(vs), capable (adj)
- - prompt, swift, subtle, sensitive
+ - prompt, swift, subtle, sensitive, exquisite
  - high way, free way, motor way
  - insulation, isolation, alienation, solitary (adj)
  - chauffeur, concierge (non)
@@ -109,7 +109,10 @@
  - disrupt, interrupt, disturb, bother
  - multiply, reproduce, breed
  - incentives, subsidies
- - celebrity, socialite
+ - celebrity, socialite, lion
+ - stood up, bail on, 
+ - foster, cultivate
+ 
  
 # just words
 
@@ -121,4 +124,5 @@
  - [drizzle, shower, pour](http://blog.sina.com.cn/s/blog_14b7645660102w3u7.html)
  - redundancy
  - demure
+ - ubiquitous 普遍存在的
  
