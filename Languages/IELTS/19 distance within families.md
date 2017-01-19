@@ -16,6 +16,8 @@
     - vocabulary/lexis
         - divorce and family breakdown
         - were virtually unheard of 
+        - phenomenon
+        - symptomatic
         - previous generations
         - traditionally
         - assume the role of breadwinner
@@ -24,8 +26,10 @@
         - become the norm
         - double income family
         - alienated
+        - solitary
         - passive and solitary nature
         - modern forms of entertainment
+        - would be for ... to ...
         - sense of alienation within families
         - financial incentives
         - subsidies
@@ -36,10 +40,12 @@
         - provide an alternative
         - would rather
         - remain at home
+        - constraints
         - financial constraints
         - interactive leisure activities
         - pastime
         - public education campaigns
         - in the community
         - in recent times
-        - abovementioned
+        - above mentioned
+        - constitute

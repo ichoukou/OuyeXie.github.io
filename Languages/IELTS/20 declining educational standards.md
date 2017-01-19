@@ -18,15 +18,18 @@
         - maintain orders
         - use of corporal punishment
         - powerless
+        - unruly
         - unruly students
         - the resultant misbehaviour and inattention
         - seriously undermine
         - learning process
         - on the part of 
+        - if education standards are to be raised, therefore,  ...
         - classroom discipline 
         - restored
         - crucial
         - numerous alternatives
+        - frowned upon
         - is frowned upon by many
         - behaviour management
         - undue attention

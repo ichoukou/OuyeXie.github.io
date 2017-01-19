@@ -2,7 +2,7 @@
     - grammar
         - <b>There are widely differing views on the issue of whether ...</b>
         - Some people would suggest that ... and that ... , however, I personally believe that ...
-        - <b>There are two principle reasons for this.</b>
+        - <b>There are two principal reasons for this.</b>
         - One point which I believe to be absolutely pivotal is the fact that ...
         - If ... , therefore, I believe ...
         - It is particularly so given the fact that ... , while ...
@@ -12,9 +12,14 @@
         - `- including -`
           
     - vocabulary/lexis
+        - a violation of
+        - civil liberties
+        - the majority of governments
         - prohibitionist approach
         - substance abuse
+        - consistent
         - to be consistent in pursuing ...
+        - this is particularly so given the fact that ...
         - illicit drugs
         - heroin
         - cocaine
@@ -25,6 +30,7 @@
         - pro-smoking groups
         - interests and rights of society at large
         - entirely justified
+        - would be entirely justified
         - widespread prohibition
         - seriousness
         - ultimate goal

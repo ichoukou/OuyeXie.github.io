@@ -5,7 +5,9 @@
         - I would contend ...
         - I maintain ...
     - vocabulary/lexis
+        - male occupations
         - and vice versa
+        - conservative view
         - hold to the conservative view that
         - performed
         - base ... on
@@ -19,6 +21,7 @@
         - conventional
         - traditionally reserved
         - opposite sex
+        - presence
         - in a workplace
         - frequently, though by no means always, 
         - Rather than judging ...

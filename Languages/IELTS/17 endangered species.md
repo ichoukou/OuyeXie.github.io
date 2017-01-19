@@ -2,7 +2,7 @@
     - grammar
         - <b>The issue of whether ... is certainly a contentious one.</b> 
         - Despite the arguments of some people that ... , It is my personal belief that ...
-        - <b>Two of the principles reasons for this are as follows</b>
+        - <b>Two of the principal reasons for this are as follows</b>
         - It is vital that ...
         - Just as ...
         - Therefore, since ...
@@ -16,8 +16,10 @@
         - contentious
         - die out
         - just as
+        - preserved
         - delicate arrangements
         - for survival
+        - disrupt
         - negatively impacts upon ... by ...
         - breaking the food chain
         - altering the habitat
@@ -30,6 +32,7 @@
         - prey
         - ecological change
         - constitute a potential risk
+        - in our own interests to
         - intrinsic value
         - make every possible effort to 
         - worthwhile

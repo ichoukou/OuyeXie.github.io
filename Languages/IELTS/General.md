@@ -199,8 +199,8 @@
             - Conclusion, Although ... it ...
     - causes, effects and solutions
             - Trend, In this essay, causes/impacts and solutions.
-            - Causes/impacts, one, two
-            - Solutions, one two
+            - From my perspective, Causes/impacts, one, two
+            - In order to resolve ..., Solutions, one two
             - In reality, insurmountable, convinced
  
  - notes

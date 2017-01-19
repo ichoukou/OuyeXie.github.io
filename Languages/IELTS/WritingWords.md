@@ -17,9 +17,10 @@
  - in order to be sustainable
  - the challenges presented by
  - numerous and complex
- - although they are by no means insurmountable
  - in the foreseeable future
- 
+ - assume the role of breadwinner
+ - Although they are by no means insurmountable, ...
+ - In reality, of course, it is a vast oversimplification of the issue.
  
  - London Heathrow
  - benefits <-> drawbacks
@@ -29,6 +30,17 @@
  - asthma
  - beliefs
  - express/present my apology
+ - territory, terrorism, tourism
+ - orgasm, organism
+ - vice versa
+ - presence, absence
+ - cigarettes
+ - liberty, labour
+ - dinosaurs
+ - habitat
+ - imbalances
+ - economic crops
+ - education campaigns
  
  
  - a vast amount of material

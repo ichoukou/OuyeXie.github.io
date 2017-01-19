@@ -39,39 +39,42 @@
  - tissues ['tɪʃu]
  
 # Synonyms Thesaurus
- 
+
+ - testicles, penis, cock, pussy, virgin, vagina, asshole, butt, tits, boobs, bottom, girth, jerk, semen, sperm, molest, canoodle, screw, hump, pimp, escort, prostitute, castrate, condom, rubber
+ - weeds, stoned, marijuana, opium, ice, heroin (vs heroine), cocaine, coke, poppy  
  - wealthy, affluent, over-loaded, up-market, opulent, rich, flush, flourish, moneyed, loaded, propertied, uptown, upscale, well-heeled
+ - luxurious (luxury), extravagant, costly, deluxe, fancy, gorgeous, grand, posh, majestic, lavish
  - degradation, pollution, contamination
  - salient, classic, typical, prime
  - indisputable, undeniable, evident, certain, irrefutable, indubitable
  - refute, argue, contend, expose, debate, counter, oppose, dispute
  - well-known, renowned, prestigious, prominent, notable, esteemed, distinguished, famed
- - destroy, undermine, dispatch, vanish, eradicate, extinguish, eliminate, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
+ - destroy, disrupt, undermine, dispatch, vanish, eradicate, extinguish, eliminate, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
  - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser, jury (non), justify (v)
- - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction
+ - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction, discipline
+ - illicit, illegal, 
  - prohibit, forbid, ban, constrain, block, inhibit, obstruct
  - dispatch, delegate, distribute
- - conservative, constant, conventional, inflexible, obsolete, deprecated
+ - conservative, constant, conventional (vs controversial), inflexible, obsolete, deprecated
+ - controversial, contentious
  - sophisticated (sophomore), experienced, mature, practical, refined, stereotypical (stereotype (n)) 
- - luxurious (luxury), extravagant, costly, deluxe, fancy, gorgeous, grand, posh, majestic, lavish
  - wise, wisdom, wizard (n), insightful, educated, discreet, shrewd, shap, bright, intelligent, smart, gifted, talented, 
  - unwise, thickheaded, foolish, indiscreet, naive, senseless, silly, moronic, moron (n), absurd, insane, jerky, mad, ridiculous, stupid, unintelligent, illogical
  - obstacles, obscure (v), hindrance, barrier, block, bump, clog, hamper, handicap, hardship, hitch, stumbling (adj), rub, obstruction, restriction, barricade, fence, hedge, palings
- - controversial, contentious
  - delicate, fragile
  - contractions,  abbreviation
  - difference, disparity, distinction, resemblance (vs)
  - appealing, tempting, attractive, intriguing, charming, lovable, delightful, dishy, pleasing
- - compensate, complement (vs compliment (complimentary ticket)) 
- - crucial, important, significant, critical, capital, vital, crisis, compelling
+ - compensate, complement, compliment (complimentary ticket)
+ - crucial, important, significant, critical, capital, vital, crisis, compelling, pivotal, fatal
  - undue, excessive, unnecessary, disproportionate, exceeding, extravagant, extreme, immoderate, improper, inappropriate
  - exaggerate, brag, distort, corrupt, enlarge, emphasize, fudge, go to extremes, overdraw, depreciate (vs)
  - speculate, anticipate, estimate, predict, forecast
  - wizard, witch, witches, witcher, spirit， sprite (non), smurf, elf (elves), 
- - competent, calibre，malcontent(vs)
+ - competent, calibre，malcontent(vs), capable (adj)
  - prompt, swift, subtle, sensitive
  - high way, free way, motor way
- - insulation, isolation, alienation
+ - insulation, isolation, alienation, solitary (adj)
  - chauffeur, concierge (non)
  - psychology, philosophy, chemistry, agriculture, geography, geometry, geology, astronomy, astrology, literature, mathematics, physics, biology, botany, archaeology, palaeontology
  - psychologist, philosopher, chemist, agriculturist, geographer, geometrist, geologist, astronaut, astronomer, astrologist, literati (literatus), mathematician, physician, biologist, botanist, archaeologist, palaeontologist 
@@ -102,19 +105,20 @@
  - sadist, masochist
  - guilt, acquittal
  - pride, prejudice
- 
+ - consistent, persistent
+ - disrupt, interrupt, disturb, bother
+ - multiply, reproduce, breed
+ - incentives, subsidies
+ - celebrity, socialite
  
 # just words
 
  - intact
  - exile
  - Professor, I don't know what to say, I'm appalled.
- - decorate
- - mammal
- - January
- - February
  - menstrual (cramp)
  - arrogance
- - umbrella
  - [drizzle, shower, pour](http://blog.sina.com.cn/s/blog_14b7645660102w3u7.html)
+ - redundancy
+ - demure
  

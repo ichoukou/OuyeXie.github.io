@@ -10,6 +10,7 @@
     - vocabulary/lexis
         - vibrant and growing places
         - excitement
+        - in search of work and excitement
         - rural areas
         - Surprisingly, 
         - the most serious consequence 
@@ -28,10 +29,13 @@
         - Clearly,
         - a limit to 
         - negatively influenced
+        - root causes
         - address its root causes
         - At the heart of this matter is the disparity of 
+        - disparity
         - services and facilities
         - more readily available
+        - appealing
         - far more appealing
         - financial incentives
         - subsidies (subsidise)
