@@ -19,6 +19,9 @@
     - emotions
     - analysis
     - observation
+    - flute
+    - secondary
+    - moist, damp
  - 10
     - theme
     - tent
@@ -534,6 +537,7 @@
     - gorilla
     - gazelle
     - crocodile
+    - raccoon
     - resistance
     - assistance
     - prohibit
