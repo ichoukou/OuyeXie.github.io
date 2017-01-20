@@ -112,12 +112,13 @@
  - incentives, subsidies
  - celebrity, socialite, lion
  - stood up, bail on, 
- - foster, cultivate
+ - foster, cultivate, constitute
  - cohesion (cohesive), coherence (coherent)
  - sickness, illness, ailment, disease
  
 # just words
 
+ - accommodation, possession, occasion, assistant, commission, committee, recommend, cassettes, cigarette, tobacco, 
  - intact
  - exile
  - Professor, I don't know what to say, I'm appalled.
@@ -128,4 +129,4 @@
  - demure
  - ubiquitous 普遍存在的
  - esteem
- 
+ - legislation, litigation, plaintiff, defendant

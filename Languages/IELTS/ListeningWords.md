@@ -155,7 +155,7 @@
     - pollution
     - litres
     - automatic
-    - messages
+    - messages, massage
     - outline
     - <b>incineration</b>
     - drop-off
@@ -207,7 +207,7 @@
     - o'clock
     - domestic  
     - <b>outings</b>
-    - <b>ancient</b>
+    - <b>ancient</b>, ancestor
     - military
     - fourteen, forty, fifteen, fifty
     - dimensional
@@ -215,7 +215,7 @@
     - underside, underneath
     - park view
     - newsletter
-    - annum
+    - <b>annum</b>
     - reception
     - squash
     - puzzle
@@ -351,9 +351,9 @@
     - therapy, remedy
     - recommended
     - <b>accommodation</b>
-    - ancestor
+    - ancestor, ancient
     - ceilings
-    - decibels, Centigrade, Celcius, Fahrenheit
+    - <b>decibels</b>, Centigrade, Celcius, Fahrenheit
     - lingerie
     - terrace
     - <b>thesaurus</b>
@@ -363,6 +363,7 @@
     - intrinsic
     - intriguing
     - costumes
+    - customs
     - consult
     - museum
     - latitude, longitude
@@ -379,7 +380,7 @@
     - accommodation
     - associate professor
     - coordinator
-    - counselor
+    - counsellor
     - adviser
     - corporation crime
     - explosion
@@ -420,6 +421,7 @@
     - royal <b>commission</b>
     - commitment
     - monopoly
+    - monotonous
     - faculty
     - commuter
     - intelligent
@@ -436,7 +438,7 @@
     - non-smoker
     - non-drinker
     - currency
-    - corrupt
+    - <b>corrupt</b>
     - rotten
     - bribe
     - trousers
@@ -447,10 +449,11 @@
     - consultation
     - vacation
     - vocational
+    - volcano
     - affairs
     - phone-in
     - schedule
-    - corridor, aisle, passage
+    - <b>corridor</b>, aisle, passage
     - receptionist, representative, delegate
     - steak
     - barbecue
@@ -477,7 +480,7 @@
     - clinic
     - Master's Degree
     - disturbance
-    - moustache
+    - <b>moustache</b>
     - diary
     - dairy  奶制品
     - anxiety
@@ -504,10 +507,10 @@
     - Malaysia, Malaysian
     - Singapore, Singaporean
     - <b>exotic</b>
-    - peregrine
+    - <b>peregrine</b>
     - falcons
-    - pigeon
-    - penguin
+    - <b>pigeon</b>
+    - <b>penguin</b>
     - dolphin
     - splashing
     - circus
@@ -554,8 +557,8 @@
     - shearing
     - committee
     - take-away
-    - respondent
-    - maintenance
+    - <b>respondent</b>
+    - <b>maintenance</b>
     - maintain
     - insurance
     - approval
