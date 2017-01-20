@@ -6,12 +6,10 @@
  - many negative aspects of ...
  - the wealthy
  - influx of ...
- - has brought with it problems such as ...
  - foster
- - it remains such a potent symbol of western cultural denomination and moral decadency
+ - it remains such a potent symbol of western cultural denomination and moral decadence
  - even more disturbing
  - environmental degradation
- - one particular salient example of this 
  - similarly
  - has become heavily polluted 
  - in order to be sustainable
@@ -21,8 +19,20 @@
  - assume the role of breadwinner
  - Although they are by no means insurmountable, ...
  - In reality, of course, it is a vast oversimplification of the issue.
+ - one particular salient example of this
+ - the widespread prohibition of smoking <b>is unlikely in the short term</b>.
+ - has brought with it problems such as ...
+ - some disagreement as to whether ...
+ - free flow of information
+ - facilitate contact with loved ones in faraway places 
+ - the following day
+ - a vast amount of material
+ - vast sections of coral
+ - a great deal of
+ 
  
  - London Heathrow
+ - Dubai
  - benefits <-> drawbacks
  - loved ones
  - incredibly
@@ -30,14 +40,16 @@
  - asthma
  - beliefs
  - express/present my apology
- - territory, terrorism, tourism
+ - territory, terrorism, tourism, terrace, terrestrial
  - orgasm, organism
  - vice versa
  - presence, absence
  - cigarettes
- - liberty, labour
+ - liberty, labour, laboratory
  - dinosaurs
- - habitat
+ - souvenirs
+ - thesaurus
+ - habitat, habitation
  - imbalances
  - economic crops
  - education campaigns
@@ -47,8 +59,121 @@
  - species
  - fluctuate
  - opinion
- 
- 
- - a vast amount of material
- - vast sections of coral
- - a great deal of 
+ - vehicle
+ - mechanical, machine
+ - compensation
+ - complimentary
+ - to the contrary, in contrast
+ - in comparison, by comparison
+ - brochures
+ - a widely held perception
+ - undue, excessive, unreasonable, to excess
+ - resultant
+ - inattention
+ - unruly
+ - problematic
+ - virtually
+ - phenomenon, phenomenal
+ - symptomatic
+ - solitary
+ - incentives
+ - subsidies
+ - breadwinner, homemaker
+ - pastime
+ - public education campaigns
+ - financial
+ - constitute
+ - community
+ - committee
+ - simplification
+ - excitement
+ - disparity
+ - resemblance
+ - readily available
+ - facilities, facilitate
+ - appealing
+ - increasingly prone
+ - preserved
+ - delicate arrangement
+ - trivial, trilled
+ - survival
+ - extinction
+ - disrupt
+ - predator
+ - prey
+ - haunt
+ - plagues
+ - colleague, catalogue
+ - intrinsic
+ - pivotal
+ - no doubt (adv)
+ - violation
+ - invasion
+ - consistent, persistent, assistant, resistant, resemblance
+ - legitimate, legislation
+ - illicit
+ - substance abuse
+ - sustainable
+ - prohibitionist approach
+ - heroin
+ - marijuana
+ - cancer
+ - widespread
+ - fatal
+ - pro-smoking, non-smoker
+ - justified
+ - prohibiting
+ - seriousness
+ - ultimate
+ - controversial, contentious
+ - conservative, conventional
+ - generalisations
+ - stereotypes
+ - traits, characteristics
+ - innovation
+ - <b>strengths</b>
+ - occupation
+ - integration into
+ - behaviour, misbehaviour
+ - <b>possession</b> 
+ - <b>occasion</b>
+ - cohesion
+ - essential
+ - diversity
+ - undermine
+ - <b>homogeneous</b>
+ - blurred
+ - social norms, become the norm
+ - <b>contamination</b>
+ - prostitution
+ - alcoholism
+ - potent 
+ - denomination, denominator, numerator
+ - dictator
+ - decadence, decadency
+ - moral, ethical
+ - degradation
+ - snorkelers
+ - numerous
+ - complex, sophisticated
+ - detrimental to
+ - to excess
+ - incredibly
+ - <b>deliberately</b>, deliberately attempt to attract
+ - beacon, a beacon to 
+ - Ronald McDonald
+ - indisputable, irrefutable
+ - revolutionise
+ - offensive
+ - <b>occasionally</b>, <b>possession</b>
+ - facilitate
+ - pornography
+ - reliable
+ - entails
+ - enquiries (enquire), inquiries (inquire)
+ - sincerely
+ - intend
+ - law-abiding citizens
+ - rejection of
+ - application for 
+ - appreciate

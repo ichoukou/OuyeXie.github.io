@@ -19,8 +19,8 @@
         - use of corporal punishment
         - powerless
         - unruly
-        - unruly students
-        - the resultant misbehaviour and inattention
+        - <b>unruly students</b>
+        - <b>the resultant misbehaviour and inattention</b>
         - seriously undermine
         - learning process
         - on the part of 

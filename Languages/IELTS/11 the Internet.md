@@ -8,12 +8,12 @@
         - Yet, there remains some disagreement as to whether the overall impact of ... has been positive or negative.
         - While there are certain valid arguments to the contrary ...
         - <b>These benefits are twofold</b>
-        - It is a indisputable fact that
+        - It is an indisputable fact that
         - Equally importantly,
         - despite
         - nevertheless / nonetheless
         - I would contend
-        - <b>by way of conclusion, I once again reaffirm that</b>
+        - <b>by way of conclusion, I once again reaffirm my position that</b>
         - admittedly
         - recently, in recent times (PP)
     - vocabulary/lexis

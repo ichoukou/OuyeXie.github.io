@@ -31,6 +31,7 @@
         - interests and rights of society at large
         - entirely justified
         - would be entirely justified
+        - laws prohibiting smoking would be entirely justified
         - widespread prohibition
         - seriousness
         - ultimate goal

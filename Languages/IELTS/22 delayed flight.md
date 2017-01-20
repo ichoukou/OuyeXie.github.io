@@ -10,6 +10,7 @@
     - at ... airport
     - considerable inconvenience
     - due to commence work
+    - the following day
     - band 6, ... was entirely to blame for this ...
     - foul-up
     - at such short notice

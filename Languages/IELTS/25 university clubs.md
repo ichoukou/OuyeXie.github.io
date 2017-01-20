@@ -11,11 +11,13 @@
     - make some contacts before leaving
     - brochures
     - information on membership and associated fees
-    - provide to with contact details of
+    - provide me with contact details of
     - enquiries
     - inquiries
+    - enquire
     - inquire
     - areas of particular interest to me
+    - as they are areas of particular interest to me
     - Your assistance in this matter is greatly appreciated
     - be grateful for
     - I wanted to ... (this is in the exercises 3)

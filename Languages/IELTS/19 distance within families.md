@@ -44,7 +44,7 @@
         - financial constraints
         - interactive leisure activities
         - pastime
-        - public education campaigns
+        - through public education campaigns
         - in the community
         - in recent times
         - above mentioned

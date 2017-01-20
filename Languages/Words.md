@@ -41,7 +41,7 @@
 # Synonyms Thesaurus
 
  - testicles, penis, cock, pussy, virgin, vagina, asshole, butt, tits, boobs, bottom, girth, jerk, semen, sperm, molest, canoodle, screw, hump, pimp, escort, prostitute, castrate, condom, rubber
- - weeds, stoned, marijuana, opium, ice, heroin (vs heroine), cocaine, coke, poppy  
+ - weeds, stoned, marijuana, opium, ice, heroin (vs heroine), cocaine, coke, poppy, morphine
  - wealthy, affluent, over-loaded, up-market, opulent, rich, flush, flourish, moneyed, loaded, propertied, uptown, upscale, well-heeled
  - luxurious (luxury), extravagant, costly, deluxe, fancy, gorgeous, grand, posh, majestic, lavish
  - degradation, pollution, contamination
@@ -51,8 +51,9 @@
  - well-known, renowned, prestigious, prominent, notable, esteemed, distinguished, famed
  - destroy, disrupt, undermine, dispatch, vanish, eradicate, extinguish, eliminate, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
  - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser, jury (non), justify (v)
- - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction, discipline
- - illicit, illegal, 
+ - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction, discipline,
+ - illicit, illegal
+ - licit, legal, legitimate
  - prohibit, forbid, ban, constrain, block, inhibit, obstruct
  - dispatch, delegate, distribute
  - conservative, constant, conventional (vs controversial), inflexible, obsolete, deprecated
@@ -112,7 +113,8 @@
  - celebrity, socialite, lion
  - stood up, bail on, 
  - foster, cultivate
- 
+ - cohesion (cohesive), coherence (coherent)
+ - sickness, illness, ailment, disease
  
 # just words
 
@@ -125,4 +127,5 @@
  - redundancy
  - demure
  - ubiquitous 普遍存在的
+ - esteem
  

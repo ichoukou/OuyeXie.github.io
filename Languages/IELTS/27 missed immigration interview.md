@@ -10,7 +10,7 @@
     - attempted to contact
     - comfort my daughter
     - simply forgot
-    - I sincerely apologise for the inconvenience I am sure I caused interviews and others at your office.
+    - I sincerely apologise for the inconvenience I am sure I caused interviewers and others at your office.
     - I <b>was</b> wondering if it would be possible to ... <b>?</b>
     - arrange an appointment
     - for sometime during the next two weeks

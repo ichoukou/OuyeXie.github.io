@@ -364,6 +364,8 @@
     - intriguing
     - costumes
     - consult
+    - museum
+    - latitude, longitude
  - [雅思听力常用词汇](http://wenku.baidu.com/view/4dd7feee7cd184254a3535a5.html?from=search)
     - space out
     - seminar

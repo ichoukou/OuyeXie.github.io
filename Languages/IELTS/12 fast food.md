@@ -1,9 +1,9 @@
  - 133
     - grammar
         - <b>The past 50 years have seen a dramatic increase in the availability of fast food.</b>
-        - <b>In this essay, I intend to argue that ... </b>
+        - <b>however, in this essay, I intend to argue that ... </b>
         - <b>Two of the primary drawbacks associated with this trend are listed as follows.</b>
-        - it is a undeniable fact that
+        - it is an undeniable fact that
         - Moreover,
         - in other words
         - further and even more importantly, though, 
