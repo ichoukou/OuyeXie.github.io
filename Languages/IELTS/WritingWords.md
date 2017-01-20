@@ -26,6 +26,7 @@
  - free flow of information
  - facilitate contact with loved ones in faraway places 
  - the following day
+ - the measures outlined above would constitute a good first step
  - a vast amount of material
  - vast sections of coral
  - a great deal of
