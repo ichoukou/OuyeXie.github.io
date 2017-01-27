@@ -77,8 +77,44 @@
         - 0
  - 供给弹性
     - elasticity of supply
-    - NOT FINISHED (22/12/2016 prepare english)
-  
+    - perfectly inelastic (es = 0)
+    - approaching perfect elasticity (es = infinite)
+ - 弹性和奇特变化百分比
+ - 需求曲线作为边际效益曲线
+    - qualtity driving price
+    - marginal benefit
+ - 消费者剩余介绍
+    - consumer surplus
+ - 总消费者剩余作为面积
+    - total consumer surplus
+ - 生产者剩余
+    - opportunity cost
+    - most suitable resources
+    - producer surplus
+ - 租金控制和无谓损失
+    - marginal benefit
+    - marginal cost
+    - equilibrium qualtity
+    - rent control
+        - price ceiling
+    - total surplus
+    - deadweight loss
+ - 最低工资和价格下限
+    - labor market
+    - price floor
+    - over supply of labor
+    - frictions on the market
+ - 税收和无谓损失
+    - tax revenue
+ - 汉堡百分比征税
+    - consumption taxes
+ - 税收和完全无弹性需求
+    - supply + tax curve
+ - 税收和完全弹性需求
+    - almost perfectly elastic demand
+ - 边际效用
+    - 
+    
 # References 
  
  - http://open.163.com/movie/2011/11/C/P/M8LHSGLJP_M8LI5BDCP.html

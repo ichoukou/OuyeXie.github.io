@@ -1,0 +1,12 @@
+ - on the fence
+ - eyeballing
+ - divided up between
+ - institute rent control
+ - unfettered market
+ - unambiguously shrinks
+ - deadweight loss
+ - huge oversimplification
+ - a little bit nuance
+ - often times
+ - well-intention legislation
+ - bear the brunt of the tax

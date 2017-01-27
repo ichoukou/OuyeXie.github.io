@@ -51,7 +51,7 @@
  - well-known, renowned, prestigious, prominent, notable, esteemed, distinguished, famed
  - destroy, disrupt, undermine, dispatch, vanish, eradicate, extinguish, eliminate, impair, exterminate, ravage, smash, waste, trash, tear down, wipe out, damage, abort, break down 
  - counsellor, solicitor, lawyer, attorney [ə'tɜːnɪ], barrister, defender, jurist, arrister-at-law, legist, consultant, adviser, jury (non), justify (v)
- - legislation, law, regulation, constitution, order, ruling, warrant, requirement, restriction, discipline,
+ - legislation, law, regulation, constitution, mandate, order, ruling, warrant, requirement, restriction, discipline,
  - illicit, illegal
  - licit, legal, legitimate
  - prohibit, forbid, ban, constrain, block, inhibit, obstruct
@@ -102,7 +102,7 @@
  - modest, mediocre, medium, intermediate
  - preserve, protect, defend, conserve, save, secure, shelter
  - fat, greasy (grease), graisse
- - gratuity, tips
+ - gratuity, tips, vail
  - sadist, masochist
  - guilt, acquittal
  - pride, prejudice
@@ -130,3 +130,6 @@
  - ubiquitous 普遍存在的
  - esteem
  - legislation, litigation, plaintiff, defendant
+ - calculus 
+ - taxation
+ - insulin
