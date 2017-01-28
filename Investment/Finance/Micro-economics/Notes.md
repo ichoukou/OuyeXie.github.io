@@ -113,7 +113,42 @@
  - 税收和完全弹性需求
     - almost perfectly elastic demand
  - 边际效用
-    - 
+    - utility
+        - benefit, value
+    - marginal utility
+        - the utility I am getting from the next incremental chocolate bar or the next incremental lbs of fruit
+    - marginal benefit
+ - 每一美元边际效用相等
+ - 通过每一美元边际效用推导需求曲线
+ - 预算线
+    - budget line
+    - relative price of fruit
+    - divisible good
+    - attainable <-> efficient
+ - 预算线上的最优点
+    - indifference curve
+    - optimal allocation on budget line
+        - tangent
+ - 各类无差异曲线
+    － indifference curve
+        - inward bow-shaped curve (hyperbola)
+            - natural goods
+        - linear
+            - perfect substitute
+        - ployline
+            - perfect complements
+ - 经济利润和会计利润
+    - pretax profit
+        - accounting profit
+    - economic profit
+        - opportunity cost
+            - explicit opportunity cost
+            - implicit opportunity cost
+                - wages forgone
+ - 折旧和资本的机会成本
+    - depreciation
+    - opportunity cost of capital
+ - 固定、可变和边际成本
     
 # References 
  

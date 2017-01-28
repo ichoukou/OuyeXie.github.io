@@ -10,3 +10,18 @@
  - often times
  - well-intention legislation
  - bear the brunt of the tax
+ - fruit craving
+ - bang for the buck
+    - where could I get my bang for the buck
+    - how much bang would we get for each buck
+ - a toss-up
+ - prostitution mecca
+ - value for money
+ - stag party (stag do)
+ - behind-the-scenes 
+ - plough through
+ - curb crawling
+ - utterly ridiculous
+ - polarised opinions 
+ - across the board
+ - peg it to certain real good

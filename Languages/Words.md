@@ -40,7 +40,7 @@
  
 # Synonyms Thesaurus
 
- - testicles, penis, cock, pussy, virgin, vagina, asshole, butt, tits, boobs, bottom, girth, jerk, semen, sperm, molest, canoodle, screw, hump, pimp, escort, prostitute, castrate, condom, rubber
+ - erotic, testicles, penis, cock, pussy, virgin, vagina, asshole, butt, bum, tits, boobs, bottom, girth, jerk, semen, sperm, molest, canoodle, screw, hump, pimp, tout, punter (嫖客), escort, prostitute, castrate, condom, rubber, salacity, carnal (desire), brothels (walk-ups), stag parties (stag do), syphilis
  - weeds, stoned, marijuana, opium, ice, heroin (vs heroine), cocaine, coke, poppy, morphine
  - wealthy, affluent, over-loaded, up-market, opulent, rich, flush, flourish, moneyed, loaded, propertied, uptown, upscale, well-heeled
  - luxurious (luxury), extravagant, costly, deluxe, fancy, gorgeous, grand, posh, majestic, lavish
@@ -64,7 +64,7 @@
  - obstacles, obscure (v), hindrance, barrier, block, bump, clog, hamper, handicap, hardship, hitch, stumbling (adj), rub, obstruction, restriction, barricade, fence, hedge, palings
  - delicate, fragile
  - contractions,  abbreviation
- - difference, disparity, distinction, resemblance (vs)
+ - difference, disparity, distinction, resemblance (vs), differing (adj), discrepancy
  - appealing, tempting, attractive, intriguing, charming, lovable, delightful, dishy, pleasing
  - compensate, complement, compliment (complimentary ticket)
  - crucial, important, significant, critical, capital, vital, crisis, compelling, pivotal, fatal
@@ -115,6 +115,7 @@
  - foster, cultivate, constitute
  - cohesion (cohesive), coherence (coherent)
  - sickness, illness, ailment, disease
+ - decay, decrease, diminish, decline
  
 # just words
 
@@ -133,3 +134,14 @@
  - calculus 
  - taxation
  - insulin
+ - Brits
+ - webcam
+ - perky
+ - lucrative
+ - solicit <-> loiter
+ - prosecute
+ - nuisance
+ - backlash
+ - expenditure
+ - peg
+ 
