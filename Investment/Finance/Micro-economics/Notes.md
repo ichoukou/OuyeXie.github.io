@@ -163,8 +163,20 @@
  - 长期供给曲线和经济利润
     - near-time supply curve (short-time supply curve)
         - view as the marginal cost curve
-    - 
-    
+    - economic profit
+        - normal profit
+    - long-run supply curve
+        - horizontal line
+ - 完全竞争
+    - economic ideal
+    - perfect competition
+        - many players, identical product
+        - no barriers to entry
+        - no advantage for existing firms
+        - good price information
+    - price needed for 0 economic profit
+    - monopoly
+ - 垄断基础
     
     
     
