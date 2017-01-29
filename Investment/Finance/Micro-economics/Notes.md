@@ -149,6 +149,25 @@
     - depreciation
     - opportunity cost of capital
  - 固定、可变和边际成本
+    - fixed cost
+    - variable cost
+    - marginal cost (average)
+ - 平均成本和边际成本作为斜率的直观考虑
+    - slope
+ - 边际成本和平均总成本
+    - negotiating power
+ - 边际收入和边际成本
+    - marginal revenue
+ - 低于平均总成本的边际收入
+    - you want to produce as many units as possible so that you marginal cost is equal to you marginal revenue
+ - 长期供给曲线和经济利润
+    - near-time supply curve (short-time supply curve)
+        - view as the marginal cost curve
+    - 
+    
+    
+    
+    
     
 # References 
  
