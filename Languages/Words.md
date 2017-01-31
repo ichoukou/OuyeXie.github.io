@@ -116,6 +116,7 @@
  - cohesion (cohesive), coherence (coherent)
  - sickness, illness, ailment, disease
  - decay, decrease, diminish, decline
+ - propitious, promising, of good omen
  
 # just words
 
@@ -131,7 +132,7 @@
  - ubiquitous 普遍存在的
  - esteem
  - legislation, litigation, plaintiff, defendant
- - calculus 
+ - calculus algebra (algebraically)
  - taxation
  - insulin
  - Brits

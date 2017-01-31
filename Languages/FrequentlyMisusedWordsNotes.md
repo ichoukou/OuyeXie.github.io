@@ -1,0 +1,18 @@
+ - The Old Adage
+ - affect ignorance 
+    - adopt a pose or manner
+ - effect real change
+    - bring into existence
+ - Alternately means by turns
+ - a priori
+ - prima facie
+ - auspicious
+    - under the aegis of
+ - bated breath
+    - phraseme
+        - waiting with bated breath
+ - begging the question
+ - bellwether
+ - a breach of international law
+ - a breech birth
+ - to broach a new topic

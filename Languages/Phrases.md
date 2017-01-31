@@ -25,3 +25,6 @@
  - polarised opinions 
  - across the board
  - peg it to certain real good
+ - in the other spectrum (另一个例子)
+ - fine dining
+ - pair up

@@ -177,10 +177,46 @@
     - price needed for 0 economic profit
     - monopoly
  - 垄断基础
-    
-    
-    
-    
+    - monopoly
+        - one player
+        - huge barriers to entry
+        - ultimate advantage for existing firms
+ - 垄断收入和成本图像回顾
+    - monopoly
+        - downward sloping marginal revenue curve
+    - demand curve
+        - total revenue
+    - marginal demand curve
+        - marginal revenue
+    - marginal cost curve
+        - total economic (opportunity) cost
+    - maximum economic profit
+    - average total cost
+        - economic profit per unit
+        - total economic profit
+ - 垄断最优定价(第一部分)：总收入   
+    -  total revenue
+ - 垄断最优定价(第二部分)：边际收入
+    - marginal revenue
+ - 垄断最优定价(第三部分)：无谓损失
+    - maximum revenue
+    - maximum profit
+    - marginal cost curve(can be viewed as supply curve)
+    - deadweight loss
+ - 微积分证明：边际收入曲线斜率是需求曲线的2倍
+ - 寡头垄断和垄断竞争
+    - differentiation
+        - monopoly
+        - oligopoly
+        - monopolistic competitor
+            - highly differentiated
+        - perfect competitor
+ - 垄断竞争和经济利润
+    - total economic profit
+ - 寡头垄断、双头垄断、勾结、卡特尔
+        
+     
+     
 # References 
  
  - http://open.163.com/movie/2011/11/C/P/M8LHSGLJP_M8LI5BDCP.html
