@@ -28,3 +28,11 @@
  - in the other spectrum (另一个例子)
  - fine dining
  - pair up
+ - catch someone red-handed
+ - open and shut case
+ - think holistically
+ - have rocks in your head
+ - strict doesn't begin to describe it
+ - don't say such a thing
+ - so much for surprise
+ - collectively overgrazing

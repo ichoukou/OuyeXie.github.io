@@ -1,0 +1,83 @@
+# Notes
+
+ - 收入和支出的循环流动
+    - capital
+    - land
+    - labor
+    - entrepreneurship
+    - ==================
+    - food
+    - shelter
+    - ==================
+    - goods and services
+        - expenditure (revenue)
+    - factors of production
+        - income
+    - ==================
+    - gross domestic product 
+        - total expenditures by the household
+        - total income by the household
+        - total revenue by the firm
+ - GDP解析
+    - GDP
+        - household expenditures
+        - firm revenues
+        - firm expenses + profit
+        - household income
+        - household expenses
+    - the market value of ALL FINAL goods and services produced within a country in a given period
+        - market value
+        - all
+            - not include illegal things (activities)
+            - not include goods and services that are produced within the household and consumed within the household  
+        - final
+        - within a country
+            - borders
+            - <-> GNP (nationals)
+ - 最终品和中间品的GDP贡献
+ - 投资和消费
+    - everyday conventional context
+        - investment
+            - house
+            - bond
+            - education
+        - consumption
+            - use up (candy bar)
+    - economist context
+        - investment
+            - firms
+                - capital equipment
+                - inventory
+                - structures
+            - households
+                - new homes 
+        - consumption
+            - any spending on new final goods or services by households except for new homes
+ - 收入和支出角度考虑的GDP           
+    - expenditure view
+        - expenditure
+        - revenue
+    - income view
+        - income
+        - expenses + profit
+ - GDP组成
+    - Y
+        - firms
+        - households
+        - government
+        - foreign purchases
+            - exports
+        - subtract foreign products
+            - imports
+    - Y
+        - investments
+        - consumptions
+        - government spendings
+        - net exports (exports - imports)
+ - 记入GDP的例子
+    
+    
+    
+# References 
+ 
+ - http://open.163.com/special/Khan/macroeconomics.html

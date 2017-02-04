@@ -145,4 +145,7 @@
  - backlash
  - expenditure
  - peg
+ - bark
+ - benefactor
+ - pond
  

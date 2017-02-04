@@ -214,7 +214,63 @@
  - 垄断竞争和经济利润
     - total economic profit
  - 寡头垄断、双头垄断、勾结、卡特尔
-        
+    - oligopolies
+    - collusion (colluding)
+        - cartel
+            - OPEC
+    - duoply
+        - fiercely competitive
+            - Coke / Pepsi
+            - Boeing / Airbus
+            - Visa / Mastercard / Amex
+ - 囚徒困境和纳什均衡
+    - prisoners' delima
+    - payoff matrix
+    - Nash Equilibrium
+        - stable
+        - both people will pick something that is not optimal globally
+    - global optimal senario
+        - unstable state
+ - 纳什均衡详细介绍
+    - Nash Equilibrim (Game Theory) is stable state of a system that involvs several interacting participants in which no participant can gain by a change of strategy as long as all other participants remain unchanged.
+ - 卡特尔各方为何使诈
+ - 使诈者的博弈论
+    - game theoretic way
+    - Pareto optimal state
+    - Nash Equilibrium
+        - 0, 0
+ - 负外部性
+    - negative externality
+    - supplier plus society marginal cost
+ - 考虑外部性而进行的税收  
+    - ban
+    - quota
+    - tax
+ - 正外部性
+    - positive externality
+    - subsidy
+        - tax credit
+ - 公地悲剧
+    - the tragedy of the commons
+        - the common grazing land
+            - turn into private
+            - sell permits
+ - 价格歧视
+    - price discrimmination
+        - turn consumer surplus into economic profit
+ - 公司的边际产量收入曲线
+    - labor markets
+        - demand <- firms
+        - supply <- people
+    - marginal product of labor
+    - marginal product revenue
+        - the value of marginal product of labor
+        - marginal benefit curve (add up to demand curve)
+ - 已知MPR曲线、公司应该招多少人
+    - competitive buy in the labor market 
+    - monopsony
+        - one powerful buyer
+ - 需求曲线相加
      
      
 # References 
