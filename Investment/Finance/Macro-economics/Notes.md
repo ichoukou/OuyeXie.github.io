@@ -75,8 +75,88 @@
         - government spendings
         - net exports (exports - imports)
  - 记入GDP的例子
-    
-    
+ - 实际GDP和名义GDP 
+    - nominal GDP
+    - real GDP
+        - year 2's GDP in year 1's price
+ - GDP平减指数
+    - GDP deflator (relative to what base <-> 100)
+    - real GDP = nominal GDP / (GDP deflator / base)
+ - 通过平减指数计算实际GDP的例子
+ - 通胀简介
+    - inflation
+        - price inflation
+            - a general increase in the level of prices of goods and services
+            - supply shock
+                - oil crises (scarce)
+            - a little is good
+            - hyperinflation
+        - monetary inflation, increase in the money supply
+    - deflation
+        - scary thing
+    - CPI (consumer price index)
+        - CPI-U (urban consumers)
+ - 城镇CPI的一篮子商品
+    - basket of goods
+ - 通胀数据
+    - sequential change
+    - year by year change
+    - seasonally adjusted
+ - 良好经济中的适度通胀
+    - moderate level of inflation
+    - stagflation
+        - inflation within a bad economy
+ - 滞胀
+    - stagflation
+        - you have inflation at the same time as stagnation in the economy
+        - strange regulations
+        - supply shock
+            - oil embargo
+ - 实际和名义收益率
+    - real return 8/102 = 7.8%
+    - nominal return 10/100
+ - 用去年的美元计算实际收益率
+    - dollar return in last year's money 7.84/100 = 7.8%
+ - 名义和实际收益率同通胀之间的关系
+    - R = (N - I) / (1 + I)
+        - R real return rate
+        - N interest
+        - I inflation factor
+    - (1 + N) = (1 + R)(1 + I)
+ - 通缩
+    - deflation
+        - lowering of prices, or a general decrease in the level of the price for goods and services
+        - negative inflation
+        - Japan
+        - technology, hardware     
+ - 货币流通速度驱动价格变化
+    - a high velocity of the actual money
+    - increase in prices
+ - 货币供给增加时的通缩情形
+    - inflation is not JUST driven by the absolute quantity of the currency
+    - quantity * velocity is what really drives the level of price
+ - 通缩螺旋
+    - deflation spiral
+    - hoard money
+ - 恶性通胀
+    - hyperinflation
+    - hoard things
+ - 失业率简介
+    - labor force
+        - unemployed
+            - <b>lookED</b> for a job in the past 4 weeks
+            - jump out of labor force
+        - employed
+    - unemployment rate = unemployed / labor force
+ - 菲利普斯曲线
+    - Phillips
+        - relationship between inflation and unemployment
+            - high inflation low unemployment
+                - low unemployment, workers have more leverage, employers raise wages to attract/retain employees, increasing buying power, increasing demands, low unemployment 
+            - low inflation high unemployment
+    - excetions
+        - supply shock
+        - technological improvement
     
 # References 
  

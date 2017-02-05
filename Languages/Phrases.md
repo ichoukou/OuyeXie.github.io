@@ -36,3 +36,9 @@
  - don't say such a thing
  - so much for surprise
  - collectively overgrazing
+ - and the general consensus is, 
+ - crazy inflation spiral
+ - have a cushion
+ - monkey wrench (连锁反应)
+ - one-off thing
+ - a bonanza that I just happen to run into

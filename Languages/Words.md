@@ -115,8 +115,9 @@
  - foster, cultivate, constitute
  - cohesion (cohesive), coherence (coherent)
  - sickness, illness, ailment, disease
- - decay, decrease, diminish, decline
+ - decay, decrease, diminish, decline, plummet
  - propitious, promising, of good omen
+ - optimistic <-> pessimistic
  
 # just words
 
