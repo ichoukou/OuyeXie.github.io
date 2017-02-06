@@ -42,3 +42,9 @@
  - monkey wrench (连锁反应)
  - one-off thing
  - a bonanza that I just happen to run into
+ - ... more than anyone (has difficulties) ...
+ - chain mail (get chain mailed around)
+ - with a huge grain of salt (有保留的)
+ - plausible justification
+ - take a little bit of foot off the pedal
+ - allow for

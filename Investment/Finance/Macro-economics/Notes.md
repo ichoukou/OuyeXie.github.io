@@ -157,7 +157,84 @@
     - excetions
         - supply shock
         - technological improvement
-    
+ - 利率作为货币租金
+    - money 
+    - interest rate
+        - the price of money
+        - interest is rent on money
+ - 货币供需影响利率
+    - Federal Reserve
+        - wants lower interest rate? print money and lend it out
+            - by buying government bonds 
+        - consumer savings go down, interest rate goes up
+        - government wants to borrow money, interest rate goes up
+ - 商业周期
+    - business cycle
+        - expand (expansion)
+        - recede (recession)
+        - hard to predict
+    - aggregate demand
+    - aggregate supply
+    - human emotions
+        - human tendencies to extrapolate the recent past
+        - human's greed, risk-averse, fear
+    - behavioral economics, behavioral finance
+    - stock market cycle 
+    - optimism, excitement, thrill, euphoria, anxiety, denial, fear, desperation, panic, capitulation, despondency, depression, hope, relief, optimism
+ - 社会总需求
+    - aggregate demand, aggregate supply
+    - difference between 
+        - aggregate demand and traditional demand in a micro-economic context
+        - aggregate supply in a macro-economic context and just regular supply in a micro-economic context
+    - downward slopping aggregate demand curve
+        - the wealth effect
+            - ceteris paribus
+            - I feel wealthier <-> I cannot buy anything any more
+        - savings and interest rate effect
+            - ceteris paribus
+            - price goes down, savings goes up, supply of money to be lent goes up, the price of borrowing money goes down (interest rates go down), stimulates investment, cause economy to expand
+            - vise versa
+        - foreign exchange effect
+            - prices goes down, interest rates go down, people convert out of the currency (dollars -> pound sterling), the dollar will weaken relative to other currencies, American goods and services are going to be cheaper to people say in England, America will export more, the GDP will expand
+ - 社会总需求平移
+    - Y = C + I + G + NX
+        - tax cut (Consumption)
+        - (Investment)
+        - incur more debt to spend more money (Government)
+        - (Net Exports)
+ - 长期社会总供给
+    - aggregate supply in the long-run
+    - in the long-run, real GDP is not dependent on prices
+        - snapshot at a given time
+        - ceteris paribus
+        - shift the things to the right/left
+ - 短期社会总供给
+    - aggregate supply in the long-run
+        - natural real output of economy
+        - theoretical level of output of economy (maximum output)
+    - aggregate supply in the short-run  
+        - upward slopping aggregate supply curve
+            - mis-perception theory
+                - micro-phenomenon, law of supply kicks in, produce more, wrong, go back
+            - sticky-wages theory (sticky-cost, sticky-price)
+                - contracts
+                - agreements
+                - menu cost
+ - 约翰逊政府下的需求拉动型通胀
+    - turn back round economy
+        - spark demand
+            - put more money into the market
+    - only inflation left in the long-run
+ - 实际GDP驱动价格
+    - real gdp is driving price
+    - capacity of a firm
+        - utilization rate
+ - 成本推动型通胀
+    - demand pulled inflation (last session)
+# Questions
+
+ - In note "货币供需影响利率", interest rate is affected by supply and demand of money. The question is how Federal Reserve or Central Bank can set or adjust interest rate as it wants?
+  
 # References 
  
  - http://open.163.com/special/Khan/macroeconomics.html

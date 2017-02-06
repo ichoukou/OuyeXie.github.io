@@ -115,9 +115,11 @@
  - foster, cultivate, constitute
  - cohesion (cohesive), coherence (coherent)
  - sickness, illness, ailment, disease
- - decay, decrease, diminish, decline, plummet
+ - decay, decrease, diminish, decline, plummet, recede, shrink, contract
  - propitious, promising, of good omen
- - optimistic <-> pessimistic
+ - optimistic (bullish) <-> pessimistic (bearish)
+ - layout (失业), layoff (裁员)
+ - ice-cream, slushies, slurpees, sorbets
  
 # just words
 
@@ -149,4 +151,4 @@
  - bark
  - benefactor
  - pond
- 
+ - optimism, excitement, thrill, euphoria (欣快), anxiety, denial, fear, desperation, panic, capitulation (投降), despondency (泄气), depression, hope, relief, optimism
