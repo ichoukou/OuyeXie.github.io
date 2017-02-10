@@ -48,3 +48,9 @@
  - plausible justification
  - take a little bit of foot off the pedal
  - allow for
+ - quasi-independent
+ - ratchet up 
+ - distillation columns
+ - combustion automobiles
+ - be wary of (Keynesian Economics)
+ - both Republican and Democratic administration

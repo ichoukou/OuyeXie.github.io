@@ -230,11 +230,99 @@
     - capacity of a firm
         - utilization rate
  - 成本推动型通胀
-    - demand pulled inflation (last session)
+    - demand pull inflation (last session)
+        - aggregate demand curve shifts to the right
+    - cost push inflation 
+        - short-run aggregate supply curve shifts to the left
+            - stagflation (inflation and stagnation)
+                - Arab oil embargo
+                - oil crisis
+ - 货币和财政政策
+    - monetary policy
+        - deciding how much money they print
+            - Central Bank
+            - Federal Reserve
+                - quasi-independent
+                - buying debt (lending money)
+    - fiscal policy
+        - governments directly demanding goods and services from the economy
+            - two sources of money they can spend
+                - tax revenue
+                - access to debt market (borrow money, ratcheting up debt) (treasury bills)
+ - 财政政策之税收杠杆
+    - lowering taxes, taking on more debt
+    - Y = C + I + G + NX
+ - 汽油价格分解
+    - relationship between petrol/oil and gas/gasoline price  
+    - oil 
+        - more volatile
+        - oil rig (offshore, land based)
+        - refinery
+    - gas
+        - price
+            - crude oil
+            - crack spread
+            - transportation
+            - tax
+            - station cost (credit card fees)
+ - 短期石油价格
+    - long-run
+    - short-run
+        - 6 months or a year
+        - market psychology
+ - 凯恩斯经济学
+    - Keynesian Thinking
+        - during the great depression
+        - in the very short-run, prices are sticky
+        - you need to have a stimulus on the demand side not just the supply side
+ - 凯恩斯主义的风险
+    - the government's deficit is going to go relative to the economy
+    - in long-run, you might have underinvestment, and in the classical sense, you are be able to move your potential to the right
+ - 部分准备金制度概览
+    - Central Bank
+        - lend money directly to banks
+        - go out into open market to buy securities (bonds) -> into private banks
+            - government debt
+    - Fractional Reserve Lending
+        - on-demand checking account
+ - 部分准备金制度的缺点
+    - unstable
+        - a run on banks
+        - FDIC
+            - Federal Deposit Insurance Corporation
+    - bad incentives
+        - non-market discipline
+    - lending translates into more money in the money supply
+ - 全储备银行制度
+    - Full Reserve Banking
+        - time deposit
+    - READING: A Program for Monetary Reform
+ - 货币供给：M0、M1、M2
+    - MB / M0
+        - Base Mondy
+    - M1 
+        - all of the currency that is in people's pockets + all of the check writing capabilities
+        - M0 + checkable deposits - Reserves
+    - M2
+        - M1 + things can be easily converted into M1
+            - savings accounts
+            - money-market accounts
+            - small dollar-value time-deposit CD accounts
+    - M3
+        - being away from true money, but still fairly liquid
+            - other types of assets
+ - 部分准备金银行简单账目1
+    - the asset and the liability side of their account 
+    - IOU ???
+    - Reserve for 10% of checkable deposits
+ - 边际消费倾向和乘数效应
+            
 # Questions
 
  - In note "货币供需影响利率", interest rate is affected by supply and demand of money. The question is how Federal Reserve or Central Bank can set or adjust interest rate as it wants?
-  
+    - they do not decide, they just affect it by lending more or less money out, which will then set the new equilibrium interest rate due the shift of supply curve. (check 货币和财政政策)
+ - IOU???
+ 
 # References 
  
  - http://open.163.com/special/Khan/macroeconomics.html
