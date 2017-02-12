@@ -61,3 +61,11 @@
  - deviate from 
  - dividends from a stock
  - an apartment complex
+ - net out
+ - make a pretty good buck
+ - jump on the bandwagon
+ - have a direct peg (保持稳定)
+    - have a nice peg
+ - speculative bubbles
+ - merry band of (愉快和谐) 
+    － this merry band of financial theory professors

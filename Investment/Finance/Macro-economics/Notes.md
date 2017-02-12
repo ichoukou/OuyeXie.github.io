@@ -385,37 +385,47 @@
  - 国际收支差额之经常账户
     - balance of payments
     - current account
-        - inflow
+        - inflows
             - exports
             - income receipts
-        - outflow
+        - outflows
             - imports
             - income payments
             - net transfers
         - current account deficit / current account surplus
     - capital account
  - 国际收支差额之资本账户
-    - capital account
-        
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+    - capital account (the change in assets)
+        - inflows
+            - change in foreign-owned assets in the US (including financial derivatives)
+                - someone outside the US buying assets in the US from someone that is not foreign
+                - for the most part private ownership
+            - change in foreign reserves
+                - official government ownership
+        - outflows
+            - change in US assets abroad
+            - change in US reserves
+                - US Federal Reserve alone
+    - statistical discrepancy
+        - should be 0 theoretically
+ - 为什么经常帐户和资本账户正好相抵
+    - net change in official foreign reserves
+ - 外汇储备积累
+    - do not want volatile, appreciating relative to other currencies -> print more currency -> end up with foreign currency reserves
+ - 货币投机性冲击
+    - trade out their foreign currency reserves
+    - run out of foreign currency reserves (depleting)
+    - currency speculator
+        - go into country B, borrow B's currency and convert into A's currency
+            - B's currency stays stable
+                - minimal to no loss
+            - central bank out of reserves -> float -> B's currency would devalue
+                - make a pretty good buck
+ - 投机性冲击导致的泰国金融危机
+    - speculative attack -> banking crisis
+ - 使用外汇储备稳定汇率
+ - 泰国银行业危机的数学解释
+
 # Questions
 
  - In note "货币供需影响利率", interest rate is affected by supply and demand of money. The question is how Federal Reserve or Central Bank can set or adjust interest rate as it wants?
@@ -423,6 +433,8 @@
     - check "IS-LM模型的LM部分", "IS-LM模型的LM部分"
  - IOU???
     - I owe you???
+ - Canada's foreign reserves?
+    - http://wenku.baidu.com/link?url=97jqPLtvfutde9XdyW-Wb7pAlKQWhZJuKBH-lj0GZ5ul97RTjFPK5YZgpMKzNPk8f2MLLYypuAnFgM0ofN3rcIGvJDtPHtnraUwtO5lwtZe
  
 # References 
  
