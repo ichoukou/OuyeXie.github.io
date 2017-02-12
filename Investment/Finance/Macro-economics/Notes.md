@@ -316,12 +316,113 @@
     - IOU ???
     - Reserve for 10% of checkable deposits
  - 边际消费倾向和乘数效应
-            
+    － marginal propensity to consume (MPC)
+        - 60% <-> 0.6
+    - multiplier effect
+        - multiplier
+            - if you spend one extra dollar in this economy, given people's marginal propensity to consume, how much will that increase total output
+ - MPC和乘数效应的数学解释
+ - 消费函数基础
+    - consumption function
+        - C = base consumption + MPC * disposable income
+            - mpc is changeable
+    - income = taxes + disposable income
+ - 线性消费函数公式
+    - linear consumption function
+        - Keynesian Cross
+        - C = c0 + c1 * disposable income
+            - c0: base consumption / autonomous consumption
+            - c1: MPC
+            - induced consumption: c1 * disposable income
+        - C = c0 + c1 * (Y - T)
+            = c0 + c1Y - c1T
+            = c1Y + c0 - c1T
+            - Y (GDP) = aggregate income = aggregate expenditure = aggregate output
+            - T: taxes
+ - 税收依赖于收入的消费函数
+    - C = c0 + c1 * (Y - T)
+        = c0 + c1 * (Y - t * Y)
+        = (c1 - c1t) Y + c0
+        = c1(1 - t)Y +c0
+        - t: tax rate
+        - disposable income: (1 - t)Y
+ - 凯恩斯交叉
+    - Keynesian Cross
+        - inventories built up
+        - digging into inventories
+    - Ep = C + Ip + G + NX
+ - 平移总计划支出曲线   
+    － Ep = C(Y-T) + Ip + G + NX
+          = c0 + c1 * (Y - T) + Ip + G + NX
+          = c1Y + c0 - c1T + Ip + G + NX
+          = c1Y + b
+        - C(Y-T) is a function: C(Y-T) =  c0 + c1 * (Y - T)
+        - b = c0 - c1T + Ip + G + NX
+    - G1 = G0 + deltaG
+ - 凯恩斯交叉和乘数
+    - Y = c1Y + b
+    - Y = b * (1 / 1 - c1)
+        - multiplier
+    - 1 - c1: marginal propensity to save
+    - deltaY = deltaB * (1 / 1 - c1)
+ - 投资和实际利率
+    - IS curve in IS-LM model
+ - 凯恩斯交叉联系到IS曲线
+    - Ep = C(Y-T) + Ip + G + NX
+         = C(Y-T) + Ip(r) + G + NX
+    - deltaY = deltaIp * (1 / 1 - c1)
+    - IS curve
+        - investment / savings
+    - r -> Ip -> P
+ - IS曲线的可贷资金解释
+    - investment = savings
+    - Savings = I = Y - C(Y-T) - G
+    - P -> S -> r
+ - IS-LM模型的LM部分
+    - LM curve
+        - liquidity preference / money supply
+            - real money: M0 / CPI
+ - 国际收支差额之经常账户
+    - balance of payments
+    - current account
+        - inflow
+            - exports
+            - income receipts
+        - outflow
+            - imports
+            - income payments
+            - net transfers
+        - current account deficit / current account surplus
+    - capital account
+ - 国际收支差额之资本账户
+    - capital account
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 # Questions
 
  - In note "货币供需影响利率", interest rate is affected by supply and demand of money. The question is how Federal Reserve or Central Bank can set or adjust interest rate as it wants?
     - they do not decide, they just affect it by lending more or less money out, which will then set the new equilibrium interest rate due the shift of supply curve. (check 货币和财政政策)
+    - check "IS-LM模型的LM部分", "IS-LM模型的LM部分"
  - IOU???
+    - I owe you???
  
 # References 
  

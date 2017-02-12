@@ -54,3 +54,10 @@
  - combustion automobiles
  - be wary of (Keynesian Economics)
  - both Republican and Democratic administration
+ - so on and so forth
+ - to make things tangible
+ - ring a bell from your early algebra days
+ - save more for a rainy day
+ - deviate from 
+ - dividends from a stock
+ - an apartment complex
