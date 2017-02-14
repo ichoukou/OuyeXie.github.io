@@ -435,7 +435,11 @@
     - I owe you???
  - Canada's foreign reserves?
     - http://wenku.baidu.com/link?url=97jqPLtvfutde9XdyW-Wb7pAlKQWhZJuKBH-lj0GZ5ul97RTjFPK5YZgpMKzNPk8f2MLLYypuAnFgM0ofN3rcIGvJDtPHtnraUwtO5lwtZe
- 
+ - In "利率作为货币租金", interest is the price of money, how about the negative interest rate in Japan?
+    - [日本央行宣布负利率，这事太大，太意外](http://news.xinhuanet.com/world/2016-01/29/c_128684720.htm)
+        - 除日本央行外，多家欧洲央行同样执行负利率政策。2014年6月，欧洲中央银行成为第一家宣布负利率的主要央行。
+    - it is the rate saving into banks, instead of the conventional interest rate, which is implied when lending money out
+
 # References 
  
  - http://open.163.com/special/Khan/macroeconomics.html
