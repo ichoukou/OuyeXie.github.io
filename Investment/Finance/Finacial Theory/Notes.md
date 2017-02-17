@@ -58,7 +58,7 @@
     - Marx's view
         - rate of interest is determined by the rate of profit
     - Financial Equilibrium
-        - can to transferred into a general equilibrium
+        - can to transferred (reduced) into a general (economic) equilibrium
     - Stock 
         - forecast what it is going to produce
         - the anticipated dividend of stock alpha = the output since that is the end of the world of stock alpha in period n
@@ -81,14 +81,55 @@
     - Fundamental Theorem of Asset Pricing
         - the price of a stock today = Pi of alpha / q1 = D of alpha in period 2 / (1+r)
  - 费雪利息不耐理论
- 
- 
- 
- 
- 
- 
- 
- 
+    - Fisher
+        - no-arbitrage
+            - looking through the veil
+    - Fisher Equation
+        - 1+r = (1+i)/(1+g)
+            - Pi of alpha = (D of alpha in period 2) * q1 / (1+r)
+            - Pi of alpha = (D of alpha in period 2) * q2 / (1+i)
+    - owners of firms should maximise the stock market value of their firms
+    - impatience theory of interest
+        - poor imagination
+        - mortality (死亡)
+    - discount factor
+    - more impatience => higher r
+    - optimistic about future => higher r
+    - transfer wealth from poor to rich => lower r
+ - 《威尼斯商人》、抵押品；现值和金融学词汇
+    - Fisher
+        - Interest is crystallized impatience
+    - Shakespeare
+    - Present value price
+    - Doubling rule
+        - n = 0.69/log(1+i) = 0.69/i
+    - Coupon bond (息票债券), coupon rate, annual coupon
+    - Perpetuity (永续年金) has present value: C/i
+    - Annuity (年金)
+        - gives you a fixed amount for a fixed number of years
+        - social security annuity
+    - Mortgage
+        - a fixed rate mortgage is defined by a principle, a mortgage coupon rate and a maturity
+ - 基业长青机构该如何年度预算；收益率
+    - private equity investment
+    - Inflation has an unfortunate impact on mortgages quoted in nominal dollars that it makes the repayments happen earlier
+    - yield (yield to maturity) (到期收益率)
+        - internal rate of return 
+    - current yield (当期收益)
+    - a premium bond
+        - the price is bigger than the face
+    - a discount bond
+        - the price is less than the face
+    - a par bond 
+        - the price equals the face
+ - 收益率曲线套利
+    - yeild curve
+    
+    
+    
+    
+    
+    
 # References 
 
  - http://open.163.com/special/opencourse/financialtheory.html
