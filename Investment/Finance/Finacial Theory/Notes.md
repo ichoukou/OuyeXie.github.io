@@ -123,13 +123,50 @@
     - a par bond 
         - the price equals the face
  - 收益率曲线套利
-    - yeild curve
-    
-    
-    
-    
-    
-    
+    - yield curve
+    - the principle of duality
+    - the forward interest rate
+    - TIPS
+        - Treasury Inflation Protected Securities
+ - 动态现值，套息交易，抵押贷款
+    - marking to market
+    - carry trade
+        - you buy long bond and sell short the short (lower maturity) bond
+    - backward induction
+        - remaining balance
+        - amortizing mortgage
+    - social security
+ - 社会保障 
+    - prefunded system -> pay as you go system
+    - connection is a concave distribution, which redistribute the income
+ - 经济世代交叠模型
+    - overlapping generations model
+        - Ponzi scheme
+    - OGM with land
+ - 人口统计和资产定价
+    - it is better to live in a small generation
+    - uncertainty
+    - gigantic outliers
+        - fat tails
+ - 量化乐观与悲观的不确定性
+    - diversification
+        - reduce variance
+        - variance = sigma*sigma/n
+    - thin tail
+    - conditional expectation
+    - iterated expectations
+    - Impatience by Fisher is discount
+    - hyperbolic discounting <-> exponential discounting
+    - Ho-lee Interest rate model
+ - 不确定性和理性预期假设
+
+
+
+
+
+
+
+
 # References 
 
  - http://open.163.com/special/opencourse/financialtheory.html

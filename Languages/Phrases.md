@@ -69,3 +69,6 @@
  - speculative bubbles
  - merry band of (愉快和谐) 
     － this merry band of financial theory professors
+ - soon thereafter 
+ - get out of whack
+ 
