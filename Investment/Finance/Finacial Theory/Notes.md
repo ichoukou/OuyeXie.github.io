@@ -159,6 +159,59 @@
     - hyperbolic discounting <-> exponential discounting
     - Ho-lee Interest rate model
  - 不确定性和理性预期假设
+    - the price today is a good indicator of the price tomorrow
+    - momentum
+    - rational expectation
+    - everybody's discounting rate is getting smaller and smaller over time
+    - chance of default
+    - credit default swap (CDS) (信用违约互换)
+ - 逆向归纳法和最优停时
+    - default spread
+    - the value of option
+ - 可赎回债券和抵押贷款提前支付期权
+    - callable bonds
+        - payment + remaining balance
+        - balloon payment = principle payment
+    - mortgage option
+    - amortizing fixed interest rate
+        - 63:10
+        - should be better if the economic interest rate goes up
+ - 抵押贷款提前支付建模和抵押贷款估值
+    - prepay
+        - exercising the option
+        - pro-verse selection
+    - =================================
+    - cost of prepaying
+    - alterness
+    - smart factor
+    - =================================
+    - negative convexity
+    - hedging
+        - eliminate the luck
+ - 抵押贷款市场的历史
+    - non-amortizing mortgage -> amortizing mortgage -> mortgage pass-throughs -> CMOs -> mortgage hedge funds
+        - mortgage pass-throughs
+            - securitization
+        - CMO
+            - collateralized mortgage obligation (抵押贷款担保凭证)
+                - floater
+                - inverse floater
+                - residual piece or derivative
+            - prepay
+                - interest rate
+                - burn out
+        - hedge funds (living the leverage cycle)
+            - hedge
+            - leverage
+            - no regulation
+            - high fees
+    - sub prime mortgage market   
+        - corporate debt
+        - rating agencies
+    - credit default swaps (CDS)
+    - Collateralized Debt Obligation (CDO) 
+        - CDO squared
+ - 动态对冲
 
 
 
@@ -167,6 +220,13 @@
 
 
 
+
+
+# Questions
+
+ - in "可赎回债券和抵押贷款提前支付期权", how about it is a floating rate?
+ - discounting collateral
+    - extra margin to put (抵押贷款市场的历史 47:42)
 # References 
 
  - http://open.163.com/special/opencourse/financialtheory.html

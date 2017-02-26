@@ -71,4 +71,7 @@
     － this merry band of financial theory professors
  - soon thereafter 
  - get out of whack
- 
+ - high water mark
+ - what a turkey
+ - what's the upshot?
+ - blindingly obvious
