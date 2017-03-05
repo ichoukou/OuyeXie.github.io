@@ -212,14 +212,26 @@
     - Collateralized Debt Obligation (CDO) 
         - CDO squared
  - 动态对冲
-
-
-
-
-
-
-
-
+    - hedging created a pure arbitrage
+    - dynamic hedging
+    - interest rate derivatives
+        - swap
+    - 59:00
+        - clear
+ - 动态对冲和平均寿命
+    - average life
+        - sensitivity to interest rate
+ - 风险规避和资本资产定价模型
+    - capital asset pricing model
+    - St. Petersburg Paradox
+        - people look at the expected utility of payoffs instead of expected payoffs
+            - utility function is concave
+    - state contingent
+    - diversifying -> hedging
+    - mutual fund theorem
+        - everybody diversifies by holding the aggregate economy, all stocks in the same proportion, plus money in bank.
+ - 共同基金定理和协方差定价定理
+    
 
 
 # Questions
@@ -227,6 +239,12 @@
  - in "可赎回债券和抵押贷款提前支付期权", how about it is a floating rate?
  - discounting collateral
     - extra margin to put (抵押贷款市场的历史 47:42)
+    - [如果房产贬值，贷款者需要补足抵押给银行](http://finance.qq.com/a/20160520/025888.htm)
+    - [房价暴跌后，我还按时还月供，银行也能收走我的房子吗？](https://www.zhihu.com/question/45491521?sort=created)
+        - 如果房价下跌，导致抵押物（房屋）的价值低于债权（贷款）金额，按照中国现行法律(2016)：从法律规定层面，银行（作为抵押权人）有权要求补足抵押物的情形，仅限于因为抵押人（买房人）过错导致抵押物价值降低的情况。因市场原因导致的房价下跌不属于这一情况，因此从法律规定层面，银行没有权利作此要求。（注：在这一部分，物权法实际上取代了担保法的相关规定。详见物权法193）从合同层面，如果合同约定了银行要求补足担保的权利，由于这一约定并未违反法律强制性规定，因此约定有效，抵押人（买房人）应当根据约定补足担保，否则银行有权行使抵押权。按照物权法规定，银行行使抵押权（即所谓“收房”）的方式包括折价，以及申请司法拍卖、变卖。其中，折价方式的前提是银行和买房人届时就此达成一致，而后者无需买房人另外同意。须注意的是，如果双方事先（即行使抵押权条件尚未成就时）约定以房屋直接折价的，这一条款属于流押条款，无效。
+ - why 50:50 interest rate bet in "动态对冲"? how about the FR want to raise or lower the rate?
+ 
+           
 # References 
 
  - http://open.163.com/special/opencourse/financialtheory.html
