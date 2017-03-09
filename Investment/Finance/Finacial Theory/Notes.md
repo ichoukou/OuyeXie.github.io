@@ -231,8 +231,10 @@
     - mutual fund theorem
         - everybody diversifies by holding the aggregate economy, all stocks in the same proportion, plus money in bank.
  - 共同基金定理和协方差定价定理
-    
-
+ - 风险、回报和社会保障
+ - 杠杆周期和次贷危机 
+ - 杠杆周期和金融危机
+ 
 
 # Questions
 
