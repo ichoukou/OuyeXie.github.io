@@ -1,0 +1,2 @@
+ - [red dot on my calendar](https://discussions.apple.com/thread/6727275?start=0&tstart=0)
+    - Try Calendar>View>Show Notifications, and decide what you want to do with each one.   
