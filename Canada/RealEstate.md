@@ -21,7 +21,21 @@
     
  - [Apartment vs Condo vs Flat vs Loft: What’s the Difference](https://www.needtosellmyhousefast.com/apartment-vs-condo-vs-flat-vs-loft/)
  - [新移民买公寓看风景：矮公寓vs.高公寓 风景分几档](http://www.canadameet.cn/House/view-2599-1/)
-
+ - [套路深落差大 持工签免海外买家税须符合这些条件](http://www.bcbay.com/news/2017/03/19/483251.html)
+    - 必须是BC省省提名获得者
+        - 外籍工人通过BC省提名计划（PNP）来到加拿大并在大温地区买房，并作为自住之用（Principal Residence），就可以不需要缴15%外国买家税，而在去年8月2日之后购房并已经缴税的PNP提名者可申请税金退款。
+    - 一年内成为加拿大永久居民或加拿大公民
+        - 在购买自住住宅（Principal Residence）后一年内成为加拿大永久居民（PR）或加拿大公民者，也可向BC省府递交申请返还15%外国买家税退款。
+    - 须在住宅内连续住满一年
+        - 然而，若是想要符合退税条件，买下房子后必须在92天内搬入新家，而且在该住宅内连续居住一整年，并且超过18个月将过期作废。
+    - 需自行填表申请豁免
+        - 获得了省提名的买家可以从2017年3月17日起申请豁免，但必须自己提出申请并填好表格上交才可。申请表格可在BC省政府网站上查阅。
+            - 申请表格网址：chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www2.gov.bc.ca/assets/gov/taxes/property-taxes/property-transfer-tax/forms-publications/fin-532-additional-property-transfer-tax-return.pdf
+    - 仅自用住房可获豁免
+        - 申请豁免15%海外买家税的住房必须为自住用房。换句话来说，只有第一套房产可以免去15%税，买第二套房（非自住用房）时还是要缴纳。
+ - [都被骗了！有工签还是要交15%的海外买家税！除非有这东西在手](http://wribao.php230.com/category/news/1502651.html)
+    - 拥有加拿大工签并获得BC省省提名的海外买家可以免缴15%的海外买家税
+ 
 # Uncompleted
 
  - [2014年购买的楼花在加拿大要交15%新税吗](https://zhidao.baidu.com/question/371987152547067924.html)
