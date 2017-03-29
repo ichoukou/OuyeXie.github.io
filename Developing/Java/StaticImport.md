@@ -1,0 +1,3 @@
+ - [Static import](https://en.wikipedia.org/wiki/Static_import)
+    - import static java.lang.Math.PI;
+    - import static java.lang.Math.pow;

@@ -3,3 +3,4 @@
  - [How to perform a sum of an int[] array](http://stackoverflow.com/questions/9813573/how-to-perform-a-sum-of-an-int-array)
     - int sum = IntStream.of(a).sum();
     - int sum = IntStream.of(a).parallel().sum();
+ - [Java 8 - Optional Class](https://www.tutorialspoint.com/java8/java8_optional_class.htm)
