@@ -1,6 +1,6 @@
 - Checkstyle
         - configurable set of automated rules to enforce syntax and style at build time
-        - WDT build logic has a working example: https://code.amazon.com/packages/WDTAntBuildLogic/trees/mainline
+        - WDT build logic has a working example: https://code.888.com/packages/WDTAntBuildLogic/trees/mainline
        
 - Immutable state
         - "final" modifier in Java
