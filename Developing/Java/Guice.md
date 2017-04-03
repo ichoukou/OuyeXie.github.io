@@ -19,8 +19,10 @@
          - Method and field injection can be used to initialize an existing instance. You can use the Injector.injectMembers API
          - Static members will not be injected at instance-injection time. This API is not recommended for general use because it suffers many of the same problems as static factories: it's clumsy to test, it makes dependencies opaque, and it relies on global state.
     - Best Practices
- 
- 
+         - Minimize mutability
+            - Method injection is most useful when you need to initialize an instance that is not constructed by Guice. Extensions like AssistedInject and Multibinder use method injection to initialize bound objects.
+            - Field injection has the most compact syntax, so it shows up frequently on slides and in examples. It is neither encapsulated nor testable. Never inject final fields; the JVM doesn't guarantee that the injected value will be visible to all threads.
+                - !!!It is neither encapsulated nor testable. Never inject final fields!!!
  
  
  
@@ -78,3 +80,4 @@
  - [Google Guice](https://w.888.com/bin/view/PeopleExperience/SDECurriculum/Guice/)
     -  Amazon has recently (2016) moved towards having Guice as the default framework for new projects.
         - https://code.888.com/packages/GuiceJunitTestRunner/trees/GuiceJunitTestRunner-1.1
+    - Once you have all your classes wired together, there will be a top-level Class where they need to be Injected into. In Coral, these are the Activities, in ARest, these are Resources. Activities/Resources are not managed by Guice, as they must be instantiated in response to API calls. There are multiple ways to wire up the Guice-managed instances of Dependencies to these top-level Classes
