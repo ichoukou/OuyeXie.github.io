@@ -1,0 +1,1 @@
+ - [Intellij IDEA checkstyle](http://stackoverflow.com/questions/26955766/intellij-idea-checkstyle)
