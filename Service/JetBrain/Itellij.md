@@ -1,1 +1,2 @@
  - [Intellij IDEA checkstyle](http://stackoverflow.com/questions/26955766/intellij-idea-checkstyle)
+    - can use CheckStyle-IDEA plug-in
