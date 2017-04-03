@@ -23,14 +23,32 @@
             - Method injection is most useful when you need to initialize an instance that is not constructed by Guice. Extensions like AssistedInject and Multibinder use method injection to initialize bound objects.
             - Field injection has the most compact syntax, so it shows up frequently on slides and in examples. It is neither encapsulated nor testable. Never inject final fields; the JVM doesn't guarantee that the injected value will be visible to all threads.
                 - !!!It is neither encapsulated nor testable. Never inject final fields!!!
- 
- 
- 
- 
- 
- 
- 
- 
+         - InjectOnlyDirectDependencies
+         - Avoid cyclic dependencies
+            - Eliminate the cycle (Recommended)
+            - Break the cycle with a Provider
+            - Each of those objects needs the other object. Here, you can use AssistedInject to get around it
+                - [AssistedInject](https://github.com/google/guice/wiki/AssistedInject)
+         - Avoid static state
+         - Use @Nullable
+         - Modules should be fast and side-effect free
+            - Doing heavy-lifting in a module poses problems:
+                - Modules start up, but they don't shut down. Should you open a database connection in your module, 
+                you won't have any hook to close it.
+                - Modules should be tested. If a module opens a database as a course of execution, it becomes 
+                difficult to write unit tests for it.
+                - Modules can be overridden.
+            - Rather than doing work in the module itself, define an interface that can do the work at the proper level of abstraction.
+         - Be careful about I/O in Providers
+            - Provider doesn't declare checked exceptions.
+            - Provider doesn't support a timeout.
+            - Provider doesn't define a retry-strategy.
+         - Avoid conditional logic in modules
+            - minimize the number of distinct configurations in your applications
+         - Keep constructors as hidden as possible
+            - As a correction, simply limit the visibility of both your implementation classes, and their constructors. Typically package private is preferred for both
+    - Servlets (Guice Servlet Extensions)
+
 # Comparison
  - [Spring vs. Guice: The Clash of the IOC Containers](http://www.theserverside.com/feature/Spring-vs-Guice-The-Clash-of-the-IOC-Containers)
     - Although Spring provides many benefits, it was created in a pre-Java-5 world. The Guice framework takes DI to the next level, leveraging the full power of Java typing, especially annotations and generics.
