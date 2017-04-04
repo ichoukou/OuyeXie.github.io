@@ -99,3 +99,9 @@
     -  Amazon has recently (2016) moved towards having Guice as the default framework for new projects.
         - https://code.888.com/packages/GuiceJunitTestRunner/trees/GuiceJunitTestRunner-1.1
     - Once you have all your classes wired together, there will be a top-level Class where they need to be Injected into. In Coral, these are the Activities, in ARest, these are Resources. Activities/Resources are not managed by Guice, as they must be instantiated in response to API calls. There are multiple ways to wire up the Guice-managed instances of Dependencies to these top-level Classes
+    
+# Reference
+
+ - [Dependency Injection](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
+ - [Dependency Injection (Google Guide)](https://w.amazon.com/bin/view/ELM/Google-Guice/)
+ - [依赖注入（Dependency Injection）模式](http://blog.csdn.net/yqj2065/article/details/8510074)
